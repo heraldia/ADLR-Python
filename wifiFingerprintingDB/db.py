@@ -10,7 +10,7 @@ if _DEBUG == True:
     import pdb
     pdb.set_trace()
     """
-for dbFilename in glob.glob(r'./c:/Users/Phil/workspace/wifiFingerprinting/db/db/*.db'):
+for dbFilename in glob.glob(r'c:/Users/Phil/workspace/wifiFingerprinting/db/db/*.db'):
     conn = sqlite3.connect(dbFilename)
     conn.isolation_level = None
     cu = conn.cursor()
