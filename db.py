@@ -3,7 +3,6 @@ import sqlite3
 
 DBCOUNT = 16
 
-
 def select(sequenceNum, action):
     # sequenceNum = 8
     db1_1 = "c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors"
@@ -15,14 +14,33 @@ def select(sequenceNum, action):
     cu = conn.cursor()
     #cu.execute("select * from sensorspackage where id < 10")
 
-    sql1 = "select * from sensorspackage"
+    #sql1 = "select * from sensorspackage"
+    sql1_1 = "select "
+    sql1_2_1 = "*"
+    sql1_2_2 = "id,mLight,mOrientationSensor,mOrientation,mStepCounter,\
+            mBooleanStepDetecorm,"
+    sql1_2_2_1 = "activity"
+    sql1_2_2_2 = "action"
+    sql1_2_3 = ",soundFile,time "
+
+    if sequenceNum <= 13:
+        sql1_2_2_f = sql1_2_2_1
+    else:
+        sql1_2_2_f = sql1_2_2_2
+
+    sql1_2 = sql1_2_2 + sql1_2_2_f + sql1_2_3
+    sql1_3 = "from sensorspackage"
+    sql1 = sql1_1 + sql1_2_1 + sql1_3
+
     #sql2 = " where action like '%s'" % action
     #sql2 = " where action like \"%s\"" % action
+
     if sequenceNum <= 13:
         sql2 = " where activity like '%s'" % action
     else:
         sql2 = " where action like '%s'" % action
     sqlF = sql1 + sql2
+
     cu.execute(sqlF)
     res = cu.fetchall()
     # print 'row:', cu.rowcount
@@ -55,6 +73,9 @@ def indoorAction():
         for sequenceNum in range(1, DBCOUNT+1):
             print '-----------%s'%sequenceNum+'-----------'
             select(sequenceNum, action)
+
+def deleteGPSinfo():
+
 
 if __name__=="__main__":
     print("main")
