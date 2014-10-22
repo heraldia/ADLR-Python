@@ -1,6 +1,6 @@
-python db.py > result.txt
-python delDuplicates.py 
-python delOutdoor.py 
-python rep1ace.py 
+!python db.py > result.txt
+!python delDuplicates.py 
+!python delOutdoor.py 
+!python rep1ace.py 
 
 

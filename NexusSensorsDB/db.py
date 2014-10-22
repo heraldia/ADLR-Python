@@ -3,7 +3,7 @@ import sqlite3
 
 DBCOUNT = 16
 
-def select(sequenceNum, action):
+def select(sequenceNum, action='NULL'):
     # sequenceNum = 8
     db1_1 = "c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors"
     db1_2 = "%s" % sequenceNum
@@ -39,9 +39,14 @@ def select(sequenceNum, action):
         sql2 = " where activity like '%s'" % action
     else:
         sql2 = " where action like '%s'" % action
-    sqlF = sql1 + sql2
 
-    cu.execute(sqla)
+    if action == 'NULL':
+        sqlF = sql1
+    else:
+        sqlF = sql1 + sql2
+
+
+    cu.execute(sqlF)
     res = cu.fetchall()
     # print 'row:', cu.rowcount
     for line in res:
@@ -79,10 +84,10 @@ def indoorAction():
 def allAction():
     for sequenceNum in range(1, DBCOUNT+1):
         print '-----------%s'%sequenceNum+'-----------'
-        select(sequenceNum, 'null')
+        select(sequenceNum)
 
-    if __name__=="__main__":
-        #print("main")
-        #sequenceNum = 1
-        #indoorAction()
-        allAction()
+if __name__=="__main__":
+    #print("main")
+    #sequenceNum = 1
+    #indoorAction()
+    allAction()

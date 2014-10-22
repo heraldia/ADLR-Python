@@ -2,10 +2,25 @@
 # step1
 # python test0.py > cmd.dat
 
-with open("wifiFingerPrinting.txt", "r+") as f:
-    d = f.read()
-    d.replace("Working on PC at home", "1")
-    f.write(d)
+
+import re
+
+f1=open('result3.txt','r').read()
+f1 = re.sub('Working on PC at home','1',f1)
+f1 = re.sub('GettingUp','1',f1)
+f1 = re.sub('Sleep','1',f1)
+f1 = re.sub('Bathroom','2',f1)
+f1 = re.sub('Shower','2',f1)
+f1 = re.sub('Walking indoor','3',f1)
+f1 = re.sub('Breakfast','3',f1)
+f1 = re.sub('Lunch','3',f1)
+f1 = re.sub('Dinner','3',f1)
+f1 = re.sub('Cooking','4',f1)
+f1 = re.sub('Washing','4',f1)
+f1 = re.sub('Exercise','5',f1)
+f_w=open('wifiFingerPrinting1.txt','wb')
+f_w.write(f1)
+f_w.close()
 
 """
  'Bedroom': '1'
