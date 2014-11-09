@@ -1,0 +1,12 @@
+{'count': 1, 'orientation': 'NW', 'activity': 'Bathroom'}
+Bathroom NW 1
+None
+{'count': 1, 'orientation': 'N', 'activity': 'Bathroom'}
+Bathroom N 1
+None
+{'count': 1, 'orientation': 'S', 'activity': 'Bathroom'}
+Bathroom S 1
+None
+{'count': 1, 'orientation': 'NE', 'activity': 'Bathroom'}
+Bathroom NE 1
+None
