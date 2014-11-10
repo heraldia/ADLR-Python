@@ -33,7 +33,7 @@ def selectP(action):
         conn.isolation_level = None
         cu = conn.cursor()
         sql2_select = "select  "
-        sql2_attributes = "mOrientationSensor, mOrientation, "
+        sql2_attributes = ", mOrientation , mOrientationSensor "
         sql2_attribuActivity = "activity"
         sql2_attribuAction = "action"
         sql2_time = ", time "
@@ -42,10 +42,10 @@ def selectP(action):
         sql2_like2 = " where action like '%s'" % action
 
         if int(sequenceNum) <= 13:
-            sqlF = sql2_select + sql2_attributes + sql2_attribuActivity + \
+            sqlF = sql2_select + sql2_attribuActivity + sql2_attributes + \
             sql2_time + sql2_from + sql2_like1
         else:
-            sqlF = sql2_select + sql2_attributes + sql2_attribuAction + \
+            sqlF = sql2_select + sql2_attribuAction + sql2_attributes + \
             sql2_time + sql2_from + sql2_like2
 
         #sqlF = "select * from sensorspackage"
@@ -67,6 +67,7 @@ def selectP(action):
                 #type(f),
                 '''
                 print f,
+                print '\t',
             print
             #print line
 
@@ -74,10 +75,11 @@ def selectP(action):
 
 
 def selectPP(activities):
-    for activity in activitySet :
+    for activity in activities :
         selectP(activity)
 
 if __name__=="__main__":
-    activitySet = ['Bathroom',]
-    selectPP(activitySet)
-    #os.system('copy result.txt activityList.txt')
+    indoorActivitySet = set(['Bathroom','Cooking','Washing in bathroom'
+        ,'Dinner','Breakfast','Midnight snack','Eating','Working on PC at home',\
+                'Washing dishes'])
+    selectPP(indoorActivitySet)

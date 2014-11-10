@@ -13,14 +13,29 @@ class ActivityCountSet:
         self.orientation = activityOrientationPair.orientation
         self.count = 0
 
+    def inforName(self):
+        print self.activity
+
+    def inform(self):
+        #print self.__dict__
+        print self.orientation,
+        print ":",
+        print self.count
+        return 0
+
     def infor(self):
-        print self.__dict__
+        #print self.__dict__
         print self.activity,  self.orientation, self.count
-        print '-'*30
+        #print '-'*30
+        return 0
 
     def isEqual(self, activityPair ):
         return self.activity == activityPair.activity and\
                 self.orientation == activityPair.orientation
+
+    def isEqual(self, activity, orie ):
+        return self.activity == activity and\
+                self.orientation == orie
 
     def increment(self):
         #if self.activityOrientationPair
@@ -47,6 +62,9 @@ if __name__=="__main__":
     #bathRoomN = ["Bathroom","N"]
     activitySet = set(["Bathroom"])
     orientationSet = set(['N','NW','NE'])
+    tempTuple = ['Bathroom','N']
+    tempTuple1 = ['Bathroom','S']
+    tempTuple2 = ['Bathroom','NE']
     orientationSet.add('S')
     #print orientationSet
     '''
@@ -55,22 +73,26 @@ if __name__=="__main__":
     activitiesOrientationPair.infor()
     #activityCountSet = ActivityCountSet("Bathroom","N")
     '''
-    objSet = set()
-    actiObjSet = set()
+    objSetActiOriePairNames  = set()
+    #actiObjSet = set()
 
     for activity in activitySet:
         for orientation in orientationSet:
-            #actiOriePairNameStr = str(activity)+str(orientation)
-            #actiOriePairNameObj = "act"+str(activity)+str(orientation)
             actiOriePairNameObj = ActivitiesOrientationPair(activity,orientation)
-            actiObjSet.add(actiOriePairNameObj)
+            #actiObjSet.add(actiOriePairNameObj)
 
             actiOriePairName = ActivityCountSet(actiOriePairNameObj)
-            objSet.add(actiOriePairName)
+            objSetActiOriePairNames .add(actiOriePairName)
             #print "+"
 
-    for obj in objSet :
-        for tuiple in actiObjSet:
-            if obj.isEqual(tuiple):
-                obj. increment()
-        print obj.infor()
+    for obj in objSetActiOriePairNames :
+        if obj.isEqual(tempTuple[0],tempTuple[1]):
+            obj. increment()
+        if obj.isEqual(tempTuple1[0],tempTuple1[1]):
+            obj. increment()
+        if obj.isEqual(tempTuple2[0],tempTuple2[1]):
+            obj. increment()
+        if obj.isEqual(tempTuple[0],tempTuple[1]):
+            obj. increment()
+        #obj.inforName()
+        obj.infor()
