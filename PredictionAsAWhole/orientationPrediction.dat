@@ -1,0 +1,41 @@
+0	Bathroom SW 18
+1	Bathroom W 75
+2	Bathroom NW 11
+--------------------
+0	Breakfast N 14
+1	Breakfast NE 5
+2	Breakfast NW 18
+--------------------
+0	Chopping SW 8
+1	Chopping W 2
+--------------------
+0	Cooking SE 117
+1	Cooking S 45
+2	Cooking SW 139
+--------------------
+0	Dinner N 104
+1	Dinner NE 8
+2	Dinner NW 37
+--------------------
+0	Eating NW 5
+--------------------
+0	Lunch N 98
+1	Lunch NE 8
+2	Lunch NW 45
+--------------------
+0	Midnight snack N 23
+1	Midnight snack NE 3
+2	Midnight snack NW 42
+--------------------
+0	Washing dishes SW 60
+1	Washing dishes W 91
+2	Washing dishes NW 24
+--------------------
+0	Washing in bathroom SW 42
+1	Washing in bathroom W 92
+2	Washing in bathroom NW 12
+--------------------
+0	Working on PC at home NE 125
+1	Working on PC at home E 173
+2	Working on PC at home SE 179
+--------------------
