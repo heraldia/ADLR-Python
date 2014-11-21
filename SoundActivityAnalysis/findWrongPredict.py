@@ -166,6 +166,7 @@ def predictErrorRate():
     # generateReport(activity_set)
     totalSmpCounter = 0
     totalErrorCounter = 0
+    totalNoneCounter = 0
     filename = 'Report_count.dat'
     f1 = file(filename, 'r')
     fo = file('Report_rate.dat','w')
@@ -174,36 +175,52 @@ def predictErrorRate():
         #print line
         sStr = line.split('\t')
         activityName = sStr[0][:-4].lstrip()
-        print activityName
+        #print activityName
         activityNameFilter = activityName.replace(' ','')
         number = int(sStr[1].lstrip())
-        print number
+        #print number
         if activityNameFilter.isalpha():
             subSmpCounter = 0
             subErrorCounter = 0
+            subNoneCounter = 0
             totalSmpCounter += number
             subSmpCounter = number
             activityDict[activityName] = 0
             continue
-        else:
+        elif 'diff' in activityName:
             totalErrorCounter += number
             subErrorCounter = number
+        elif 'None' in activityName:
+            totalNoneCounter += number
+            subNoneCounter = number
+            print number
+        else:
+            pass
 
         if subSmpCounter > 0 :
             subErrorRate = subErrorCounter / float(subSmpCounter) * 100
             activityDict[activityName] = subErrorRate
+            subNoneRate = subNoneCounter / float(subSmpCounter) * 100
         else:
             activityDict[activityName] = 0
 
         fo.write('%s ---------\n'%activityName)
         fo.write("Sample number is %d\n"%subSmpCounter)
-        fo.write("Error number is %d\n"%subErrorCounter)
-        fo.write("Error rate is %f %%\n"%subErrorRate)
+        if 'diff' in activityName:
+            fo.write("Error number is %d\n"%subErrorCounter)
+            fo.write("Error rate is %f %%\n"%subErrorRate)
+        elif 'None' in activityName:
+            fo.write("None number is %d\n"%subNoneCounter)
+            fo.write("None rate is %f %%\n"%subNoneRate)
+        else:
+            pass
+
         #fo.write("None number is %d\n"%subNoneCounter)
         #fo.write("None rate is %f %%\n"%subNoneRate)
 
     if totalSmpCounter >0 :
         totalErrorRate = totalErrorCounter / float(totalSmpCounter) * 100
+        totalNoneRate = totalNoneCounter / float(totalSmpCounter) * 100
         #print totalErrorCounter
         #print totalSmpCounter
         #print totalErrorRate
@@ -214,8 +231,8 @@ def predictErrorRate():
     fo.write("Total sample number is %d\n"%totalSmpCounter)
     fo.write("Total error number is %d\n"%totalErrorCounter)
     fo.write("Total error rate is %f %%\n"%totalErrorRate)
-    #fo.write("Total None number is %d\n"%totalNoneCounter)
-    #fo.write("Total None rate is %f %%\n"%totalNoneRate)
+    fo.write("Total None number is %d\n"%totalNoneCounter)
+    fo.write("Total None rate is %f %%\n"%totalNoneRate)
     fo.close()
     f1.close()
 
@@ -234,6 +251,5 @@ if __name__=="__main__":
     generateReport(activity_set)
 
     predictErrorRate()
-
 
 
