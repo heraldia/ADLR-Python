@@ -1,14 +1,13 @@
 activitySet-------------
 Bathroom,0
-Eating,1
-Midnightsnack,2
-Cooking,3
-Cookingchopping,4
-Lunch,5
-Dinner,6
-Washinginbathroom,7
-Washingdishes,8
-Breakfast,9
+Midnightsnack,1
+Cooking,2
+Cookingchopping,3
+Lunch,4
+Dinner,5
+Washinginbathroom,6
+Washingdishes,7
+Breakfast,8
 
 soundSet-------------
 bathroom,0

@@ -1,0 +1,55 @@
+/*  
+sqlite export to csv
+put action column to the first.
+sav as text (MS-DOS)
+backup cmd.dat to cmd4.dat
+*   */
+0.
+python db.py > wifiFingerPrinting.txt
+
+1_1.
+python test0.py > cmd.dat
+python test4.py > cmd.dat
+
+/*  
+1_2.
+python test1.py > cmd.dat
+python test2.py > cmd1.dat
+*   */
+
+
+2.
+vi cmd.dat
+:r cmd2.dat // merge with existing data.
+vi cmd.dat :sort :wq
+
+python  test3.py > cmd2.dat  
+python fileDistribute.py
+
+
+--- --- ---
+upload test.dat and train.dat to
+\\\Secure FTP\pyrit\nfs4Exports\grad\yunfei\svmMulticlass\
+rm -r wifi/model & rm -r wifi/*.file & rm -r wifi/predictions
+./svm_multiclass_learn -c 5000 wifi/train.dat wifi/model >wifi/out_train.file &
+./svm_multiclass_classify wifi/test.dat wifi/model wifi/predictions >wifi/out_classify.file &
+
+./svm_multiclass_learn -c 5000 wifi/test.dat wifi/model >wifi/out_train.file &
+./svm_multiclass_classify wifi/train.dat wifi/model wifi/predictions >wifi/out_classify.file &
+
+jobs
+nohup ./svm_multiclass_learn -c 5000 audio/combine_train.dat audio/model >train_out.file &
+
+
+
+
+-------------to just retrieve wifiFingerPrinting.db records-----------
+0.
+python db.py > wifiFingerPrinting.txt
+
+1_1.
+python test1_1.py > train.dat
+g:\class\Semester5\research\ADLRecorder\code\python\wifiFingerprintingDB\train.dat
+
+g:\class\Semester5\research\ADLRecorder\code\python\NexusWifiDB\test.dat
+

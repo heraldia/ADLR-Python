@@ -1,0 +1,155 @@
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bus.mp3 already fingerprinted, continuing...
+seed/keyboard.mp3 already fingerprinted, continuing...
+seed/music and eating.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+8421
+----------------------------17---------
+20141005_235716 	 None 	  Cooking 
+20141006_070743 	 None 	  Bus 
+20141006_070812 	 bus 	  Bus
+20141006_093822 	 cooking2 	  Walking outside
+20141006_103303 	 keyboard 	  Eating
+20141006_103345 	 keyboard 	  Lunch
+20141006_103740 	 keyboard 	  Lunch         None
+20141006_110010 	 bathroom 	  Lunch
+20141006_110357 	 bus 	  Lunch
+20141006_114026 	 cooking2 	  Lunch
+20141006_143447 	 cooking 	  Dinner
+20141006_144006 	 music and eating 	  Music
+20141006_144320 	 bathroom 	  Music
+20141006_144517 	 music and eating 	  Music
+20141006_144616 	 bathroom 	  Music
+20141006_144722 	 music and eating 	  Music
+20141006_145042 	 bathroom 	  Music
+20141006_145120 	 bathroom 	  Bus
+20141006_145315 	 cooking2 	  Music
+20141007_065910 	 bus 	  Walking outside
+20141007_070613 	 bus 	  Walking outside
+20141007_070800 	 None 	  Bus 
+20141007_071256 	 cooking2 	  Bus
+20141007_071344 	 cooking 	  Bus
+20141007_071409 	 cooking 	  Bus
+20141007_071518 	 keyboard 	  Walking outside
+20141007_081649 	 cooking 	  Breakfast
+20141007_081916 	 cooking2 	  Breakfast
+20141007_113755 	 bathroom 	  Music
+20141007_163832 	 cooking2 	  Walking outside
+20141007_172048 	 music and eating 	  Music
+20141007_195310 	 cooking2 	  Working on PC at home
+20141007_200459 	 None 	  Bathroom 
+20141007_200559 	 None 	  Bathroom 
+20141007_200620 	 keyboard 	  Bathroom
+20141008_071019 	 bus 	  Bus
+20141008_142212 	 washing 	  Washing in bathroom
+20141008_143531 	 cooking 	  Washing in bathroom
+20141008_155032 	 bathroom 	  Cooking
+20141008_155104 	 cooking2 	  Cooking
+20141009_070927 	 bathroom 	  Bus
+20141009_120952 	 None 	  Bus 
+20141009_133739 	 None 	  Bus 
+20141009_142139 	 washing 	  Bus
+20141010_063655 	 bathroom 	  Walking outside
+20141010_152358 	 keyboard 	  Bus
+20141011_193435 	 bathroom 	  Music
+20141012_102743 	 cooking2 	  Cooking
+20141012_102822 	 bathroom 	  Cooking
+20141012_103053 	 bathroom 	  Cooking
+20141012_103451 	 cooking2 	  Cooking
+20141012_104028 	 None 	  Breakfast 
+20141012_104316 	 bathroom 	  Cooking
+20141012_104353 	 bus 	  Cooking
+20141012_104637 	 keyboard 	  Breakfast
+20141012_104929 	 cooking 	  Breakfast
+20141012_112555 	 None 	  Working on PC at home 
+20141012_112717 	 None 	  Working on PC at home 
+20141012_112840 	 music and eating 	  Working on PC at home
+20141012_113410 	 None 	  Working on PC at home 
+20141012_113957 	 None 	  Working on PC at home 
+20141012_114034 	 None 	  Working on PC at home 
+20141012_114452 	 keyboard 	  Working on PC at home
+20141012_114745 	 None 	  Working on PC at home 
+20141012_115502 	 cooking2 	  Working on PC at home
+20141012_120011 	 None 	  Working on PC at home 
+20141012_120708 	 bus 	  Working on PC at home
+20141012_120734 	 cooking 	  Working on PC at home
+20141012_120829 	 keyboard 	  Working on PC at home
+20141012_135258 	 cooking 	  Cooking
+20141012_135347 	 keyboard 	  Cooking
+20141012_200327 	 None 	  Working on PC at home 
+20141012_200505 	 None 	  Bathroom 
+20141012_200600 	 music and eating 	  Cooking
+20141012_235637 	 bathroom 	  Bathroom
+20141013_132032 	 washing 	  Working on PC at home
+20141013_222241 	 bathroom 	  Working on PC at home
+20141013_234641 	 bathroom 	  Bathroom
+20141013_234746 	 keyboard 	  Bathroom
+20141014_000121 	 keyboard 	  Cooking
+20141014_070827 	 washing 	  Bus
+20141014_120304 	 cooking2 	  Cooking
+20141014_120551 	 cooking2 	  Cooking
+20141014_120659 	 washing 	  Cooking       Cooking
+20141014_122004 	 keyboard 	  Lunch
+20141014_122030 	 bathroom 	  Lunch
+20141014_125146 	 cooking2 	  Washing dishes
+20141014_141917 	 None 	  Bus 
+20141014_174157 	 keyboard 	  Bus
+20141014_193141 	 None 	  Working on PC at home 
+20141014_211318 	 None 	  Working on PC at home 
+20141014_213702 	 keyboard 	  Cooking
+20141014_230032 	 bus 	  Working on PC at home
+20141015_070612 	 washing 	  Walking outside
+20141015_071034 	 cooking 	  Bus
+20141015_121615 	 bathroom 	  Lunch
+20141015_125519 	 washing 	  Walking outside
+20141015_185044 	 washing 	  Walking outside
+20141015_203104 	 bus 	  Dinner
+20141015_204307 	 music and eating 	  Working on PC at home
+20141016_070752 	 None 	  Bus 
+20141016_112315 	 cooking 	  Working on PC at home
+20141017_113357 	 bathroom 	  Bathroom
+20141017_113422 	 cooking2 	  Bathroom
+20141017_113446 	 cooking2 	  Bathroom
+20141017_114206 	 cooking 	  Cooking
+20141017_114322 	 cooking2 	  Cooking
+20141017_130454 	 music and eating 	  Bus
+20141017_131012 	 keyboard 	  Bus
+20141017_182715 	 keyboard 	  Bus
+20141017_185424 	 cooking2 	  Cooking
+20141017_185538 	 music and eating 	  Washing dishes
+20141017_193848 	 cooking2 	  Washing dishes
+20141018_085504 	 cooking2 	  Cooking
+20141018_085550 	 None 	  Cooking 
+20141018_090702 	 bathroom 	  Washing dishes
+20141018_094034 	 bus 	  Working on PC at home
+20141018_141654 	 bathroom 	  Walking outside
+20141018_185108 	 bus 	  Walking outside
+20141018_192914 	 washing 	  Washing dishes
+20141018_194637 	 music and eating 	  Dinner
+20141018_195253 	 music and eating 	  Dinner
+20141018_195323 	 keyboard 	  Dinner
+20141018_201632 	 cooking2 	  Washing dishes
+20141019_110604 	 bathroom 	  Working on PC at home
+20141019_121404 	 cooking 	  Working on PC at home
+20141019_132245 	 cooking 	  Cooking
+20141019_132322 	 bus 	  Washing dishes
+20141019_134438 	 bathroom 	  Lunch
+20141019_161556 	 bathroom 	  Working on PC at home
+20141019_183703 	 cooking2 	  Cooking
+20141019_183918 	 cooking2 	  Cooking
+20141019_195218 	 None 	  Working on PC at home 
+20141019_210734 	 washing 	  Bathroom
+20141019_220711 	 washing 	  Working on PC at home
+20141020_070951 	 None 	  Bus 
+20141020_112403 	 keyboard 	  Bus
+20141020_112524 	 washing 	  Bus
+20141020_115844 	 bus 	  Walking outside
+20141020_115951 	 bus 	  Waiting for a bus
+20141020_122807 	 cooking 	  Cooking
+20141020_122837 	 bus 	  Cooking
+20141020_123703 	 music and eating 	  Lunch
+20141020_123750 	 cooking2 	  Lunch
+20141020_131323 	 None 	  Bus 
+20141020_131354 	 bathroom 	  Bus

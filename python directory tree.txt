@@ -1,0 +1,484 @@
+Folder PATH listing for volume Resource
+Volume serial number is 00000025 E8D7:CDD4
+G:.
+©¦  main.py
+©¦  Readme
+©¦  tree.txt
+©¦  
+©À©¤.ropeproject
+©¦      config.py
+©¦      globalnames
+©¦      history
+©¦      objectdb
+©¦      
+©À©¤dejavu
+©¦  ©¦  comp.py
+©¦  ©¦  cscope.files
+©¦  ©¦  dbRefresh.py
+©¦  ©¦  dbSongs.py
+©¦  ©¦  dejavu.cnf.SAMPLE
+©¦  ©¦  example.py
+©¦  ©¦  main.py
+©¦  ©¦  result
+©¦  ©¦  run_tests.py
+©¦  ©¦  sh command
+©¦  ©¦  singlePrediction.py
+©¦  ©¦  songList.txt
+©¦  ©¦  tags
+©¦  ©¦  
+©¦  ©À©¤.ropeproject
+©¦  ©¦      config.py
+©¦  ©¦      globalnames
+©¦  ©¦      history
+©¦  ©¦      objectdb
+©¦  ©¦      
+©¦  ©À©¤dejavu
+©¦  ©¦  ©¦  cscope.files
+©¦  ©¦  ©¦  cscope.out
+©¦  ©¦  ©¦  database.py
+©¦  ©¦  ©¦  database.pyc
+©¦  ©¦  ©¦  database_sql.py
+©¦  ©¦  ©¦  database_sql.pyc
+©¦  ©¦  ©¦  decoder.py
+©¦  ©¦  ©¦  decoder.pyc
+©¦  ©¦  ©¦  fingerprint.py
+©¦  ©¦  ©¦  fingerprint.pyc
+©¦  ©¦  ©¦  recognize.py
+©¦  ©¦  ©¦  recognize.pyc
+©¦  ©¦  ©¦  tags
+©¦  ©¦  ©¦  testing.py
+©¦  ©¦  ©¦  testing.pyc
+©¦  ©¦  ©¦  __init__.py
+©¦  ©¦  ©¦  __init__.pyc
+©¦  ©¦  ©¦  
+©¦  ©¦  ©¸©¤.ropeproject
+©¦  ©¦          config.py
+©¦  ©¦          globalnames
+©¦  ©¦          history
+©¦  ©¦          objectdb
+©¦  ©¦          
+©¦  ©¸©¤trash
+©¦          result1.txt
+©¦          
+©À©¤NexusSensorsDB
+©¦  ©¦  db.py
+©¦  ©¦  globConstant.py
+©¦  ©¦  nexussensors7.db
+©¦  ©¦  result.txt
+©¦  ©¦  
+©¦  ©¸©¤.ropeproject
+©¦          config.py
+©¦          globalnames
+©¦          history
+©¦          objectdb
+©¦          
+©À©¤Orientation
+©¦  ©¦  activityCountSet.py
+©¦  ©¦  activityCountSet.pyc
+©¦  ©¦  activityList.txt
+©¦  ©¦  Bathroom.dat
+©¦  ©¦  Bathroom_angle.dat
+©¦  ©¦  Bathroom_angle_analy.dat
+©¦  ©¦  Breakfast.dat
+©¦  ©¦  Breakfast_angle.dat
+©¦  ©¦  Breakfast_angle_analy.dat
+©¦  ©¦  Chopping.dat
+©¦  ©¦  Chopping_angle.dat
+©¦  ©¦  Chopping_angle_analy.dat
+©¦  ©¦  Cooking.dat
+©¦  ©¦  Cooking_angle.dat
+©¦  ©¦  Cooking_angle_analy.dat
+©¦  ©¦  db.py
+©¦  ©¦  delDuplicates.py
+©¦  ©¦  Dinner.dat
+©¦  ©¦  Dinner_angle.dat
+©¦  ©¦  Dinner_angle_analy.dat
+©¦  ©¦  freAnaly.py
+©¦  ©¦  freAnaly.pyc
+©¦  ©¦  generateDatFile.py
+©¦  ©¦  globP.py
+©¦  ©¦  globP.pyc
+©¦  ©¦  Lunch.dat
+©¦  ©¦  Lunch_angle.dat
+©¦  ©¦  Lunch_angle_analy.dat
+©¦  ©¦  main.py
+©¦  ©¦  Midnight snack.dat
+©¦  ©¦  Midnight snack_angle.dat
+©¦  ©¦  Midnight snack_angle_analy.dat
+©¦  ©¦  rep1ace.py
+©¦  ©¦  Report_distri.dat
+©¦  ©¦  result.txt
+©¦  ©¦  Washing dishes.dat
+©¦  ©¦  Washing dishes_angle.dat
+©¦  ©¦  Washing dishes_angle_analy.dat
+©¦  ©¦  Washing in bathroom.dat
+©¦  ©¦  Washing in bathroom_angle.dat
+©¦  ©¦  Washing in bathroom_angle_analy.dat
+©¦  ©¦  Working on PC at home.dat
+©¦  ©¦  Working on PC at home_angle.dat
+©¦  ©¦  Working on PC at home_angle_analy.dat
+©¦  ©¦  
+©¦  ©À©¤.ropeproject
+©¦  ©¦      config.py
+©¦  ©¦      globalnames
+©¦  ©¦      history
+©¦  ©¦      objectdb
+©¦  ©¦      
+©¦  ©¸©¤trash
+©¦          ploP.py
+©¦          
+©À©¤PredictionAsAWhole
+©¦  ©¦  delWifiOutdoor.py
+©¦  ©¦  main.py
+©¦  ©¦  orientationPrediction.dat
+©¦  ©¦  predictionAsAWhole.py
+©¦  ©¦  predictionAsAWhole.pyc
+©¦  ©¦  predictOutput.arff
+©¦  ©¦  predictOutput.dat
+©¦  ©¦  setInfor.dat
+©¦  ©¦  soundDb.py
+©¦  ©¦  soundDbTest.dat
+©¦  ©¦  soundPrediction.dat
+©¦  ©¦  wifiDb.py
+©¦  ©¦  wifiDbTest.dat
+©¦  ©¦  wifiDbTest1.dat
+©¦  ©¦  wifiPrediction.dat
+©¦  ©¦  
+©¦  ©¸©¤.ropeproject
+©¦          config.py
+©¦          globalnames
+©¦          history
+©¦          objectdb
+©¦          
+©À©¤SoundActivityAnalysis
+©¦  ©¦  activityPrediction.txt
+©¦  ©¦  activityPrediction4.txt
+©¦  ©¦  activityPrediction5.txt
+©¦  ©¦  activityPredictionSet.py
+©¦  ©¦  activityPredictionSet.pyc
+©¦  ©¦  Bathroom.dat
+©¦  ©¦  Bathroom_diff.dat
+©¦  ©¦  Bathroom_None.dat
+©¦  ©¦  Breakfast.dat
+©¦  ©¦  Breakfast_diff.dat
+©¦  ©¦  Breakfast_None.dat
+©¦  ©¦  Cooking.dat
+©¦  ©¦  Cooking_diff.dat
+©¦  ©¦  Cooking_None.dat
+©¦  ©¦  Dinner.dat
+©¦  ©¦  Dinner_diff.dat
+©¦  ©¦  Dinner_None.dat
+©¦  ©¦  exceptionFile.txt
+©¦  ©¦  findWrongPredict.py
+©¦  ©¦  Lunch.dat
+©¦  ©¦  Lunch_diff.dat
+©¦  ©¦  Lunch_None.dat
+©¦  ©¦  Midnight snack.dat
+©¦  ©¦  MidNight snack_diff.dat
+©¦  ©¦  MidNight snack_None.dat
+©¦  ©¦  Music.dat
+©¦  ©¦  Music_diff.dat
+©¦  ©¦  Music_None.dat
+©¦  ©¦  Report_count.dat
+©¦  ©¦  Report_rate.dat
+©¦  ©¦  result.txt
+©¦  ©¦  songList.txt
+©¦  ©¦  Walking at home.dat
+©¦  ©¦  Washing dishes.dat
+©¦  ©¦  Washing dishes_diff.dat
+©¦  ©¦  Washing dishes_None.dat
+©¦  ©¦  Washing in bathroom.dat
+©¦  ©¦  Washing in bathroom_diff.dat
+©¦  ©¦  Washing in bathroom_None.dat
+©¦  ©¦  Working on PC at home.dat
+©¦  ©¦  
+©¦  ©À©¤.ropeproject
+©¦  ©¦      config.py
+©¦  ©¦      globalnames
+©¦  ©¦      history
+©¦  ©¦      objectdb
+©¦  ©¦      
+©¦  ©À©¤1keyboard
+©¦  ©¦      activityPrediction.txt
+©¦  ©¦      activityPrediction1.txt
+©¦  ©¦      Bathroom.dat
+©¦  ©¦      Bathroom_diff.dat
+©¦  ©¦      Breakfast.dat
+©¦  ©¦      Breakfast_diff.dat
+©¦  ©¦      Cooking.dat
+©¦  ©¦      Cooking_diff.dat
+©¦  ©¦      Dinner.dat
+©¦  ©¦      Dinner_diff.dat
+©¦  ©¦      Eating.dat
+©¦  ©¦      Eating_diff.dat
+©¦  ©¦      Lunch.dat
+©¦  ©¦      Lunch_diff.dat
+©¦  ©¦      Midnight snack.dat
+©¦  ©¦      MidNight snack_diff.dat
+©¦  ©¦      Music.dat
+©¦  ©¦      result1.txt
+©¦  ©¦      Walking at home.dat
+©¦  ©¦      Washing dishes.dat
+©¦  ©¦      Washing dishes_diff.dat
+©¦  ©¦      Washing in bathroom.dat
+©¦  ©¦      Washing in bathroom_diff.dat
+©¦  ©¦      Working on PC at home.dat
+©¦  ©¦      Working On PC at home_diff.dat
+©¦  ©¦      
+©¦  ©¸©¤trash
+©¦          activityPrediction1.txt
+©¦          activityPrediction2.txt
+©¦          activityPrediction3.txt
+©¦          activityPrediction4.txt
+©¦          Breakfast_diff.dat
+©¦          setp.py
+©¦          
+©À©¤SoundDurationResult
+©¦  ©¦  computeDuration.py
+©¦  ©¦  duration.py
+©¦  ©¦  soundDuration.txt
+©¦  ©¦  
+©¦  ©¸©¤.ropeproject
+©¦          config.py
+©¦          globalnames
+©¦          history
+©¦          objectdb
+©¦          
+©À©¤SoundFile
+©¦  ©¦  washing.wav
+©¦  ©¦  
+©¦  ©À©¤Living
+©¦  ©¦      bathroom.amr
+©¦  ©¦      bus.amr
+©¦  ©¦      cooking.amr
+©¦  ©¦      cooking2.amr
+©¦  ©¦      keyboard.amr
+©¦  ©¦      music and eating.amr
+©¦  ©¦      washing.amr
+©¦  ©¦      
+©¦  ©À©¤LivingPmp3ForSeeds
+©¦  ©¦  ©¦  bathroom.mp3
+©¦  ©¦  ©¦  cooking.mp3
+©¦  ©¦  ©¦  cooking2.mp3
+©¦  ©¦  ©¦  cooking3.mp3
+©¦  ©¦  ©¦  eating.mp3
+©¦  ©¦  ©¦  hit.mp3
+©¦  ©¦  ©¦  keyboard.mp3
+©¦  ©¦  ©¦  music and eating.mp3
+©¦  ©¦  ©¦  washing.mp3
+©¦  ©¦  ©¦  workingonPCathome.mp3
+©¦  ©¦  ©¦  
+©¦  ©¦  ©¸©¤outdoor
+©¦  ©¦          bus.mp3
+©¦  ©¦          Walking outside.mp3
+©¦  ©¦          
+©¦  ©¸©¤Music
+©¦      ©¦  Baby Crying.mp3
+©¦      ©¦  baby Giggles.mp3
+©¦      ©¦  Baby Sneeze.mp3
+©¦      ©¦  Bath Water Movement Sound.mp3
+©¦      ©¦  Bath.mp3
+©¦      ©¦  cook.mp3
+©¦      ©¦  Doing The Dishes.mp3
+©¦      ©¦  Glass Breaking mirror breaking.mp3
+©¦      ©¦  HOUSEHOLD BATHROOM.mp3
+©¦      ©¦  HUMAN CHEW POPCORN .mp3
+©¦      ©¦  philToilet_clip1.mp3
+©¦      ©¦  phoneRinging.mp3
+©¦      ©¦  toilet.mp3
+©¦      ©¦  traffic.mp3
+©¦      ©¦  Vacuum Cleaner.mp3
+©¦      ©¦  Walking Away.mp3
+©¦      ©¦  
+©¦      ©¸©¤testSet
+©¦              Flush 1.mp3
+©¦              HOUSEHOLD BATHROOM.mp3
+©¦              HOUSEHOLD BATHROOM_clip.mp3
+©¦              philToilet_clip2.mp3
+©¦              ToiletFlush.mp3
+©¦              ToiletFlush_clip.mp3
+©¦              traffic_clip.mp3
+©¦              
+©À©¤SoundIndoorDB
+©¦  ©¦  db.py
+©¦  ©¦  delDuplicates.py
+©¦  ©¦  main.py
+©¦  ©¦  songList.txt
+©¦  ©¦  songList1.txt
+©¦  ©¦  songListIncludeOutdoor.txt
+©¦  ©¦  
+©¦  ©¸©¤.ropeproject
+©¦          config.py
+©¦          globalnames
+©¦          history
+©¦          objectdb
+©¦          
+©À©¤SoundResult
+©À©¤test
+©¦  ©¦  1
+©¦  ©¦  closurep
+©¦  ©¦  db1.py
+©¦  ©¦  regreP.py
+©¦  ©¦  result.txt
+©¦  ©¦  sortp.py
+©¦  ©¦  test.py
+©¦  ©¦  test1.py
+©¦  ©¦  test3.py
+©¦  ©¦  test4.py
+©¦  ©¦  wavreadtest1.py
+©¦  ©¦  
+©¦  ©À©¤.ropeproject
+©¦  ©¦      config.py
+©¦  ©¦      globalnames
+©¦  ©¦      history
+©¦  ©¦      objectdb
+©¦  ©¦      
+©¦  ©¸©¤readFile
+©¦      ©¦  readtest1.py
+©¦      ©¦  washing.wav
+©¦      ©¦  
+©¦      ©¸©¤.ropeproject
+©¦              config.py
+©¦              globalnames
+©¦              history
+©¦              objectdb
+©¦              
+©À©¤TotalRecordCount
+©¦  ©¦  db.py
+©¦  ©¦  result.txt
+©¦  ©¦  
+©¦  ©¸©¤.ropeproject
+©¦          config.py
+©¦          globalnames
+©¦          history
+©¦          objectdb
+©¦          
+©À©¤wifiFingerprintingProjectDB
+©¦  ©¦  averageP.py
+©¦  ©¦  averageWifiFingerPrinting.txt
+©¦  ©¦  cmd.dat
+©¦  ©¦  cmd1.dat
+©¦  ©¦  db.py
+©¦  ©¦  fileDistribute.py
+©¦  ©¦  main.py
+©¦  ©¦  README
+©¦  ©¦  result.txt
+©¦  ©¦  shuffleP1.py
+©¦  ©¦  test.dat
+©¦  ©¦  test4.py
+©¦  ©¦  train.dat
+©¦  ©¦  wifiFingerPrinting.txt
+©¦  ©¦  
+©¦  ©À©¤.ropeproject
+©¦  ©¦      config.py
+©¦  ©¦      globalnames
+©¦  ©¦      history
+©¦  ©¦      objectdb
+©¦  ©¦      
+©¦  ©À©¤result
+©¦  ©¦  ©À©¤wifi actual testset
+©¦  ©¦  ©¦      out_classify.file
+©¦  ©¦  ©¦      predictions
+©¦  ©¦  ©¦      test.dat
+©¦  ©¦  ©¦      
+©¦  ©¦  ©À©¤wifi137+317_10.22%
+©¦  ©¦  ©¦      cmd.dat
+©¦  ©¦  ©¦      model
+©¦  ©¦  ©¦      out_classify.file
+©¦  ©¦  ©¦      out_train.file
+©¦  ©¦  ©¦      predictions
+©¦  ©¦  ©¦      test.dat
+©¦  ©¦  ©¦      train.dat
+©¦  ©¦  ©¦      
+©¦  ©¦  ©À©¤wifi14.29%
+©¦  ©¦  ©¦      model
+©¦  ©¦  ©¦      out_classify.file
+©¦  ©¦  ©¦      out_train.file
+©¦  ©¦  ©¦      predictions
+©¦  ©¦  ©¦      test.dat
+©¦  ©¦  ©¦      train.dat
+©¦  ©¦  ©¦      
+©¦  ©¦  ©À©¤wifi5%
+©¦  ©¦  ©¦      model
+©¦  ©¦  ©¦      out_classify.file
+©¦  ©¦  ©¦      out_train.file
+©¦  ©¦  ©¦      predictions
+©¦  ©¦  ©¦      test.dat
+©¦  ©¦  ©¦      train.dat
+©¦  ©¦  ©¦      
+©¦  ©¦  ©À©¤wifi6.9
+©¦  ©¦  ©¦      model
+©¦  ©¦  ©¦      out_classify.file
+©¦  ©¦  ©¦      out_train.file
+©¦  ©¦  ©¦      predictions
+©¦  ©¦  ©¦      test.dat
+©¦  ©¦  ©¦      train.dat
+©¦  ©¦  ©¦      
+©¦  ©¦  ©¸©¤wifi81+188
+©¦  ©¦          cmd.dat
+©¦  ©¦          model
+©¦  ©¦          out_classify.file
+©¦  ©¦          out_train.file
+©¦  ©¦          predictions
+©¦  ©¦          test.dat
+©¦  ©¦          train.dat
+©¦  ©¦          
+©¦  ©À©¤testFromNexus TrainFromWifiFingerprinting
+©¦  ©¦      model
+©¦  ©¦      out_classify.file
+©¦  ©¦      predictions
+©¦  ©¦      test.dat
+©¦  ©¦      test1_1.py
+©¦  ©¦      train.dat
+©¦  ©¦      train1.dat
+©¦  ©¦      
+©¦  ©¸©¤trash
+©¦          shuffleP.py
+©¦          test0.py
+©¦          test1.py
+©¦          test2.py
+©¦          test3.py
+©¦          
+©¸©¤WifiTableDB
+    ©¦  addTagNum.py
+    ©¦  averageP.py
+    ©¦  averageWifiFingerPrinting.txt
+    ©¦  averageWifiFingerPrinting1.txt
+    ©¦  db.py
+    ©¦  delDuplicates.py
+    ©¦  delOutdoor.py
+    ©¦  delTagNum.py
+    ©¦  generateSheet.py
+    ©¦  main.py
+    ©¦  predictions
+    ©¦  README
+    ©¦  rep1ace.py
+    ©¦  result.txt
+    ©¦  result2.txt
+    ©¦  result3.txt
+    ©¦  test.dat
+    ©¦  wifiFingerPrinting1.txt
+    ©¦  wifiFingerprintingDB.lnk
+    ©¦  __init.py__
+    ©¦  
+    ©À©¤.ropeproject
+    ©¦      config.py
+    ©¦      globalnames
+    ©¦      objectdb
+    ©¦      
+    ©À©¤wifi1
+    ©¦      model
+    ©¦      out_classify.file
+    ©¦      out_train.file
+    ©¦      predictions
+    ©¦      test.dat
+    ©¦      train.dat
+    ©¦      
+    ©¸©¤wifi2
+            model
+            out_classify.file
+            out_train.file
+            predictions
+            test.dat
+            train.dat
+            

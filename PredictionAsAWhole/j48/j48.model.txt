@@ -1,0 +1,122 @@
+
+=== Run information ===
+
+Scheme:weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     activityRelation
+Instances:    980
+Attributes:   5
+              orientation
+              soundPredictionResult
+              wifiPredictionResult
+              hour
+              activity
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+wifiPredictionResult <= 2
+|   soundPredictionResult <= 1
+|   |   soundPredictionResult <= 0
+|   |   |   hour <= 10: Bathroom (7.93/1.46)
+|   |   |   hour > 10: Washinginbathroom (40.75/12.4)
+|   |   soundPredictionResult > 0: Bathroom (12.52/2.26)
+|   soundPredictionResult > 1: Washinginbathroom (148.81/51.88)
+wifiPredictionResult > 2
+|   orientation <= 1
+|   |   hour <= 15
+|   |   |   hour <= 10
+|   |   |   |   hour <= 0
+|   |   |   |   |   orientation <= 0: Midnightsnack (10.0/1.0)
+|   |   |   |   |   orientation > 0: Dinner (7.0/2.0)
+|   |   |   |   hour > 0: Breakfast (16.0)
+|   |   |   hour > 10: Lunch (83.0)
+|   |   hour > 15
+|   |   |   hour <= 21: Dinner (79.0/2.0)
+|   |   |   hour > 21
+|   |   |   |   hour <= 22: Midnightsnack (15.0/4.0)
+|   |   |   |   hour > 22
+|   |   |   |   |   soundPredictionResult <= 4: Dinner (3.33)
+|   |   |   |   |   soundPredictionResult > 4: Midnightsnack (6.67/2.67)
+|   orientation > 1
+|   |   orientation <= 5
+|   |   |   orientation <= 4: Cooking (124.0)
+|   |   |   orientation > 4
+|   |   |   |   hour <= 12: Cooking (76.0/5.0)
+|   |   |   |   hour > 12
+|   |   |   |   |   hour <= 15: Washingdishes (27.0/3.0)
+|   |   |   |   |   hour > 15
+|   |   |   |   |   |   hour <= 19: Cooking (50.0/9.0)
+|   |   |   |   |   |   hour > 19
+|   |   |   |   |   |   |   hour <= 21
+|   |   |   |   |   |   |   |   soundPredictionResult <= 2: Washingdishes (4.2/1.6)
+|   |   |   |   |   |   |   |   soundPredictionResult > 2: Cookingchopping (9.8/3.4)
+|   |   |   |   |   |   |   hour > 21
+|   |   |   |   |   |   |   |   hour <= 22: Cooking (20.0/6.0)
+|   |   |   |   |   |   |   |   hour > 22: Washingdishes (10.0/2.0)
+|   |   orientation > 5
+|   |   |   orientation <= 6: Washingdishes (92.0/2.0)
+|   |   |   orientation > 6
+|   |   |   |   hour <= 15
+|   |   |   |   |   hour <= 10
+|   |   |   |   |   |   hour <= 0: Midnightsnack (21.0/6.0)
+|   |   |   |   |   |   hour > 0: Breakfast (3.0/1.0)
+|   |   |   |   |   hour > 10: Lunch (42.0/4.0)
+|   |   |   |   hour > 15
+|   |   |   |   |   hour <= 22
+|   |   |   |   |   |   hour <= 20: Dinner (36.0/8.0)
+|   |   |   |   |   |   hour > 20
+|   |   |   |   |   |   |   soundPredictionResult <= 2: Washingdishes (4.29/1.29)
+|   |   |   |   |   |   |   soundPredictionResult > 2
+|   |   |   |   |   |   |   |   hour <= 21: Midnightsnack (2.0)
+|   |   |   |   |   |   |   |   hour > 21: Dinner (3.71/0.57)
+|   |   |   |   |   hour > 22: Midnightsnack (25.0/2.0)
+
+Number of Leaves  : 	29
+
+Size of the tree : 	57
+
+
+Time taken to build model: 0.14 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         834               85.102  %
+Incorrectly Classified Instances       146               14.898  %
+Kappa statistic                          0.822 
+Mean absolute error                      0.0472
+Root mean squared error                  0.1564
+Relative absolute error                 25.2782 %
+Root relative squared error             51.2071 %
+Total Number of Instances              980     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.136     0.003      0.786     0.136     0.232      0.936    Bathroom
+                 0.896     0.021      0.759     0.896     0.822      0.982    Midnightsnack
+                 0.977     0.028      0.926     0.977     0.951      0.991    Cooking
+                 0.778     0.004      0.636     0.778     0.7        0.978    Cookingchopping
+                 0.984     0.005      0.968     0.984     0.976      0.99     Lunch
+                 0.928     0.02       0.872     0.928     0.899      0.988    Dinner
+                 0.977     0.082      0.643     0.977     0.775      0.957    Washinginbathroom
+                 0.738     0.011      0.934     0.738     0.825      0.963    Washingdishes
+                 0.889     0          1         0.889     0.941      1        Breakfast
+Weighted Avg.    0.851     0.025      0.864     0.851     0.831      0.976
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   <-- classified as
+  11   0   0   0   0   0  70   0   0 |   a = Bathroom
+   0  60   0   0   0   7   0   0   0 |   b = Midnightsnack
+   0   0 250   0   0   0   0   6   0 |   c = Cooking
+   0   0   0   7   0   0   0   2   0 |   d = Cookingchopping
+   0   0   0   0 121   2   0   0   0 |   e = Lunch
+   0   9   0   0   0 116   0   0   0 |   f = Dinner
+   3   0   0   0   0   0 126   0   0 |   g = Washinginbathroom
+   0   9  20   4   4   8   0 127   0 |   h = Washingdishes
+   0   1   0   0   0   0   0   1  16 |   i = Breakfast
+

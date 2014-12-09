@@ -39,7 +39,7 @@ def generateReport():
     for filename in glob.glob(r'*.dat'):
         if filename != 'Report_distri.dat':
             objSetActiOriePairNames = writeDistribute(filename)
-
+        infor(objSetActiOriePairNames)
         print "-"*20
 
 def writeDistribute(fileName):
@@ -74,11 +74,31 @@ def writeDistribute(fileName):
     f1.close()
     #fOut.close()
 
-    for obj in objSetActiOriePairNames :
-       obj.infor()
+#    for obj in objSetActiOriePairNames :
+#       obj.infor()
 
     return objSetActiOriePairNames
 
+def inform(objSetActiOriePairNames):
+    for obj in objSetActiOriePairNames :
+       obj.infor()
+
+def infor(objSetActiOriePairNames):
+    #fid=file('2.txt','a')
+    orienSet = ['N','NE','E','SE','S','SW','W','NW']
+    c = 0
+    for orie in orienSet:
+        for obj in objSetActiOriePairNames :
+            if orie == obj.orientation :
+                print '%s\t'%(str(c)),
+                obj.infor()
+                c=c+1
+                #continue
+            #continue
+
+
+    #fid.flush()
+    #fid.close()
 
 if __name__=="__main__":
 

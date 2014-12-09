@@ -1,0 +1,17 @@
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors10.db
+326
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors13.db
+196
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors14.db
+2
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors16.db
+114
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors17.db
+664
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors18.db
+1785
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors7.db
+420
+c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors9.db
+4
+Total number of records is 3511 .

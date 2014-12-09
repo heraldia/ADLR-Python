@@ -26,6 +26,8 @@ def selectP(action):
     for dbFilename in\
     glob.glob(r'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'):
         sequenceNum = filter(str.isdigit, dbFilename)
+        if int(sequenceNum) == 9 :
+            continue
         if _DEBUG == True:
             print ':' + sequenceNum + "-" * 20
             print dbFilename
@@ -79,7 +81,6 @@ def selectPP(activities):
         selectP(activity)
 
 if __name__=="__main__":
-    indoorActivitySet = set(['Bathroom','Cooking','Washing in bathroom'
-        ,'Dinner','Breakfast','Midnight snack','Eating','Working on PC at home',\
-                'Washing dishes'])
-    selectPP(indoorActivitySet)
+
+    import globP
+    selectPP(globP.indoorActivitySet)

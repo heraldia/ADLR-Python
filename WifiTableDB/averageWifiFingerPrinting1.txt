@@ -1,0 +1,175 @@
+Bathroom	-59.125
+Bathroom	-59.25
+Bathroom	-59.75
+Bathroom	-60.0
+Bathroom	-61.625
+Bathroom	-62.125
+Bathroom	-63.25
+Bathroom	-67.625
+Bathroom	-67.875
+Bathroom	-70.25
+Bathroom	-70.625
+Bathroom	-70.75
+Bathroom	-70.75
+Bathroom	-73.625
+Bathroom	-76.0
+Breakfast	-54.375
+Breakfast	-54.375
+Cooking	-47.375
+Cooking	-54.875
+Cooking	-55.125
+Cooking	-56.125
+Cooking	-56.875
+Cooking	-57.0
+Cooking	-57.5
+Cooking	-58.5
+Cooking	-58.625
+Cooking	-58.875
+Cooking	-59.75
+Cooking	-60.0
+Cooking	-62.875
+Cooking	-62.875
+Cooking	-63.875
+Cooking	-64.125
+Cooking	-66.75
+Cooking	-67.125
+Cooking	-67.75
+Cooking	-68.25
+Cooking	-68.75
+Cooking	-68.875
+Cooking	-69.125
+Cooking	-69.25
+Cooking	-69.25
+Cooking	-69.5
+Cooking	-69.625
+Cooking	-69.625
+Cooking	-70.375
+Cooking	-70.5
+Cooking	-70.875
+Cooking	-71.0
+Cooking	-71.125
+Dinner	-52.75
+Dinner	-60.75
+Dinner	-62.75
+Dinner	-62.875
+Dinner	-63.375
+Dinner	-63.75
+Dinner	-64.25
+Dinner	-64.875
+Dinner	-65.75
+Dinner	-66.125
+Dinner	-66.875
+Dinner	-67.875
+Dinner	-67.875
+Dinner	-71.0
+GettingUp	-48.5
+GettingUp	-52.625
+GettingUp	-57.625
+GettingUp	-62.375
+GettingUp	-66.375
+GettingUp	-69.125
+Go to sleep	-56.75
+Go to sleep	-61.875
+Lunch	-59.125
+Lunch	-62.125
+Lunch	-62.625
+Lunch	-62.875
+Lunch	-64.125
+Lunch	-64.5
+Lunch	-65.625
+Lunch	-66.0
+Lunch	-68.0
+Lunch	-71.375
+Shower	-54.875
+Shower	-55.25
+Sleep	-46.875
+Sleep	-48.5
+Sleep	-57.25
+Sleep	-58.125
+Sleep	-62.875
+Sleep	-64.125
+Sleep	-65.875
+Sleep	-69.0
+Sleep	-71.875
+Washing dishes	-59.5
+Washing dishes	-59.75
+Washing dishes	-64.25
+Washing dishes	-66.5
+Washing dishes	-66.625
+Washing dishes	-67.25
+Washing dishes	-67.875
+Washing dishes	-68.625
+Washing dishes	-68.75
+Washing dishes	-69.375
+Washing dishes	-70.0
+Washing dishes	-71.0
+Washing dishes	-73.75
+Washing dishes	-74.875
+Washing dishes	-75.125
+Working on PC at home	-50.75
+Working on PC at home	-51.0
+Working on PC at home	-53.5
+Working on PC at home	-53.875
+Working on PC at home	-54.25
+Working on PC at home	-54.25
+Working on PC at home	-56.5
+Working on PC at home	-56.75
+Working on PC at home	-56.75
+Working on PC at home	-57.125
+Working on PC at home	-57.375
+Working on PC at home	-57.375
+Working on PC at home	-57.5
+Working on PC at home	-57.625
+Working on PC at home	-58.125
+Working on PC at home	-58.25
+Working on PC at home	-59.0
+Working on PC at home	-59.125
+Working on PC at home	-59.25
+Working on PC at home	-59.875
+Working on PC at home	-59.875
+Working on PC at home	-61.375
+Working on PC at home	-61.5
+Working on PC at home	-61.75
+Working on PC at home	-62.125
+Working on PC at home	-62.375
+Working on PC at home	-62.5
+Working on PC at home	-62.75
+Working on PC at home	-63.375
+Working on PC at home	-64.125
+Working on PC at home	-64.375
+Working on PC at home	-64.75
+Working on PC at home	-64.875
+Working on PC at home	-65.125
+Working on PC at home	-65.25
+Working on PC at home	-65.625
+Working on PC at home	-65.75
+Working on PC at home	-65.875
+Working on PC at home	-65.875
+Working on PC at home	-66.0
+Working on PC at home	-66.5
+Working on PC at home	-66.625
+Working on PC at home	-66.625
+Working on PC at home	-66.625
+Working on PC at home	-66.75
+Working on PC at home	-67.125
+Working on PC at home	-67.25
+Working on PC at home	-67.375
+Working on PC at home	-67.875
+Working on PC at home	-68.0
+Working on PC at home	-68.375
+Working on PC at home	-68.5
+Working on PC at home	-68.75
+Working on PC at home	-69.0
+Working on PC at home	-69.125
+Working on PC at home	-69.25
+Working on PC at home	-70.25
+Working on PC at home	-70.5
+Working on PC at home	-70.875
+Working on PC at home	-71.0
+Working on PC at home	-71.0
+Working on PC at home	-71.625
+Working on PC at home	-72.625
+Working on PC at home	-72.75
+Working on PC at home	-73.5
+Working on PC at home	-76.75
+Working on PC at home	-76.75

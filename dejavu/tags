@@ -1,0 +1,103 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CONFIDENCE	.\__init__.py	/^    CONFIDENCE = 'confidence'$/;"	v	class:Dejavu
+Dejavu	.\__init__.py	/^class Dejavu(object):$/;"	c	inherits:object
+Dejavu	.\example.py	/^from dejavu import Dejavu$/;"	i
+Dejavu	.\run_tests.py	/^from dejavu import Dejavu$/;"	i
+FileRecognizer	.\example.py	/^from dejavu.recognize import FileRecognizer$/;"	i
+MATCH_TIME	.\__init__.py	/^    MATCH_TIME = 'match_time'$/;"	v	class:Dejavu
+OFFSET	.\__init__.py	/^    OFFSET = 'offset'$/;"	v	class:Dejavu
+OptionParser	.\run_tests.py	/^from optparse import OptionParser$/;"	i
+SONG_ID	.\__init__.py	/^    SONG_ID = "song_id"$/;"	v	class:Dejavu
+SONG_NAME	.\__init__.py	/^    SONG_NAME = 'song_name'$/;"	v	class:Dejavu
+__init__	.\__init__.py	/^    def __init__(self, config):$/;"	m	class:Dejavu	access:public
+_fingerprint_worker	.\__init__.py	/^def _fingerprint_worker(filename, limit=None, song_name=None):$/;"	f	access:public
+action	.\run_tests.py	/^				  action="store",$/;"	v
+action	.\run_tests.py	/^				  action="store_false",$/;"	v
+action	.\run_tests.py	/^				  action="store_true",$/;"	v
+align_matches	.\__init__.py	/^    def align_matches(self, matches):$/;"	m	class:Dejavu	access:public
+all_match_confidence	.\run_tests.py	/^all_match_confidence = [[[0 for x in xrange(tests)] for x in xrange(djv.n_lines)] for x in xrange(n_secs)]$/;"	v
+all_match_counter	.\run_tests.py	/^all_match_counter = [[[0 for x in xrange(tests)] for x in xrange(3)] for x in xrange(n_secs)]$/;"	v
+all_matching_times_counter	.\run_tests.py	/^all_matching_times_counter = [[[0 for x in xrange(tests)] for x in xrange(2)] for x in xrange(n_secs)]$/;"	v
+all_query_duration	.\run_tests.py	/^all_query_duration = [[[0 for x in xrange(tests)] for x in xrange(djv.n_lines)] for x in xrange(n_secs)]$/;"	v
+ax	.\run_tests.py	/^	ax = fig.add_subplot(111)$/;"	v
+box	.\run_tests.py	/^	box = ax.get_position()$/;"	v
+chunkify	.\__init__.py	/^def chunkify(lst, n):$/;"	f	access:public
+config	.\example.py	/^    config = json.load(f)$/;"	v
+decoder	.\__init__.py	/^import dejavu.decoder as decoder$/;"	i
+default	.\run_tests.py	/^                  default=".\/dejavu_temp_testing_files",$/;"	v
+default	.\run_tests.py	/^                  default=".\/dejavu_test_results",$/;"	v
+default	.\run_tests.py	/^                  default="results-compare.log",$/;"	v
+default	.\run_tests.py	/^                  default=10,$/;"	v
+default	.\run_tests.py	/^                  default=5,$/;"	v
+default	.\run_tests.py	/^                  default=False,$/;"	v
+default	.\run_tests.py	/^                  default=None,$/;"	v
+default	.\run_tests.py	/^                  default=True,$/;"	v
+dejavu	.\__init__.py	/^import dejavu.decoder as decoder$/;"	i
+dest	.\run_tests.py	/^                  dest="log",$/;"	v
+dest	.\run_tests.py	/^                  dest="log_file",$/;"	v
+dest	.\run_tests.py	/^                  dest="padding",$/;"	v
+dest	.\run_tests.py	/^                  dest="results_folder",$/;"	v
+dest	.\run_tests.py	/^                  dest="secs",$/;"	v
+dest	.\run_tests.py	/^                  dest="seed",$/;"	v
+dest	.\run_tests.py	/^                  dest="silent",$/;"	v
+dest	.\run_tests.py	/^                  dest="temp_folder",$/;"	v
+div	.\run_tests.py	/^		div = 1000000$/;"	v
+div	.\run_tests.py	/^	div = all_match_counter[sec][0][0]$/;"	v
+djv	.\example.py	/^djv = Dejavu(config)$/;"	v
+djv	.\run_tests.py	/^djv = DejavuTest(options.temp_folder, test_seconds)$/;"	v
+djv_match_acc	.\run_tests.py	/^		djv_match_acc = djv.result_matching_times[line][col]$/;"	v
+djv_match_result	.\run_tests.py	/^		djv_match_result = djv.result_match[line][col]$/;"	v
+fig	.\run_tests.py	/^	fig = plt.figure()$/;"	v
+fig_name	.\run_tests.py	/^ 	fig_name = os.path.join(options.results_folder, "matching_acc_%s.png" % test_seconds[sec])$/;"	v
+fig_name	.\run_tests.py	/^ 	fig_name = os.path.join(options.results_folder, "matching_perc_%s.png" % test_seconds[sec])$/;"	v
+find_matches	.\__init__.py	/^    def find_matches(self, samples, Fs=fingerprint.DEFAULT_FS):$/;"	m	class:Dejavu	access:public
+fingerprint	.\__init__.py	/^import fingerprint$/;"	i
+fingerprint_directory	.\__init__.py	/^    def fingerprint_directory(self, path, extensions, nprocesses=None):$/;"	m	class:Dejavu	access:public
+fingerprint_file	.\__init__.py	/^    def fingerprint_file(self, filepath, song_name=None):$/;"	m	class:Dejavu	access:public
+get_database	.\__init__.py	/^from dejavu.database import get_database$/;"	i
+get_fingerprinted_songs	.\__init__.py	/^    def get_fingerprinted_songs(self):$/;"	m	class:Dejavu	access:public
+help	.\run_tests.py	/^                  help='Disables printing')$/;"	v
+help	.\run_tests.py	/^                  help='Enables logging')$/;"	v
+help	.\run_tests.py	/^                  help='Number of seconds starting from zero to test')$/;"	v
+help	.\run_tests.py	/^                  help='Number of seconds to pad choice of place to test from')$/;"	v
+help	.\run_tests.py	/^                  help='Random seed')$/;"	v
+help	.\run_tests.py	/^                  help='Set the path and filename of the log file')$/;"	v
+help	.\run_tests.py	/^                  help='Sets the path where the results are saved')$/;"	v
+help	.\run_tests.py	/^                  help='Sets the path where the temp files are saved')$/;"	v
+ind	.\run_tests.py	/^	ind = np.arange(2) #$/;"	v
+ind	.\run_tests.py	/^	ind = np.arange(3) #$/;"	v
+json	.\example.py	/^import json$/;"	i
+labels	.\run_tests.py	/^	labels = ['yes','no','invalid']$/;"	v
+labels	.\run_tests.py	/^	labels = ['yes','no']$/;"	v
+matplotlib	.\run_tests.py	/^import matplotlib.pyplot as plt$/;"	i
+means_dvj	.\run_tests.py	/^	means_dvj = [round(x[0] * 100 \/ div, 1) for x in all_matching_times_counter[sec]]$/;"	v
+means_dvj	.\run_tests.py	/^	means_dvj = [round(x[0] * 100 \/ djv.n_lines, 1) for x in all_match_counter[sec]]$/;"	v
+multiprocessing	.\__init__.py	/^import multiprocessing$/;"	i
+n_secs	.\run_tests.py	/^n_secs = len(test_seconds) $/;"	v
+os	.\__init__.py	/^import os$/;"	i
+parser	.\run_tests.py	/^parser = OptionParser(usage=usage, version="%prog 1.1")$/;"	v
+plt	.\run_tests.py	/^import matplotlib.pyplot as plt$/;"	i
+project_opened	.\.ropeproject\config.py	/^def project_opened(project):$/;"	f	access:public
+recognize	.\__init__.py	/^    def recognize(self, recognizer, *options, **kwoptions):$/;"	m	class:Dejavu	access:public
+recognizer	.\example.py	/^recognizer = FileRecognizer(djv)$/;"	v
+rects1	.\run_tests.py	/^	rects1 = ax.bar(ind, means_dvj, width, color='r')$/;"	v
+set_prefs	.\.ropeproject\config.py	/^def set_prefs(prefs):$/;"	f	access:public
+shutil	.\run_tests.py	/^import shutil$/;"	i
+song	.\example.py	/^song = djv.recognize(FileRecognizer, "mp3\/Sean-Fournier--Falling-For-You.mp3")$/;"	v
+song	.\example.py	/^song = recognizer.recognize_file("mp3\/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3")$/;"	v
+sys	.\__init__.py	/^                import traceback, sys$/;"	i
+test_folder	.\run_tests.py	/^test_folder = args[0]$/;"	v
+test_seconds	.\run_tests.py	/^test_seconds = ['%dsec' % i for i in range(1, options.secs + 1, 1)]$/;"	v
+tests	.\run_tests.py	/^tests = 1 # djv$/;"	v
+time	.\run_tests.py	/^import time$/;"	i
+tm	.\run_tests.py	/^tm = time.time()$/;"	v
+traceback	.\__init__.py	/^                import traceback, sys$/;"	i
+type	.\run_tests.py	/^                  type=int,$/;"	v
+usage	.\run_tests.py	/^usage = "usage: %prog [options] TESTING_AUDIOFOLDER"$/;"	v
+warnings	.\example.py	/^import warnings$/;"	i
+width	.\run_tests.py	/^	width = 0.25       # the width of the bars$/;"	v

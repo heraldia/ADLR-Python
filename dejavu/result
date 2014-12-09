@@ -1,0 +1,212 @@
+0
+----------------------------17---------
+Fingerprinting channel 1/2 for seed/bus.mp3
+Finished channel 1/2 for seed/bus.mp3
+Fingerprinting channel 2/2 for seed/bus.mp3
+Finished channel 2/2 for seed/bus.mp3
+Fingerprinting channel 1/2 for seed/music and eating.mp3
+Finished channel 1/2 for seed/music and eating.mp3
+Fingerprinting channel 2/2 for seed/music and eating.mp3
+Finished channel 2/2 for seed/music and eating.mp3
+Fingerprinting channel 1/2 for seed/washing.mp3
+Finished channel 1/2 for seed/washing.mp3
+Fingerprinting channel 2/2 for seed/washing.mp3
+Finished channel 2/2 for seed/washing.mp3
+Fingerprinting channel 1/2 for seed/cooking.mp3
+Finished channel 1/2 for seed/cooking.mp3
+Fingerprinting channel 2/2 for seed/cooking.mp3
+Finished channel 2/2 for seed/cooking.mp3
+Fingerprinting channel 1/2 for seed/bathroom.mp3
+Finished channel 1/2 for seed/bathroom.mp3
+Fingerprinting channel 2/2 for seed/bathroom.mp3
+Finished channel 2/2 for seed/bathroom.mp3
+Fingerprinting channel 1/2 for seed/keyboard.mp3
+Finished channel 1/2 for seed/keyboard.mp3
+Fingerprinting channel 2/2 for seed/keyboard.mp3
+Finished channel 2/2 for seed/keyboard.mp3
+Fingerprinting channel 1/2 for seed/cooking2.mp3
+Finished channel 1/2 for seed/cooking2.mp3
+Fingerprinting channel 2/2 for seed/cooking2.mp3
+Finished channel 2/2 for seed/cooking2.mp3
+8421
+
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bus.mp3 already fingerprinted, continuing...
+seed/keyboard.mp3 already fingerprinted, continuing...
+seed/music and eating.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+8421
+----------------------------17---------
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bus.mp3 already fingerprinted, continuing...
+seed/keyboard.mp3 already fingerprinted, continuing...
+seed/music and eating.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+8421
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bus.mp3 already fingerprinted, continuing...
+seed/keyboard.mp3 already fingerprinted, continuing...
+seed/music and eating.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+8421
+----------------------------17---------
+./mp3t/Living_20141004_152832.mp3
+None
+./mp3t/Living_20141004_162830.mp3
+{'match_time': 1.2775750160217285, 'song_id': 4, 'confidence': 2, 'song_name': 'keyboard', 'offset': 104L}
+./mp3t/Living_20141004_171708.mp3
+{'match_time': 2.417865037918091, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': -41L}
+./mp3t/Living_20141004_162649.mp3
+None
+./mp3t/Living_20141004_135137.mp3
+{'match_time': 1.2539489269256592, 'song_id': 6, 'confidence': 2, 'song_name': 'cooking', 'offset': 3L}
+./mp3t/Living_20141004_162722.mp3
+{'match_time': 1.2210359573364258, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 116L}
+./mp3t/Living_20141004_020310.mp3
+None
+./mp3t/Living_20141004_105624.mp3
+None
+./mp3t/Living_20141004_103400.mp3
+None
+./mp3t/Living_20141004_114037.mp3
+None
+./mp3t/Living_20141004_110834.mp3
+{'match_time': 2.358147144317627, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 174L}
+./mp3t/Living_20141004_170834.mp3
+{'match_time': 2.38044810295105, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': 56L}
+./mp3t/Living_20141004_113132.mp3
+None
+./mp3t/Living_20141004_170604.mp3
+{'match_time': 2.411978006362915, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': -81L}
+./mp3t/Living_20141004_152701.mp3
+None
+./mp3t/Living_20141004_105412.mp3
+{'match_time': 2.2984139919281006, 'song_id': 5, 'confidence': 2, 'song_name': 'washing', 'offset': 54L}
+./mp3t/Living_20141004_131244.mp3
+{'match_time': 0.6291060447692871, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': 290L}
+./mp3t/Living_20141004_162933.mp3
+{'match_time': 1.315938949584961, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 89L}
+./mp3t/Living_20141004_111240.mp3
+{'match_time': 2.3458139896392822, 'song_id': 5, 'confidence': 2, 'song_name': 'washing', 'offset': -211L}
+./mp3t/Living_20141004_152510.mp3
+{'match_time': 1.250303030014038, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': -17L}
+./mp3t/Living_20141004_153128.mp3
+None
+./mp3t/Living_20141004_120002.mp3
+None
+./mp3t/Living_20141004_170519.mp3
+{'match_time': 1.2851760387420654, 'song_id': 4, 'confidence': 2, 'song_name': 'keyboard', 'offset': 19L}
+./mp3t/Living_20141004_132100.mp3
+{'match_time': 1.2237319946289062, 'song_id': 1, 'confidence': 12, 'song_name': 'bathroom', 'offset': 115L}
+./mp3t/Living_20141004_152439.mp3
+None
+./mp3t/Living_20141004_153014.mp3
+None
+./mp3t/Living_20141004_170442.mp3
+None
+./mp3t/Living_20141004_131105.mp3
+{'match_time': 0.6321408748626709, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': 149L}
+./mp3t/Living_20141004_113901.mp3
+None
+./mp3t/Living_20141004_152915.mp3
+{'match_time': 1.233564853668213, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': -125L}
+./mp3t/Living_20141004_112454.mp3
+{'match_time': 1.7979111671447754, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': -187L}
+./mp3t/Living_20141004_110455.mp3
+{'match_time': 2.376816987991333, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': 109L}
+./mp3t/Living_20141004_153222.mp3
+{'match_time': 1.2301621437072754, 'song_id': 5, 'confidence': 2, 'song_name': 'washing', 'offset': 161L}
+./mp3t/Living_20141004_152401.mp3
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bus.mp3 already fingerprinted, continuing...
+seed/keyboard.mp3 already fingerprinted, continuing...
+seed/music and eating.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+8421
+----------------------------17---------
+./mp3t/Living_20141004_152832.mp3
+None
+./mp3t/Living_20141004_162830.mp3
+{'match_time': 1.2689290046691895, 'song_id': 4, 'confidence': 2, 'song_name': 'keyboard', 'offset': 104L}
+./mp3t/Living_20141004_171708.mp3
+{'match_time': 2.4813220500946045, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': -41L}
+./mp3t/Living_20141004_162649.mp3
+None
+./mp3t/Living_20141004_135137.mp3
+{'match_time': 1.202091932296753, 'song_id': 6, 'confidence': 2, 'song_name': 'cooking', 'offset': 3L}
+./mp3t/Living_20141004_162722.mp3
+{'match_time': 1.212857961654663, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 116L}
+./mp3t/Living_20141004_020310.mp3
+None
+./mp3t/Living_20141004_105624.mp3
+None
+./mp3t/Living_20141004_103400.mp3
+None
+./mp3t/Living_20141004_114037.mp3
+None
+./mp3t/Living_20141004_110834.mp3
+{'match_time': 2.350015163421631, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 174L}
+./mp3t/Living_20141004_170834.mp3
+{'match_time': 2.7006359100341797, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': 56L}
+./mp3t/Living_20141004_113132.mp3
+None
+./mp3t/Living_20141004_170604.mp3
+{'match_time': 3.1111769676208496, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': -81L}
+./mp3t/Living_20141004_152701.mp3
+None
+./mp3t/Living_20141004_105412.mp3
+{'match_time': 2.318610906600952, 'song_id': 5, 'confidence': 2, 'song_name': 'washing', 'offset': 54L}
+./mp3t/Living_20141004_131244.mp3
+{'match_time': 0.6552608013153076, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': 290L}
+./mp3t/Living_20141004_162933.mp3
+{'match_time': 1.302582025527954, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 89L}
+./mp3t/Living_20141004_111240.mp3
+{'match_time': 2.3448779582977295, 'song_id': 5, 'confidence': 2, 'song_name': 'washing', 'offset': -211L}
+./mp3t/Living_20141004_152510.mp3
+{'match_time': 1.2106077671051025, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': -17L}
+./mp3t/Living_20141004_153128.mp3
+None
+./mp3t/Living_20141004_120002.mp3
+None
+./mp3t/Living_20141004_170519.mp3
+{'match_time': 1.4017348289489746, 'song_id': 4, 'confidence': 2, 'song_name': 'keyboard', 'offset': 19L}
+./mp3t/Living_20141004_132100.mp3
+{'match_time': 1.2255330085754395, 'song_id': 1, 'confidence': 12, 'song_name': 'bathroom', 'offset': 115L}
+./mp3t/Living_20141004_152439.mp3
+None
+./mp3t/Living_20141004_153014.mp3
+None
+./mp3t/Living_20141004_170442.mp3
+None
+./mp3t/Living_20141004_131105.mp3
+{'match_time': 0.6580088138580322, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': 149L}
+./mp3t/Living_20141004_113901.mp3
+None
+./mp3t/Living_20141004_152915.mp3
+{'match_time': 1.2158198356628418, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': -125L}
+./mp3t/Living_20141004_112454.mp3
+{'match_time': 1.838658094406128, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': -187L}
+./mp3t/Living_20141004_110455.mp3
+{'match_time': 2.414048910140991, 'song_id': 2, 'confidence': 2, 'song_name': 'bus', 'offset': 109L}
+./mp3t/Living_20141004_153222.mp3
+{'match_time': 1.2005739212036133, 'song_id': 5, 'confidence': 2, 'song_name': 'washing', 'offset': 161L}
+./mp3t/Living_20141004_152401.mp3
+{'match_time': 1.247960090637207, 'song_id': 4, 'confidence': 2, 'song_name': 'keyboard', 'offset': -33L}
+./mp3t/Living_20141004_113538.mp3
+{'match_time': 0.6186521053314209, 'song_id': 1, 'confidence': 2, 'song_name': 'bathroom', 'offset': 43L}
+./mp3t/Living_20141004_152602.mp3
+{'match_time': 1.2054989337921143, 'song_id': 6, 'confidence': 6, 'song_name': 'cooking', 'offset': -2L}
+./mp3t/Living_20141004_152741.mp3
+None
+./mp3t/Living_20141004_170845.mp3
+{'match_time': 2.3633129596710205, 'song_id': 7, 'confidence': 2, 'song_name': 'cooking2', 'offset': 59L}
+./mp3t/Living_20141004_131010.mp3
+{'match_time': 0.6387348175048828, 'song_id': 3, 'confidence': 2, 'song_name': 'music and eating', 'offset': 202L}

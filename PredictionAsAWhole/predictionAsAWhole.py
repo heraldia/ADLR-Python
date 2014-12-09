@@ -33,7 +33,7 @@ def predictionAsAWholeArff(activitySet,soundSet):
     fout.write("@ATTRIBUTE orientation numeric\n")
     fout.write("@ATTRIBUTE soundPredictionResult numeric\n")
     fout.write("@ATTRIBUTE wifiPredictionResult numeric\n")
-    fout.write("@ATTRIBUTE time numeric\n")
+    fout.write("@ATTRIBUTE hour numeric\n")
     fout.write("@ATTRIBUTE activity {%s}\n"%activityUString)
 
     fout.write("\n")
@@ -45,15 +45,19 @@ def predictionAsAWholeArff(activitySet,soundSet):
         orientation =strs[1].strip()
         angle =strs[2].strip()
         soundFile =strs[3].strip()
-        time = soundFile[9:11]
+        #hour = soundFile[9:11]
+        time =strs[4].strip()
+        hour = time.split(' ')
+        hour = hour[1][:2]
         #print soundFile
-        #time =strs[4].strip()
         if soundFile:
             soundPredictionResult = searchInSoundFile(soundFile, soundPrediction)
+            #print soundFile,time
         elif not soundFile :
             soundPredictionResult = "NoneFile"
             #time = str(-1)
-            time = '?'
+            #print soundFile,time
+            #hour = '?'
 
         wifiPredictionResult, wifiPredictionResultN = searchInWifiFileReturnRoom(time, wifiPrediction)
 
@@ -76,10 +80,10 @@ def predictionAsAWholeArff(activitySet,soundSet):
         if wifiPredictionResultN > -1:
             fout.write(
                     str(orientationN) + ',' + \
-                    #orientationPredictResult + ',\t' + \
+                    #orientationPredictResult + ',' + \
                     soundTransform(soundPredictionResult,soundSet) \
                     + ',' + str(wifiPredictionResultN) \
-                    + ',' + time \
+                    + ',' + hour \
                     + ',' + activity \
                     +'\n')
 
@@ -117,22 +121,24 @@ def predictionAsAWholeDat():
         orientation =strs[1].strip()
         angle =strs[2].strip()
         soundFile =strs[3].strip()
-        time = soundFile[9:11]
+        time = strs[4].strip()
+        #hour = soundFile[9:11]
+        hour = time.split(' ')
+        hour = hour[1][:2]
         #print soundFile
-        #time =strs[4].strip()
         if soundFile:
             soundPredictionResult = searchInSoundFile(soundFile, soundPrediction)
         elif not soundFile :
             #soundPredictionResult = "NoneFile"
             soundPredictionResult = "?"
-            time = '?'
-            #time = str(-1)
+            #hour = '?'
+            #hour = str(-1)
 
         wifiPredictionResult, wifiPredictionResultN = searchInWifiFileReturnRoom(time, wifiPrediction)
 
-        orientationPredictResult = searchInOrientationFile(orientation,orientationPrediction)
+        #orientationPredictResult = searchInOrientationFile(orientation,orientationPrediction)
 
-        finalPredictResult = decide(orientation, soundPrediction, wifiPredictionResult)
+        #finalPredictResult = decide(orientation, soundPrediction, wifiPredictionResult)
 
         activity = filter(str.isalpha, activity)
         activitySet.add(activity)
@@ -153,7 +159,8 @@ def predictionAsAWholeDat():
                 orientation + ',' + \
                 #orientationPredictResult + ',\t' + \
                 soundPredictionResult \
-                + ',' + wifiPredictionResult[0] \
+                + ',' + wifiPredictionResult \
+                + ',' + str(hour) \
                 + ',' + time \
                 + '\n')
 
@@ -205,7 +212,7 @@ def decide(orientation, soundPrediction, wifiPredictionResult):
     if soundPrediction in soundSet2:
         if loca1 in resultSet:
             result = actiSet3[1]
-            print result
+            #print result
             return result
 
     if soundPrediction == 'cooking3':
@@ -243,35 +250,42 @@ def searchInSoundFile(target, soundPrediction):
 
 def searchInWifiFileReturnRoom(time, wifiPrediction):
     l = int(searchInWifiFile(time,wifiPrediction))
+    #print "248",time,l
     if l == 1 :
         return "Bedroom",1
     elif l == 2:
         return "Bathroom",2
     elif l == 4:
         return "Kitchen",4
-    else:
+    elif l == -1:
         return "Unknown",-1
+    else:
+        return "NONE", -1
 
 def searchInWifiFile(time, wifiPrediction):
     #print time
-    fwifiPrediction = file(wifiPrediction,'r')
-    for line in fwifiPrediction.readlines():
-        strss = line.split('\t')
-        for strs in strss:
-            #print strs
-            l = strs.find(time)
-            #print l
-            if l > -1:
-                #print time
-                #print strss[0]
-                return strss[0]
-            elif l == -1:
-                #print time
-                continue
-            else:
-                pass
-    fwifiPrediction.close()
-    return '-1'
+    #for i in range (0,1):
+        #print time
+        fwifiPrediction = file(wifiPrediction,'r')
+        for line in fwifiPrediction.readlines():
+            strss = line.split('\t')
+            for strs in strss:
+                #print strs
+                l = strs.find(time)
+                #print time[:-2]
+                    #print time[:-3]
+                #print l
+                if l > -1:
+                    #print l
+                    #print time
+                    #print "271",time,l,strss[0]
+                    print strss
+                    return strss[0]
+                elif l == -1:
+                    #time = time[:-1]
+                    continue
+        fwifiPrediction.close()
+        return -1
 
 def searchInOrientationFile(orientation, orientationPrediction):
     fSound = file(soundPrediction,'r')
@@ -293,10 +307,11 @@ def test1():
 
 def test2():
     wifiPrediction  = 'wifiPrediction.dat'
-    time = '2014-10-25 23:24:15'
+    time = '2014-10-13 13:20:13'
     #wifiPredictionResult = searchInWifiFile(time, wifiPrediction)
     #print wifiPredictionResult
-    #print searchInWifiFileReturnRoom(time, wifiPrediction)
+    (a,b) = searchInWifiFileReturnRoom(time, wifiPrediction)
+    print a
 
 def orientationTransform(orientation):
     orienSet = ('N','NE','E','SE','S','SW','W','NW')
@@ -351,5 +366,5 @@ if __name__ == '__main__':
      activitySet, soundSet = predictionAsAWholeDat()
      predictionAsAWholeArff(activitySet,soundSet)
      setInfor(activitySet,soundSet)
-     #test1()
+     #test2()
 

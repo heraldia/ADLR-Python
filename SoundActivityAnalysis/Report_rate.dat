@@ -1,0 +1,79 @@
+Bathroom_diff ---------
+Sample number is 35
+Error number is 13
+Error rate is 37.142857 %
+Bathroom_None ---------
+Sample number is 35
+None number is 11
+None rate is 31.428571 %
+Breakfast_diff ---------
+Sample number is 12
+Error number is 1
+Error rate is 8.333333 %
+Breakfast_None ---------
+Sample number is 12
+None number is 4
+None rate is 33.333333 %
+Cooking_diff ---------
+Sample number is 105
+Error number is 16
+Error rate is 15.238095 %
+Cooking_None ---------
+Sample number is 105
+None number is 28
+None rate is 26.666667 %
+Dinner_diff ---------
+Sample number is 47
+Error number is 5
+Error rate is 10.638298 %
+Dinner_None ---------
+Sample number is 47
+None number is 10
+None rate is 21.276596 %
+Lunch_diff ---------
+Sample number is 44
+Error number is 5
+Error rate is 11.363636 %
+Lunch_None ---------
+Sample number is 44
+None number is 14
+None rate is 31.818182 %
+MidNight snack_diff ---------
+Sample number is 21
+Error number is 4
+Error rate is 19.047619 %
+MidNight snack_None ---------
+Sample number is 21
+None number is 2
+None rate is 9.523810 %
+Music_diff ---------
+Sample number is 31
+Error number is 18
+Error rate is 58.064516 %
+Music_None ---------
+Sample number is 31
+None number is 8
+None rate is 25.806452 %
+Washing dishes_diff ---------
+Sample number is 61
+Error number is 8
+Error rate is 13.114754 %
+Washing dishes_None ---------
+Sample number is 61
+None number is 13
+None rate is 21.311475 %
+Washing in bathroom_diff ---------
+Sample number is 57
+Error number is 4
+Error rate is 7.017544 %
+Washing in bathroom_None ---------
+Sample number is 57
+None number is 14
+None rate is 24.561404 %
+
+------------------------------
+Total sample number is 505
+Total error number is 74
+Total error rate is 14.653465 %
+Total None number is 104
+Total None rate is 20.594059 %

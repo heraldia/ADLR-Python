@@ -1,0 +1,30 @@
+AMR TO MP3
+wifi location {{{1
+WifiTableDB{{{2
+    main.py
+pyrite {{{3
+\\\Secure FTP\pyrit\nfs4Exports\grad\yunfei\svmMulticlass\wifi\
+
+
+Orientation{{{1
+NexusSensorsDB{{{2
+test4()  // for collecting orientation
+
+g:\class\Semester5\research\ADLRecorder\code\python\Orientation\{{{2
+main.py
+
+Sound{{{1
+g:\class\Semester5\research\ADLRecorder\code\python\SoundIndoorDB\main.py{{{2
+copy songList.txt to ubuntu
+
+python main.py on ubuntu {{{2 
+from ubuntu
+copy songList.txt to g:\class\Semester5\research\ADLRecorder\code\python\SoundActivityAnalysis
+copy activityPrediction.txt to g:\class\Semester5\research\ADLRecorder\code\python\SoundActivityAnalysis
+
+SoundActivityAnalysis{{{2
+findWrongPredict.py
+
+g:\class\Semester5\research\ADLRecorder\code\python\PredictionAsAWhole\main.py{{{1
+predictionAsAWhole.py
+    

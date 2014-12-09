@@ -1,0 +1,201 @@
+Fingerprinting channel 1/2 for seed/bathroom.mp3
+Finished channel 1/2 for seed/bathroom.mp3
+Fingerprinting channel 2/2 for seed/bathroom.mp3
+Finished channel 2/2 for seed/bathroom.mp3
+Fingerprinting channel 1/2 for seed/music and eating.mp3
+Finished channel 1/2 for seed/music and eating.mp3
+Fingerprinting channel 2/2 for seed/music and eating.mp3
+Finished channel 2/2 for seed/music and eating.mp3
+Fingerprinting channel 1/2 for seed/cooking3.mp3
+Finished channel 1/2 for seed/cooking3.mp3
+Fingerprinting channel 2/2 for seed/cooking3.mp3
+Finished channel 2/2 for seed/cooking3.mp3
+Fingerprinting channel 1/2 for seed/cooking.mp3
+Finished channel 1/2 for seed/cooking.mp3
+Fingerprinting channel 2/2 for seed/cooking.mp3
+Finished channel 2/2 for seed/cooking.mp3
+Fingerprinting channel 1/2 for seed/eating.mp3
+Finished channel 1/2 for seed/eating.mp3
+Fingerprinting channel 2/2 for seed/eating.mp3
+Finished channel 2/2 for seed/eating.mp3
+Fingerprinting channel 1/2 for seed/washing.mp3
+Finished channel 1/2 for seed/washing.mp3
+Fingerprinting channel 2/2 for seed/washing.mp3
+Finished channel 2/2 for seed/washing.mp3
+Fingerprinting channel 1/2 for seed/cooking2.mp3
+Finished channel 1/2 for seed/cooking2.mp3
+Fingerprinting channel 2/2 for seed/cooking2.mp3
+Finished channel 2/2 for seed/cooking2.mp3
+5669
+----------------------------17---------
+Filename 		 ActualActivity 		 Prediction 		 PredictionByHumanEar 
+20141026_235938	 Midnight snack	music and eating
+20141021_123204	 Lunch	eating
+20141026_180810	 Working on PC at home	None
+20141007_195310	 Working on PC at home	None
+20141013_222241	 Working on PC at home	None
+20141014_213702	 Cooking	None
+20141014_122004	 Lunch	cooking3
+20141022_004038	 Cooking	bathroom
+20141017_113422	 Bathroom	None
+20141026_235456	 Cooking	bathroom
+20141026_194829	 Dinner	cooking2
+20141012_103451	 Cooking	cooking2
+20141012_104637	 Breakfast	cooking
+20141017_114322	 Cooking	cooking
+20141018_090702	 Washing dishes	None
+20141018_195323	 Dinner	cooking
+20141018_085550	 Cooking	None
+20141025_112539	 Working on PC at home	cooking2
+20141022_182244	 Dinner	cooking
+20141026_235208	 Working on PC at home	bathroom
+20141022_232859	 Cooking	washing
+20141015_203104	 Dinner	cooking3
+20141012_102743	 Cooking	cooking2
+20141022_203500	 Bathroom	cooking
+20141012_112717	 Working on PC at home	cooking
+20141012_112840	 Working on PC at home	music and eating
+20141026_130029	 Lunch	None
+20141025_145905	 Working on PC at home	cooking2
+20141007_081916	 Breakfast	None
+20141022_192445	 Working on PC at home	None
+20141020_123750	 Lunch	cooking2
+20141020_205317	 Working on PC at home	bathroom
+20141017_114206	 Cooking	cooking
+20141027_000038	 Midnight snack	washing
+20141026_194740	 Dinner	cooking2
+20141015_204307	 Working on PC at home	music and eating
+20141012_104353	 Cooking	cooking2
+20141012_104316	 Cooking	cooking2
+20141014_230032	 Working on PC at home	None
+20141015_121615	 Lunch	None
+20141007_081649	 Breakfast	None
+20141018_085504	 Cooking	music and eating
+20141014_193141	 Working on PC at home	None
+20141019_132322	 Washing dishes	None
+20141012_200327	 Working on PC at home	None
+20141012_113957	 Working on PC at home	None
+20141025_182641	 Dinner	None
+20141012_120708	 Working on PC at home	washing
+20141023_190154	 Dinner	music and eating
+20141022_004141	 Bathroom	bathroom
+20141012_104929	 Breakfast	bathroom
+20141022_182621	 Dinner	cooking
+20141026_204955	 Working on PC at home	None
+20141026_230755	 Working on PC at home	None
+20141022_233725	 Washing dishes	cooking
+20141012_114452	 Working on PC at home	None
+20141026_215920	 Working on PC at home	None
+20141022_233202	 Midnight snack	eating
+20141014_122030	 Lunch	None
+20141019_134438	 Lunch	None
+20141022_004011	 Cooking	bathroom
+20141016_112315	 Working on PC at home	washing
+20141024_110411	 Washing dishes	None
+20141014_211318	 Working on PC at home	None
+20141026_192742	 Working on PC at home	eating
+20141012_113410	 Working on PC at home	None
+20141022_003853	 Cooking	None
+20141007_172048	 Music	music and eating
+20141021_211101	 Working on PC at home	music and eating
+20141025_234258	 Washing in bathroom	music and eating
+20141022_003917	 Cooking	None
+20141019_210734	 Bathroom	music and eating
+20141014_120304	 Cooking	cooking2
+20141020_122807	 Cooking	None
+20141022_203547	 Bathroom	washing
+20141022_233039	 Midnight snack	eating
+20141018_201632	 Washing dishes	bathroom
+20141012_200600	 Cooking	music and eating
+20141012_102822	 Cooking	cooking2
+20141012_120734	 Working on PC at home	None
+20141020_122837	 Cooking	None
+20141018_195253	 Dinner	music and eating
+20141025_233940	 Washing in bathroom	cooking2
+20141012_120829	 Working on PC at home	None
+20141026_125123	 Cooking	eating
+20141019_121404	 Working on PC at home	eating
+20141014_000121	 Cooking	None
+20141012_135258	 Cooking	cooking
+20141021_180500	 Washing dishes	cooking2
+20141011_193435	 Music	cooking2
+20141013_234641	 Bathroom	bathroom
+20141014_120659	 Cooking	eating
+20141008_155104	 Cooking	music and eating
+20141025_175609	 Washing dishes	cooking
+20141026_123941	 Cooking	eating
+20141025_232425	 Midnight snack	eating
+20141013_132032	 Working on PC at home	washing
+20141012_235637	 Bathroom	None
+20141017_113446	 Bathroom	music and eating
+20141008_143531	 Washing in bathroom	bathroom
+20141017_185538	 Washing dishes	music and eating
+20141022_004205	 Bathroom	cooking2
+20141018_192914	 Washing dishes	washing
+20141021_191517	 Working on PC at home	None
+20141026_123621	 Washing dishes	cooking2
+20141012_114034	 Working on PC at home	None
+20141019_195218	 Working on PC at home	eating
+20141019_132245	 Cooking	eating
+20141022_004306	 Midnight snack	bathroom
+20141026_123331	 Washing dishes	None
+20141026_175130	 Working on PC at home	None
+20141024_212710	 Working on PC at home	None
+20141012_104028	 Breakfast	eating
+20141024_120704	 Lunch	cooking2
+20141024_202952	 Working on PC at home	cooking2
+20141024_110328	 Cooking	None
+20141020_215150	 Working on PC at home	cooking3
+20141017_193848	 Washing dishes	music and eating
+20141012_200505	 Bathroom	None
+20141024_214643	 Working on PC at home	None
+20141018_094034	 Working on PC at home	None
+20141008_142212	 Washing in bathroom	washing
+20141022_171756	 Working on PC at home	None
+20141019_220711	 Working on PC at home	bathroom
+20141026_194805	 Dinner	bathroom
+20141022_234830	 Bathroom	music and eating
+20141021_180605	 Dinner	None
+20141019_161556	 Working on PC at home	None
+20141014_125146	 Washing dishes	cooking2
+20141007_200620	 Bathroom	None
+20141025_141958	 Working on PC at home	None
+20141021_120251	 Cooking	cooking2
+20141020_201256	 Dinner	music and eating
+20141025_232356	 Midnight snack	eating
+20141025_175436	 Washing dishes	cooking
+20141026_123023	 Washing in bathroom	None
+20141024_120545	 Lunch	cooking
+20141013_234746	 Bathroom	bathroom
+20141022_003949	 Cooking	eating
+20141026_190909	 Working on PC at home	None
+20141020_123703	 Lunch	music and eating
+20141014_120551	 Cooking	None
+20141017_185424	 Cooking	bathroom
+20141022_233235	 Midnight snack	cooking
+20141026_193731	 Cooking	cooking
+20141026_193629	 Cooking	cooking
+20141018_194637	 Dinner	music and eating
+20141022_232815	 Cooking	cooking2
+20141026_141324	 Walking at home	cooking2
+20141012_115502	 Working on PC at home	None
+20141007_113755	 Music	music and eating
+20141017_113357	 Bathroom	None
+20141027_001333	 Bathroom	bathroom
+20141019_183918	 Cooking	None
+20141007_200559	 Bathroom	None
+20141012_114745	 Working on PC at home	None
+20141019_110604	 Working on PC at home	cooking2
+20141012_135347	 Cooking	None
+20141012_120011	 Working on PC at home	None
+20141007_200459	 Bathroom	None
+20141027_001242	 Bathroom	washing
+20141026_122948	 Washing in bathroom	bathroom
+20141019_183703	 Cooking	cooking
+20141023_190013	 Cooking	bathroom
+20141012_112555	 Working on PC at home	None
+20141012_103053	 Cooking	None
+20141024_120613	 Lunch	cooking
+----------------------------60---------
+Prediction time duration: 417.285935 
+Total number of predicted songs: 167 
