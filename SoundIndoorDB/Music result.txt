@@ -1,0 +1,72 @@
+seed/washing1.mp3 already fingerprinted, continuing...
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bashroomTowel.mp3 already fingerprinted, continuing...
+seed/cooking4.mp3 already fingerprinted, continuing...
+seed/bathroomUtensil.mp3 already fingerprinted, continuing...
+seed/bathroom2.mp3 already fingerprinted, continuing...
+seed/eating.mp3 already fingerprinted, continuing...
+seed/bathroomWashing.mp3 already fingerprinted, continuing...
+seed/washingDishes.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/bathroomPee.mp3 already fingerprinted, continuing...
+seed/bathroomTankFueling.mp3 already fingerprinted, continuing...
+seed/cooking3.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+seed/bathroom1.mp3 already fingerprinted, continuing...
+seed/bathroomWashing2.mp3 already fingerprinted, continuing...
+15176
+----------------------------17---------
+Filename 		 ActualActivity 		 Prediction 		 PredictionByHumanEar 
+20141106_233117	 Music	washing1
+20141110_143911	 Music	cooking2
+20141110_143842	 Music	bathroomPee
+20141110_143937	 Music	cooking2
+20141106_231310	 Music	bathroomWashing2
+20141104_203750	 Music	washing1
+20141110_121600	 Music	bathroomPee
+20141110_142211	 Music	bathroom2
+20141104_204216	 Music	washing1
+20141104_105645	 Music	bathroomWashing2
+20141110_142302	 Music	bathroom2
+20141110_142936	 Music	cooking2
+20141105_172423	 Music	bathroom2
+20141031_200623	 Music	bashroomTowel
+20141007_113755	 Music	washingDishes
+20141106_231520	 Music	bathroomPee
+20141007_172048	 Music	washingDishes
+20141110_143823	 Music	bathroom2
+20141110_121316	 Music	bathroom1
+20141106_233023	 Music	bathroomWashing2
+20141104_204450	 Music	bathroomTankFueling
+20141110_142738	 Music	bathroomUtensil
+20141011_193435	 Music	cooking2
+20141106_233202	 Music	washingDishes
+20141102_232657	 Music	washingDishes
+20141105_170521	 Music	washing
+20141105_173103	 Music	None
+20141104_201418	 Music	bathroomWashing
+20141104_203718	 Music	bathroomWashing
+20141110_121508	 Music	cooking
+20141102_175204	 Music	bathroom
+----------------------------60---------
+Prediction time duration: 74.077582 
+Total number of predicted songs: 31 
+----------------------------60-- dbInfor()-------
+1 bathroom 1
+2 washing1 1
+3 bashroomTowel 1
+4 bathroomUtensil 1
+5 cooking4 1
+6 bathroom2 1
+7 bathroomWashing 1
+8 eating 1
+9 washing 1
+10 washingDishes 1
+11 bathroomPee 1
+12 cooking2 1
+13 cooking3 1
+14 bathroomTankFueling 1
+15 cooking 1
+16 bathroom1 1
+17 bathroomWashing2 1

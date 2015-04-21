@@ -1,3 +1,13 @@
 
 Unknown by ear{{{
-20141007_200559	 Bathroom	cooking4  
+20141007_200559	 Bathroom	None
+20141007_200620	 Bathroom	None    null  sing a song
+20141022_004205	 Bathroom	None    utensil
+20141007_200459	 Bathroom	None    sing a song
+20141012_200505	 Bathroom	None
+
+
+20141007_081649	 Breakfast	None    null
+20141111_120440	 Lunch	None null
+20141109_213347	 Dinner	None null
+20141007_081916	 Breakfast	hard to tell

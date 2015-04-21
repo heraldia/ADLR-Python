@@ -82,7 +82,7 @@ def selectPP(activities):
         selectP(activity)
 
 if __name__=="__main__":
-    indoorActivitySet = set(['Bathroom','Cooking','Cooking chopping', \
+    indoorActivitySet = set(['Bathroom','Cooking','Chopping', \
         'Washing in bathroom',\
         'Dinner','Breakfast','Midnight snack','Eating',\
                 'Lunch',\

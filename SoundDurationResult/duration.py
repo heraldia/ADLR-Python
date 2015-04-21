@@ -8,5 +8,6 @@ def mbmGetFLVDuration (directory):
         os.system ("ffmpeg -i "+file+" 2>&1 | grep 'Duration' | cut -d ' ' -f 4 | sed s/,//")
 
 if __name__=="__main__":
-    directory = '../Music/*.mp3'
+    #directory = '../Music/*.mp3'
+    directory = '/home/phil/Development/dejavu/mp3t/*.mp3'
     mbmGetFLVDuration(directory)

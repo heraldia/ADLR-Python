@@ -18,7 +18,27 @@ def dbRefresh(option):
     cursor.close()
     conn.close()
 
+def dbInfor(option=0):
+    conn=MySQLdb.connect(host="localhost",user="root",passwd="virtual",db="dejavu",charset="utf8")
 
-if __name__=="__main__":
+    cursor = conn.cursor()
+
+    sql = "select * from songs"
+    cursor.execute(sql)
+
+    res = cursor.fetchall()
+    # print 'row:', cu.rowcount
+    for line in res:
+        for f in line:
+            print f,
+        print
+    #print '-'*60
+    cursor.close()
+    conn.close()
+
+def dbRefreshWrapper():
     dbRefresh(0)
     dbRefresh(1)
+
+if __name__=="__main__":
+    dbInfor()

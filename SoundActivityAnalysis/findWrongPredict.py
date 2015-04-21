@@ -8,7 +8,7 @@ patt = re.compile(r'^[2]', re.I|re.U|re.X)
 
 def generateActivitySet():
     #filenames = ['Dinner', 'Cooking', 'Washing', 'Bathroom', 'Working',\
-    #        'Lunch','Breakfast', 'Eating', 'Midnight', 'Music']
+    #        'Lunch','Breakfast', 'Eating', 'Midnight', 'Music', 'Chopping']
     #for filename in filenames:
     activity_set = set()
     f1 = file('activityPrediction.txt', 'r')

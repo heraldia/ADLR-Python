@@ -1,0 +1,160 @@
+seed/washing1.mp3 already fingerprinted, continuing...
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bashroomTowel.mp3 already fingerprinted, continuing...
+seed/bathroomUtensil.mp3 already fingerprinted, continuing...
+seed/bathroom2.mp3 already fingerprinted, continuing...
+seed/eating.mp3 already fingerprinted, continuing...
+seed/bathroomWashing.mp3 already fingerprinted, continuing...
+seed/washingDishes.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/bathroomPee.mp3 already fingerprinted, continuing...
+seed/bathroomTankFueling.mp3 already fingerprinted, continuing...
+seed/cooking3.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+seed/bathroom1.mp3 already fingerprinted, continuing...
+seed/bathroomWashing2.mp3 already fingerprinted, continuing...
+14063
+----------------------------17---------
+Filename 		 ActualActivity 		 Prediction 		 PredictionByHumanEar 
+20141026_235938	 Midnight snack	bathroom2
+20141021_123204	 Lunch	washingDishes
+20141110_222409	 Midnight snack	washingDishes
+20141111_120412	 Lunch	washing1
+20141115_135421	 Lunch	cooking2
+20141026_194805	 Dinner	bathroomWashing2
+20141110_123450	 Lunch	bathroom
+20141116_133302	 Lunch	bathroomTankFueling
+20141112_001642	 Midnight snack	cooking3
+20141115_135326	 Lunch	bathroomTankFueling
+20141104_001810	 Midnight snack	bathroomWashing2
+20141111_120343	 Lunch	cooking2
+20141102_221614	 Dinner	bathroom2
+20141114_112518	 Lunch	washing1
+20141024_120545	 Lunch	cooking2
+20141106_204219	 Dinner	bathroom2
+20141111_123020	 Lunch	bathroomWashing2
+20141112_183439	 Dinner	bathroom2
+20141108_104205	 Breakfast	cooking
+20141114_194511	 Dinner	washingDishes
+20141108_231030	 Dinner	bathroom2
+20141114_004315	 Dinner	washing1
+20141105_225601	 Midnight snack	cooking2
+20141113_131122	 Lunch	washing1
+20141115_093307	 Breakfast	washing1
+20141108_104251	 Breakfast	bathroomPee
+20141025_182641	 Dinner	washingDishes
+20141026_194829	 Dinner	bathroom2
+20141019_134438	 Lunch	bathroomPee
+20141112_001551	 Midnight snack	bathroomWashing
+20141114_004220	 Dinner	cooking2
+20141023_190154	 Dinner	washingDishes
+20141114_004247	 Dinner	bathroomWashing2
+20141020_201256	 Dinner	bathroomPee
+20141025_232356	 Midnight snack	bathroom2
+20141012_104929	 Breakfast	bathroom
+20141113_200440	 Dinner	bathroom
+20141111_120242	 Lunch	cooking2
+20141012_104637	 Breakfast	cooking
+20141031_225617	 Midnight snack	bathroomWashing2
+20141031_231026	 Midnight snack	bathroom1
+20141014_122004	 Lunch	cooking3
+20141104_184752	 Dinner	cooking3
+20141111_173831	 Dinner	bathroom2
+20141020_123703	 Lunch	bathroomTankFueling
+20141108_104318	 Breakfast	bathroomWashing2
+20141106_204003	 Dinner	bathroom2
+20141025_232425	 Midnight snack	bathroomPee
+20141022_233235	 Midnight snack	cooking
+20141018_195323	 Dinner	cooking
+20141112_231708	 Midnight snack	washing1
+20141014_122030	 Lunch	bathroomTankFueling
+20141015_203104	 Dinner	cooking3
+20141022_182244	 Dinner	cooking
+20141108_231114	 Dinner	bathroom2
+20141105_225658	 Midnight snack	cooking2
+20141101_200827	 Dinner	eating
+20141101_172706	 Dinner	bathroom2
+20141116_133128	 Lunch	washingDishes
+20141031_230521	 Midnight snack	bathroomTankFueling
+20141115_135449	 Lunch	bathroomTankFueling
+20141018_194637	 Dinner	washing1
+20141110_173348	 Dinner	cooking
+20141022_182621	 Dinner	bathroomWashing
+20141111_123647	 Lunch	bathroomWashing2
+20141115_093440	 Breakfast	washing1
+20141114_112444	 Lunch	eating
+20141114_112414	 Lunch	cooking
+20141111_173924	 Dinner	washingDishes
+20141106_203932	 Dinner	cooking2
+20141109_150904	 Lunch	washing1
+20141111_123707	 Lunch	washingDishes
+20141102_221507	 Dinner	eating
+20141110_173547	 Dinner	bathroomTankFueling
+20141110_123359	 Lunch	washing1
+20141022_004306	 Midnight snack	washing1
+20141106_123208	 Lunch	washing1
+20141113_132022	 Lunch	bathroom2
+20141111_173951	 Dinner	bathroom1
+20141112_124406	 Lunch	eating
+20141115_093327	 Breakfast	cooking2
+20141031_163505	 Dinner	cooking2
+20141112_124257	 Lunch	bathroomPee
+20141109_150834	 Lunch	cooking2
+20141103_115458	 Lunch	cooking
+20141114_194602	 Dinner	cooking
+20141031_212825	 Midnight snack	bashroomTowel
+20141031_164317	 Dinner	washingDishes
+20141113_200359	 Dinner	bathroomPee
+20141106_204122	 Dinner	washingDishes
+20141012_104028	 Breakfast	eating
+20141105_182222	 Dinner	bathroom2
+20141024_120704	 Lunch	washing1
+20141109_213300	 Dinner	cooking3
+20141112_124341	 Lunch	bathroom1
+20141026_130029	 Lunch	eating
+20141115_093411	 Breakfast	bathroomWashing
+20141112_231635	 Midnight snack	eating
+20141116_133218	 Lunch	bathroomPee
+20141105_182248	 Dinner	bathroom2
+20141022_233039	 Midnight snack	bathroomWashing2
+20141112_183412	 Dinner	bathroomTankFueling
+20141104_001843	 Midnight snack	bathroom
+20141113_131228	 Lunch	bathroom2
+20141103_115528	 Lunch	washingDishes
+20141113_131252	 Lunch	bashroomTowel
+20141020_123750	 Lunch	bathroomPee
+20141101_171943	 Dinner	cooking
+20141022_233202	 Midnight snack	bathroomWashing2
+20141027_000038	 Midnight snack	bathroomPee
+20141026_194740	 Dinner	cooking2
+20141105_120340	 Lunch	cooking2
+20141106_123254	 Lunch	eating
+20141112_231558	 Midnight snack	cooking2
+20141018_195253	 Dinner	bathroomPee
+20141116_133155	 Lunch	cooking
+20141103_192631	 Dinner	washing
+20141015_121615	 Lunch	washingDishes
+20141021_180605	 Dinner	bathroomWashing
+20141104_184819	 Dinner	bathroomWashing
+20141024_120613	 Lunch	cooking
+----------------------------60---------
+Prediction time duration: 306.735155 
+Total number of predicted songs: 125 
+----------------------------60-- dbInfor()-------
+1 bathroom 1
+2 washing1 1
+3 bashroomTowel 1
+4 bathroomUtensil 1
+5 bathroom2 1
+6 bathroomWashing 1
+7 eating 1
+8 washing 1
+9 washingDishes 1
+10 bathroomPee 1
+11 cooking2 1
+12 cooking3 1
+13 bathroomTankFueling 1
+14 cooking 1
+15 bathroomWashing2 1
+16 bathroom1 1

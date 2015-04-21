@@ -236,6 +236,41 @@ def multipleActions(targActiList,option = 0):
         pass
 
 
+def conditionalSelectActivity(attributeValue,option = 0):
+    import glob
+    if option == 0:
+        dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'
+    else:
+        dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/o/nexussensors*.db'
+    for dbFilename in\
+    glob.glob(dire):
+        dbSeqenceNum = filter(str.isdigit,dbFilename)
+        print dbSeqenceNum + "-"*20
+        dbSeqenceNum = int(dbSeqenceNum)
+        conn = sqlite3.connect(dbFilename)
+        conn.isolation_level = None
+        cu = conn.cursor()
+        sql_sel = "select id, mOrientationSensor, mOrientation from sensorspackage "
+
+        sql_where = 'where '
+
+        sql_act = sqlAct(dbSeqenceNum)
+
+        sql_condition = sql_act +' = '+ "'%s'"%attributeValue
+        sqlF = sql_sel+sql_where+sql_condition
+
+        cu.execute(sqlF)
+        #print sqlF
+        res = cu.fetchall()
+        # print 'row:', cu.rowcount
+        for line in res:
+            for f in line:
+                print f,
+            print
+        #print '-'*60
+
+
+
 def conditionalSelectO(conditionAttribute,attributeValue,option = 0):
     if option ==2:
         conditionalSelect(conditionAttribute,attributeValue, 0)
@@ -279,6 +314,87 @@ def conditionalSelect(conditionAttribute,attributeValue,option = 0):
 
 
 
+def updateActionMOrientation(targActi, option = 0): # 8
+    import glob
+    if option == 0:
+        dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'
+    else:
+        dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/o/nexussensors*.db'
+    for dbFilename in\
+    glob.glob(dire):
+        dbSeqenceNum = filter(str.isdigit,dbFilename)
+        print dbSeqenceNum + "-"*20
+        dbSeqenceNum = int(dbSeqenceNum)
+        conn = sqlite3.connect(dbFilename)
+        conn.isolation_level = None
+        cu = conn.cursor()
+
+        #sql_update = "update sensorspackage set "
+        sql_update = "update sensorspackage set "
+        sql_and = " and "
+        sql_colon = ","
+        sql_where = 'where '
+
+        sql_act = sqlAct(dbSeqenceNum)
+
+        currentOrientation = 'SW'
+        newOrientation = 'NE'
+
+        sql_set = "mOrientation = '%s' "%newOrientation
+        sql_condition = "mOrientation = '%s' "%currentOrientation
+
+        sql_actName = "%s = '%s'"%(sql_act,targActi)
+
+        sqlF = sql_update+sql_set+sql_where+sql_condition+sql_and + sql_actName
+        cu.execute(sqlF)
+        #print sqlF
+
+        pass
+
+
+def updateActionName(option = 0): # 7
+    import glob
+    if option == 0:
+        dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'
+    else:
+        dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/o/nexussensors*.db'
+    for dbFilename in\
+    glob.glob(dire):
+        dbSeqenceNum = filter(str.isdigit,dbFilename)
+        print dbSeqenceNum + "-"*20
+        dbSeqenceNum = int(dbSeqenceNum)
+        conn = sqlite3.connect(dbFilename)
+        conn.isolation_level = None
+        cu = conn.cursor()
+
+        #sql_update = "update sensorspackage set "
+        sql_update = "update wifirssi set "
+        sql_and = " and "
+        sql_colon = ","
+
+        sql_where = 'where '
+
+        sql_act = sqlAct(dbSeqenceNum)
+
+        sql_set = "%s = 'Chopping' "%sql_act
+        #sql_action = sql_act + " = '%s'"%targAct
+
+        sql_condition = "%s = 'Cooking chopping' "%sql_act
+
+        sqlF = sql_update+sql_set+sql_where+sql_condition
+        cu.execute(sqlF)
+        #print sqlF
+        res = cu.fetchall()
+        # print 'row:', cu.rowcount
+        for line in res:
+            for f in line:
+                print f,
+            print
+        #print '-'*60
+
+        pass
+
+
 def updateActionO(targActiList,option = 0):
     if option ==2:
         updateAction(targActiList,0)
@@ -286,7 +402,7 @@ def updateActionO(targActiList,option = 0):
     else:
         updateAction(targActiList,option)
 
-def updateAction(targAct,option = 0):
+def updateAction(targAct,option = 0): # 6
     import glob
     if option == 0:
         dire = 'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'
@@ -328,10 +444,10 @@ def updateAction(targAct,option = 0):
         pass
 
 
-def updateP4(lowerBound,upperBound, acti):
+def updateP6(acti):
     import glob
     for dbFilename in\
-    glob.glob(r'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'):
+    glob.glob(r'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors7.db'):
     #glob.glob(r'nexussensors*.db'):
         sequenceNum = filter(str.isdigit,dbFilename)
         print sequenceNum + "-"*20
@@ -341,15 +457,23 @@ def updateP4(lowerBound,upperBound, acti):
         sql_update = "update sensorspackage set "
         sql_and = " and "
         sql_colon = ","
-        orieAngle = testRandom(lowerBound,upperBound)
-        sql_mOrientAngle = "mOrientationSensor = '%s'"%orieAngle
-        orie = ranAngleOri(orieAngle)
-        sql_mOrie = "mOrientation = '%s'"%orie
+
+        #lowerBound1 = 110
+        #upperBound1 = 180
+        #lowerBound2 = -180
+        #upperBound2 = -111
+        #orieAngle = testRandom(lowerBound2,upperBound2)
+
+        #sql_mOrientAngle = "mOrientationSensor = '%s'"%orieAngle
+        sql_mOrientAngle = "mOrientationSensor = mOrientationSensor - 180 "
+
+        #orie = ranAngleOri(orieAngle)
+        #sql_mOrie = "mOrientation = '%s'"%orie
         sql_where = " where "
         sql_action = "action = '%s'"%acti
         sql_activity = "activity ='%s'"%acti
-        sqlF = sql_update + sql_mOrientAngle + sql_colon + sql_mOrie + \
-        sql_where
+        sqlF = sql_update + sql_mOrientAngle + sql_where
+       # + sql_colon + sql_mOrie + \
         sequenceNum = int(sequenceNum)
         if sequenceNum <= 13:
             sql_act = sql_activity
@@ -358,18 +482,19 @@ def updateP4(lowerBound,upperBound, acti):
 
         sqlF = sqlF + sql_act
 
-        sql_mOrieNot = " (mOrientationSensor<%d or mOrientationSensor >= %d )"%(lowerBound,upperBound)
+        #sql_mOrieNot = "( (mOrientationSensor<%d and mOrientationSensor>=0) or (mOrientationSensor>%d and mOrientationSensor <0  ))"%(lowerBound1,upperBound2)
 
-        sql_mOrieCondition = sql_mOrieNot
+        #sql_mOrieCondition = sql_mOrieNot
 
-        sqlF = sqlF + sql_and + sql_mOrieCondition
-        print sqlF
+        #sqlF = sqlF + sql_and + sql_mOrieCondition
+        #print sqlF
 
         cu.execute(sqlF)
 
+        '''
+        '''
         #print '-'*60
         pass
-
 
 def updateP5(acti):
     import glob
@@ -418,6 +543,48 @@ def updateP5(acti):
 
         '''
         '''
+        #print '-'*60
+        pass
+
+def updateP4(lowerBound,upperBound, acti):
+    import glob
+    for dbFilename in\
+    glob.glob(r'c:/Users/Phil/workspace/NexusSensors/DbRecords/nexussensors*.db'):
+    #glob.glob(r'nexussensors*.db'):
+        sequenceNum = filter(str.isdigit,dbFilename)
+        print sequenceNum + "-"*20 + '380'
+        conn = sqlite3.connect(dbFilename)
+        conn.isolation_level = None
+        cu = conn.cursor()
+        sql_update = "update sensorspackage set "
+        sql_and = " and "
+        sql_colon = ","
+        orieAngle = testRandom(lowerBound,upperBound)
+        sql_mOrientAngle = "mOrientationSensor = '%s'"%orieAngle
+        orie = ranAngleOri(orieAngle)
+        sql_mOrie = "mOrientation = '%s'"%orie
+        sql_where = " where "
+        sql_action = "action = '%s'"%acti
+        sql_activity = "activity ='%s'"%acti
+        sqlF = sql_update + sql_mOrientAngle + sql_colon + sql_mOrie + \
+        sql_where
+        sequenceNum = int(sequenceNum)
+        if sequenceNum <= 13:
+            sql_act = sql_activity
+        else:
+            sql_act = sql_action
+
+        sqlF = sqlF + sql_act
+
+        sql_mOrieNot = " (mOrientationSensor<%d or mOrientationSensor >= %d )"%(lowerBound,upperBound)
+
+        sql_mOrieCondition = sql_mOrieNot
+
+        sqlF = sqlF + sql_and + sql_mOrieCondition
+        print sqlF
+
+        cu.execute(sqlF)
+
         #print '-'*60
         pass
 
@@ -470,7 +637,6 @@ def updateP3(lowerBound,upperBound, acti, currentValue, option):
         '''
         #print '-'*60
         pass
-
 
 def updateP2(orieAngle, orie, acti, currentValue, option):
     import glob
@@ -549,14 +715,6 @@ def updateP1(actiO, actiU):
         print sqlF
         cu.execute(sqlF)
 
-def test1():
-    orieAngle = '86'
-    orie = 'E'
-    acti = 'Cooking'
-    currentValue = 'E'
-    #option = 'Not'
-    option = 'Yes'
-    updateP(orieAngle,orie,acti,currentValue,option)
 
 def Constants():
     oriSet1 = ['NW','N','NE']
@@ -600,6 +758,16 @@ def ranAngleOri(orieAngle):
     else:
         orie = 'None'
     return orie
+
+
+def test1():
+    orieAngle = '86'
+    orie = 'E'
+    acti = 'Cooking'
+    currentValue = 'E'
+    #option = 'Not'
+    option = 'Yes'
+    updateP(orieAngle,orie,acti,currentValue,option)
 
 def test2():
     lowerBound = 20
@@ -647,8 +815,25 @@ def test5():
     updateActionO('Walking indoor',2)
     singleActionO('Walk',2)
 
+
 def test6():
+    #actList = ['Dinner','Midnight snack']
+    #actList = ['Midnight snack']
+    #actList = ['Midnight']
+    #actList = ['Dinner']
+    #multipleActions(actList,0)
     pass
+
+def test7():
+    targActi = 'Bathroom'
+    #updateP6(targActi) # !! be careful
+    conditionalSelectActivity(targActi,0)
+    #updateActionMOrientation(targActi, 0)
+    #singleActionO(targActi, 0)
+
+def test8():
+    pass
+
 
 if __name__=="__main__":
     #sequenceNum = 1
@@ -660,9 +845,6 @@ if __name__=="__main__":
     #test4()
     #allAction()
     #select()
-    #actList = ['Dinner','Midnight snack']
-    #actList = ['Midnight snack']
-    #actList = ['Midnight']
-    #actList = ['Dinner']
-    #multipleActions(actList,0)
-    conditionalSelectO('mBooleanStepDetecor',1.0,0)
+    #conditionalSelectO('mBooleanStepDetecor',1.0,0)
+    #updateActionName(0)
+    test7()

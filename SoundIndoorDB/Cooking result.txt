@@ -1,0 +1,149 @@
+Fingerprinting channel 1/2 for seed/cooking4.mp3
+Finished channel 1/2 for seed/cooking4.mp3
+Fingerprinting channel 2/2 for seed/cooking4.mp3
+Finished channel 2/2 for seed/cooking4.mp3
+seed/washing1.mp3 already fingerprinted, continuing...
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bashroomTowel.mp3 already fingerprinted, continuing...
+seed/bathroomUtensil.mp3 already fingerprinted, continuing...
+seed/bathroom2.mp3 already fingerprinted, continuing...
+seed/eating.mp3 already fingerprinted, continuing...
+seed/bathroomWashing.mp3 already fingerprinted, continuing...
+seed/washingDishes.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/bathroomPee.mp3 already fingerprinted, continuing...
+seed/bathroomTankFueling.mp3 already fingerprinted, continuing...
+seed/cooking3.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+seed/bathroom1.mp3 already fingerprinted, continuing...
+seed/bathroomWashing2.mp3 already fingerprinted, continuing...
+15176
+----------------------------17---------
+Filename 		 ActualActivity 		 Prediction 		 PredictionByHumanEar 
+20141116_131528	 Cooking	bashroomTowel
+20141111_114455	 Cooking	bathroom2
+20141026_125123	 Cooking	bathroomWashing
+20141109_205520	 Cooking	bathroomWashing2
+20141113_193905	 Cooking	bathroomTankFueling
+20141018_085504	 Cooking	washing1
+20141115_132222	 Cooking	cooking
+20141116_132200	 Cooking	bathroomPee
+20141115_093056	 Cooking	bathroom2
+20141014_000121	 Cooking	washingDishes
+20141014_213702	 Cooking	bashroomTowel
+20141114_112143	 Cooking	bathroomWashing
+20141022_004038	 Cooking	bathroom
+20141110_122050	 Cooking	bathroomUtensil
+20141020_122837	 Cooking	cooking4
+20141031_223856	 Cooking	bathroomPee
+20141031_162027	 Cooking	cooking4
+20141114_193506	 Cooking	cooking
+20141105_114337	 Cooking	washingDishes
+20141113_195104	 Cooking	bathroomWashing2
+20141115_135032	 Cooking	washingDishes
+20141031_224329	 Cooking	bathroom2
+20141019_183703	 Cooking	washing1
+20141112_231436	 Cooking	bathroom2
+20141026_235456	 Cooking	bathroomPee
+20141112_182509	 Cooking	bathroomWashing
+20141115_134555	 Cooking	eating
+20141111_115027	 Cooking	bathroomWashing2
+20141109_143208	 Cooking	bathroomWashing
+20141102_220452	 Cooking	cooking
+20141014_120659	 Cooking	eating
+20141008_155104	 Cooking	bathroomWashing
+20141012_103451	 Cooking	bathroomWashing
+20141106_114558	 Cooking	cooking2
+20141102_220532	 Cooking	bathroom2
+20141031_225022	 Cooking	bathroomPee
+20141012_102822	 Cooking	cooking2
+20141114_003224	 Cooking	bathroomWashing2
+20141022_003949	 Cooking	bashroomTowel
+20141104_183315	 Cooking	cooking2
+20141114_003312	 Cooking	washing1
+20141026_123941	 Cooking	bathroomWashing2
+20141017_114322	 Cooking	cooking
+20141103_114235	 Cooking	cooking2
+20141014_120551	 Cooking	bathroomPee
+20141017_185424	 Cooking	bathroomWashing2
+20141110_171812	 Cooking	bathroom1
+20141018_085550	 Cooking	washingDishes
+20141113_195309	 Cooking	washing1
+20141116_131801	 Cooking	washingDishes
+20141022_004011	 Cooking	washing1
+20141026_193731	 Cooking	cooking
+20141112_121438	 Cooking	cooking2
+20141021_120251	 Cooking	bathroom2
+20141112_121935	 Cooking	cooking2
+20141026_193629	 Cooking	cooking
+20141108_102038	 Cooking	cooking
+20141115_134833	 Cooking	eating
+20141103_235700	 Cooking	bathroomWashing2
+20141113_194642	 Cooking	bathroom
+20141022_232815	 Cooking	bathroomPee
+20141106_114741	 Cooking	bathroomPee
+20141022_232859	 Cooking	bathroomWashing
+20141116_131719	 Cooking	bathroom2
+20141019_132245	 Cooking	bathroomPee
+20141112_121542	 Cooking	bathroomWashing
+20141012_102743	 Cooking	bathroomPee
+20141113_195216	 Cooking	bashroomTowel
+20141115_131916	 Cooking	bathroomWashing
+20141105_181652	 Cooking	bathroomWashing2
+20141022_003853	 Cooking	bathroomWashing
+20141115_134426	 Cooking	bathroom
+20141108_101655	 Cooking	washing1
+20141115_134138	 Cooking	bathroom2
+20141019_183918	 Cooking	washing1
+20141115_132119	 Cooking	bathroomPee
+20141108_101959	 Cooking	washingDishes
+20141103_114302	 Cooking	washingDishes
+20141115_133845	 Cooking	washing1
+20141022_003917	 Cooking	washing1
+20141012_135347	 Cooking	bathroomWashing
+20141024_110328	 Cooking	bathroomWashing2
+20141014_120304	 Cooking	cooking2
+20141104_000341	 Cooking	bathroomPee
+20141109_143233	 Cooking	bathroomPee
+20141020_122807	 Cooking	bathroomWashing
+20141105_120026	 Cooking	bathroomWashing
+20141012_135258	 Cooking	cooking
+20141111_114831	 Cooking	washing1
+20141115_093153	 Cooking	cooking2
+20141112_182417	 Cooking	bathroomWashing2
+20141012_200600	 Cooking	bathroom2
+20141017_114206	 Cooking	bathroomWashing
+20141115_092947	 Cooking	bashroomTowel
+20141023_190013	 Cooking	bashroomTowel
+20141103_115229	 Cooking	bathroomWashing
+20141101_195951	 Cooking	bathroomTankFueling
+20141112_121605	 Cooking	bathroom2
+20141104_183902	 Cooking	bathroom2
+20141012_104353	 Cooking	cooking2
+20141012_104316	 Cooking	bathroom2
+20141108_101910	 Cooking	cooking4
+20141114_111931	 Cooking	washing1
+20141112_231352	 Cooking	cooking
+20141012_103053	 Cooking	bathroomWashing
+----------------------------60---------
+Prediction time duration: 278.974821 
+Total number of predicted songs: 105 
+----------------------------60-- dbInfor()-------
+1 bathroom 1
+2 washing1 1
+3 bashroomTowel 1
+4 bathroomUtensil 1
+5 bathroom2 1
+6 bathroomWashing 1
+7 eating 1
+8 washing 1
+9 washingDishes 1
+10 bathroomPee 1
+11 cooking2 1
+12 cooking3 1
+13 bathroomTankFueling 1
+14 cooking 1
+15 bathroomWashing2 1
+16 bathroom1 1
+17 cooking4 1

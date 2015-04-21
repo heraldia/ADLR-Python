@@ -2,27 +2,47 @@ activitySet-------------
 Bathroom,0
 Midnightsnack,1
 Cooking,2
-Cookingchopping,3
-Lunch,4
-Dinner,5
+Lunch,3
+Dinner,4
+Chopping,5
 Washinginbathroom,6
 Washingdishes,7
 Breakfast,8
 
 soundSet-------------
-bathroom,0
-washing,1
-cooking,2
-music and eating,3
-None,4
-?,5
-eating,6
-cooking2,7
-cooking3,8
+None,0
+bathroomPee,1
+washing,2
+bathroom2,3
+bathroom1,4
+bathroomWashing,5
+cooking,6
+bathroom,7
+bathroomTankFueling,8
+washing1,9
+bathroomWashing2,10
+bathroomUtensil,11
+cooking2,12
+cooking4,13
+eating,14
+washingDishes,15
+cooking3,16
+?,17
+bashroomTowel,18
 
 localSet-------------
-Unknown,-1
-Bathroom,2
-Kitchen,4
-None / ?,0
-Bedroom,1
+Unknown,  -1
+Bathroom,  2
+Kitchen,  4
+None / ?,  0
+Bedroom,  1
+
+OrientationSet-------------
+N, 0
+NE, 1
+E, 2
+SE, 3
+S, 4
+SW, 5
+W, 6
+NW, 7

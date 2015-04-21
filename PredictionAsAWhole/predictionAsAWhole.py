@@ -279,7 +279,7 @@ def searchInWifiFile(time, wifiPrediction):
                     #print l
                     #print time
                     #print "271",time,l,strss[0]
-                    print strss
+                    #print strss
                     return strss[0]
                 elif l == -1:
                     #time = time[:-1]
@@ -312,6 +312,11 @@ def test2():
     #print wifiPredictionResult
     (a,b) = searchInWifiFileReturnRoom(time, wifiPrediction)
     print a
+
+def orienSetInfor(): # unused
+    orienSet = ('N','NE','E','SE','S','SW','W','NW')
+    for ori in orienSet:
+        print orientationTransform(ori), ori
 
 def orientationTransform(orientation):
     orienSet = ('N','NE','E','SE','S','SW','W','NW')
@@ -356,7 +361,12 @@ def setInfor(activitySet,soundSet):
             "None / ?":0,
             "Unknown":-1 }
     for loc in locacDic:
-        fout.write(loc + ","+str(locacDic[loc])+'\n')
+        fout.write(loc + ",  "+str(locacDic[loc])+'\n')
+
+    fout.write('\nOrientationSet-------------\n')
+    orienSet = ('N','NE','E','SE','S','SW','W','NW')
+    for ori in orienSet:
+        fout.write(ori+', '+str(orientationTransform(ori))+ '\n')
 
     return 1
 

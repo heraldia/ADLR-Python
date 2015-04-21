@@ -42,7 +42,7 @@ def select(sequenceNum, action='NULL'):
     else:
         sql2 = " where action like '%s'" % action
 
-    sql3 = 'AND soundFile !=""'
+    sql3 = ' AND soundFile !=""'
 
     if action == 'NULL':
         sqlF = sql1 + sql3
@@ -51,6 +51,7 @@ def select(sequenceNum, action='NULL'):
 
 
     cu.execute(sqlF)
+    #print sqlF
     res = cu.fetchall()
     # print 'row:', cu.rowcount
     for line in res:
@@ -60,16 +61,21 @@ def select(sequenceNum, action='NULL'):
     #print '-'*60
 
 def indoorActionSound():
-    actionList = ['Working on PC at home', 'Walking at home',\
-    'Bathroom',\
+    actionList = [\
+    #'Working on PC at home', 'Walking at home',\
+    'Bathroom'
+
     'Washing in bathroom',\
     'Washing dishes',\
     'Cooking',\
+   'Chopping',\
     'Breakfast',\
     'Lunch',\
-     'Dinner',\
-     'Midnight snack',\
-    'Eating','Music'] #,'Bus','Walking outside','Waiting for a bus']
+    'Dinner',\
+    'Midnight snack',\
+   'Eating','Music'\
+
+    ] #,'Bus','Walking outside','Waiting for a bus']
 
     for action in actionList:
         #print ' -----------------%s-----------------'%action

@@ -1,5 +1,9 @@
 import re
+import os
 
+os.system ("python duration.py > soundDuration.txt")
+
+#def computeDuration()
 f1 = file('soundDuration.txt', 'r')
 fresulttrain = file('computeDuration.txt', 'w')
 patt = re.compile(r'^[0-9]', re.I|re.U|re.X)
@@ -18,6 +22,11 @@ for line in f1.readlines():
         duration_in_seconds = str(duration_in_seconds)
         fresulttrain.write(duration_in_seconds+'\n')
 
-fresulttrain.write('TotalSeconds = %s'%totalSecond+'\n')
 f1.close()
+fresulttrain.write('TotalSeconds = %s'%totalSecond+'\n')
+mHour =int( totalSecond / 3600)
+mMinute =int( totalSecond % 3600 /60)
+mSecond = totalSecond % 3600 % 60
+fresulttrain.write('TotalDuration = %s : %s : %s'%(mHour,mMinute,mSecond)+'\n')
 fresulttrain.close()
+

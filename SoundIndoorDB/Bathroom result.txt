@@ -1,0 +1,76 @@
+seed/washing1.mp3 already fingerprinted, continuing...
+seed/bathroom.mp3 already fingerprinted, continuing...
+seed/bashroomTowel.mp3 already fingerprinted, continuing...
+seed/cooking4.mp3 already fingerprinted, continuing...
+seed/bathroomUtensil.mp3 already fingerprinted, continuing...
+seed/bathroom2.mp3 already fingerprinted, continuing...
+seed/eating.mp3 already fingerprinted, continuing...
+seed/bathroomWashing.mp3 already fingerprinted, continuing...
+seed/washingDishes.mp3 already fingerprinted, continuing...
+seed/washing.mp3 already fingerprinted, continuing...
+seed/cooking2.mp3 already fingerprinted, continuing...
+seed/bathroomPee.mp3 already fingerprinted, continuing...
+seed/bathroomTankFueling.mp3 already fingerprinted, continuing...
+seed/cooking3.mp3 already fingerprinted, continuing...
+seed/cooking.mp3 already fingerprinted, continuing...
+seed/bathroom1.mp3 already fingerprinted, continuing...
+seed/bathroomWashing2.mp3 already fingerprinted, continuing...
+15176
+----------------------------17---------
+Filename 		 ActualActivity 		 Prediction 		 PredictionByHumanEar 
+20141105_185629	 Bathroom	bathroom1
+20141022_004141	 Bathroom	bathroom
+20141031_232553	 Bathroom	bathroom2
+20141031_223216	 Bathroom	bathroomPee
+20141019_210734	 Bathroom	washing1
+20141114_202616	 Bathroom	bathroomTankFueling
+20141013_234641	 Bathroom	bathroom
+20141110_181755	 Bathroom	washing
+20141022_234830	 Bathroom	bathroomTankFueling
+20141022_203547	 Bathroom	washing
+20141103_000124	 Bathroom	bathroom1
+20141013_234746	 Bathroom	bathroom
+20141012_200505	 Bathroom	None
+20141007_200459	 Bathroom	bathroomTankFueling
+20141031_173452	 Bathroom	cooking2
+20141103_235450	 Bathroom	bathroomPee
+20141017_113357	 Bathroom	bathroomWashing2
+20141108_234532	 Bathroom	bathroomTankFueling
+20141101_174548	 Bathroom	bathroom2
+20141027_001333	 Bathroom	bathroomPee
+20141108_234502	 Bathroom	bathroom
+20141022_203500	 Bathroom	cooking
+20141115_131740	 Bathroom	washing
+20141102_235727	 Bathroom	bathroom1
+20141007_200620	 Bathroom	None
+20141106_114312	 Bathroom	bathroomWashing
+20141007_200559	 Bathroom	bathroom1
+20141012_235637	 Bathroom	bathroom2
+20141017_113446	 Bathroom	bathroom2
+20141017_113422	 Bathroom	bathroom1
+20141027_001242	 Bathroom	washing
+20141101_174502	 Bathroom	bathroom2
+20141022_004205	 Bathroom	bathroomUtensil
+20141108_234732	 Bathroom	cooking
+20141105_115646	 Bathroom	bathroomTankFueling
+----------------------------60---------
+Prediction time duration: 77.201552 
+Total number of predicted songs: 35 
+----------------------------60-- dbInfor()-------
+1 bathroom 1
+2 washing1 1
+3 bashroomTowel 1
+4 bathroomUtensil 1
+5 cooking4 1
+6 bathroom2 1
+7 bathroomWashing 1
+8 eating 1
+9 washing 1
+10 washingDishes 1
+11 bathroomPee 1
+12 cooking2 1
+13 cooking3 1
+14 bathroomTankFueling 1
+15 cooking 1
+16 bathroom1 1
+17 bathroomWashing2 1

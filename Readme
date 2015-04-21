@@ -20,6 +20,7 @@ copy songList.txt to ubuntu
 python main.py on ubuntu {{{2 
 from ubuntu
 copy songList.txt to g:\class\Semester5\research\ADLRecorder\code\python\SoundActivityAnalysis
+python example.py > result.txt &
 copy activityPrediction.txt to g:\class\Semester5\research\ADLRecorder\code\python\SoundActivityAnalysis
 
 SoundActivityAnalysis{{{2

@@ -1,29 +1,28 @@
 Bathroom.dat	35
-Bathroom_diff.dat	13
-Bathroom_None.dat	11
-Breakfast.dat	12
-Breakfast_diff.dat	1
-Breakfast_None.dat	4
+Bathroom_diff.dat	14
+Bathroom_None.dat	2
+Breakfast.dat	10
+Breakfast_diff.dat	6
+Breakfast_None.dat	0
+Chopping.dat	4
 Cooking.dat	105
-Cooking_diff.dat	16
-Cooking_None.dat	28
-Dinner.dat	47
-Dinner_diff.dat	5
-Dinner_None.dat	10
-Lunch.dat	44
-Lunch_diff.dat	5
-Lunch_None.dat	14
-Midnight snack.dat	21
-MidNight snack_diff.dat	4
-MidNight snack_None.dat	2
+Cooking_diff.dat	81
+Cooking_None.dat	0
+Dinner.dat	46
+Dinner_diff.dat	32
+Dinner_None.dat	0
+Lunch.dat	43
+Lunch_diff.dat	28
+Lunch_None.dat	0
+Midnight snack.dat	22
+MidNight snack_diff.dat	16
+MidNight snack_None.dat	0
 Music.dat	31
-Music_diff.dat	18
-Music_None.dat	8
-Walking at home.dat	2
+Music_diff.dat	30
+Music_None.dat	1
 Washing dishes.dat	61
-Washing dishes_diff.dat	8
-Washing dishes_None.dat	13
+Washing dishes_diff.dat	31
+Washing dishes_None.dat	0
 Washing in bathroom.dat	57
-Washing in bathroom_diff.dat	4
-Washing in bathroom_None.dat	14
-Working on PC at home.dat	90
+Washing in bathroom_diff.dat	29
+Washing in bathroom_None.dat	0
