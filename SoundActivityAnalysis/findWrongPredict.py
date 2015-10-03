@@ -152,7 +152,6 @@ def createActivityPredictionSet () :
 
     return m_activitiesSet
 
-
 def generateReport(activity_set):
     f1 = file('Report_count.dat', 'w')
     import glob

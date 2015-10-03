@@ -25,7 +25,44 @@ copy activityPrediction.txt to g:\class\Semester5\research\ADLRecorder\code\pyth
 
 SoundActivityAnalysis{{{2
 findWrongPredict.py
+d:\class\Semester5\research\ADLRecorder\code\python\SoundActivityAnalysis\Report_count.dat
+d:\class\Semester5\research\ADLRecorder\code\python\SoundActivityAnalysis\Report_rate.dat
 
+predictionAsAWhole.py{{{2
 g:\class\Semester5\research\ADLRecorder\code\python\PredictionAsAWhole\main.py{{{1
-predictionAsAWhole.py
     
+
+README{{{1
+dejavu\
+NexusSensorsDB\ transform db to txt
+Orientation\ orienation
+PredictionAsAWhole\ predict as a whole
+SoundDurationResult\ compute sound length
+SoundFile\ some sound file
+test\ test files
+TotalRecordCount\ how many records in multiple db
+wifiFingerprintingProjectDB\ for wifiFingerprintingProject
+WifiTableDB\ wifiDB
+run.cmd
+main.py
+SoundActivityAnalysis\
+SoundIndoorDB\
+
+directory {{{1
+d:\class\Semester5\research\audioProcessing\document\tex\pic\
+d:\class\Semester5\research\audioProcessing\document\tex\referMaterial\
+
+git{{{1
+
+!git add *.tex
+!git add -A
+!git commit -m "3"
+!git push -u origin master
+!git status
+!git log
+
+
+http://git.ece.iastate.edu/
+https://git.ece.iastate.edu/yunfei/audioProcessing.git
+
+url = https://github.com/heraldia/ADLR-Python.git

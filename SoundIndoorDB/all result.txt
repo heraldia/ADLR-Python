@@ -1,383 +1,2752 @@
-Fingerprinting channel 1/2 for seed/washing1.mp3
-Finished channel 1/2 for seed/washing1.mp3
-Fingerprinting channel 2/2 for seed/washing1.mp3
-Finished channel 2/2 for seed/washing1.mp3
-Fingerprinting channel 1/2 for seed/cooking4.mp3
-Finished channel 1/2 for seed/cooking4.mp3
-Fingerprinting channel 2/2 for seed/cooking4.mp3
-Finished channel 2/2 for seed/cooking4.mp3
-Fingerprinting channel 1/2 for seed/eating.mp3
-Finished channel 1/2 for seed/eating.mp3
-Fingerprinting channel 2/2 for seed/eating.mp3
-Finished channel 2/2 for seed/eating.mp3
-Fingerprinting channel 1/2 for seed/washing.mp3
-Finished channel 1/2 for seed/washing.mp3
-Fingerprinting channel 2/2 for seed/washing.mp3
-Finished channel 2/2 for seed/washing.mp3
-Fingerprinting channel 1/2 for seed/cooking2.mp3
-Finished channel 1/2 for seed/cooking2.mp3
-Fingerprinting channel 2/2 for seed/cooking2.mp3
-Finished channel 2/2 for seed/cooking2.mp3
-Fingerprinting channel 1/2 for seed/cooking3.mp3
-Finished channel 1/2 for seed/cooking3.mp3
-Fingerprinting channel 2/2 for seed/cooking3.mp3
-Finished channel 2/2 for seed/cooking3.mp3
-Fingerprinting channel 1/2 for seed/cooking.mp3
-Finished channel 1/2 for seed/cooking.mp3
-Fingerprinting channel 2/2 for seed/cooking.mp3
-Finished channel 2/2 for seed/cooking.mp3
-Fingerprinting channel 1/2 for seed/bathroomWashing2.mp3
-Finished channel 1/2 for seed/bathroomWashing2.mp3
-Fingerprinting channel 2/2 for seed/bathroomWashing2.mp3
-Finished channel 2/2 for seed/bathroomWashing2.mp3
-Fingerprinting channel 1/2 for seed/bathroom.mp3
-Finished channel 1/2 for seed/bathroom.mp3
-Fingerprinting channel 2/2 for seed/bathroom.mp3
-Finished channel 2/2 for seed/bathroom.mp3
-Fingerprinting channel 1/2 for seed/bashroomTowel.mp3
-Finished channel 1/2 for seed/bashroomTowel.mp3
-Fingerprinting channel 2/2 for seed/bashroomTowel.mp3
-Finished channel 2/2 for seed/bashroomTowel.mp3
-Fingerprinting channel 1/2 for seed/bathroomUtensil.mp3
-Finished channel 1/2 for seed/bathroomUtensil.mp3
-Fingerprinting channel 2/2 for seed/bathroomUtensil.mp3
-Finished channel 2/2 for seed/bathroomUtensil.mp3
-Fingerprinting channel 1/2 for seed/bathroom2.mp3
-Finished channel 1/2 for seed/bathroom2.mp3
-Fingerprinting channel 2/2 for seed/bathroom2.mp3
-Finished channel 2/2 for seed/bathroom2.mp3
-Fingerprinting channel 1/2 for seed/bathroomWashing.mp3
-Finished channel 1/2 for seed/bathroomWashing.mp3
-Fingerprinting channel 2/2 for seed/bathroomWashing.mp3
-Finished channel 2/2 for seed/bathroomWashing.mp3
-Fingerprinting channel 1/2 for seed/washingDishes.mp3
-Finished channel 1/2 for seed/washingDishes.mp3
-Fingerprinting channel 2/2 for seed/washingDishes.mp3
-Finished channel 2/2 for seed/washingDishes.mp3
-Fingerprinting channel 1/2 for seed/bathroomPee.mp3
-Finished channel 1/2 for seed/bathroomPee.mp3
-Fingerprinting channel 2/2 for seed/bathroomPee.mp3
-Finished channel 2/2 for seed/bathroomPee.mp3
-Fingerprinting channel 1/2 for seed/bathroomTankFueling.mp3
-Finished channel 1/2 for seed/bathroomTankFueling.mp3
-Fingerprinting channel 2/2 for seed/bathroomTankFueling.mp3
-Finished channel 2/2 for seed/bathroomTankFueling.mp3
-Fingerprinting channel 1/2 for seed/bathroom1.mp3
-Finished channel 1/2 for seed/bathroom1.mp3
-Fingerprinting channel 2/2 for seed/bathroom1.mp3
-Finished channel 2/2 for seed/bathroom1.mp3
-15176
-----------------------------17---------
-Filename 		 ActualActivity 		 Prediction 		 PredictionByHumanEar 
-20141026_235938	 Midnight snack	bathroom2
-20141021_123204	 Lunch	washingDishes
-20141111_114455	 Cooking	bathroom2
-20141115_143512	 Washing dishes	bathroomWashing
-20141104_191802	 Washing dishes	bathroomWashing2
-20141112_002935	 Washing dishes	washingDishes
-20141113_193905	 Cooking	bathroomTankFueling
-20141111_123918	 Washing dishes	eating
-20141111_120440	 Lunch	None
-20141101_201835	 Washing dishes	bathroom2
-20141024_120545	 Lunch	cooking2
-20141014_213702	 Cooking	bashroomTowel
-20141110_180348	 Washing dishes	bathroom2
-20141111_123020	 Lunch	bathroomWashing2
-20141108_104205	 Breakfast	cooking
-20141026_235456	 Cooking	bathroomPee
-20141026_194829	 Dinner	bathroom2
-20141019_134438	 Lunch	bathroomPee
-20141112_130648	 Washing dishes	bathroomTankFueling
-20141116_131719	 Cooking	bathroom2
-20141105_231013	 Washing dishes	bathroomWashing2
-20141111_120242	 Lunch	cooking2
-20141106_204003	 Dinner	bathroom2
-20141012_103451	 Cooking	bathroomWashing
-20141012_104637	 Breakfast	cooking
-20141017_114322	 Cooking	cooking
-20141018_090702	 Washing dishes	bathroom2
-20141108_104318	 Breakfast	cooking4
-20141103_193201	 Washing dishes	bathroomTankFueling
-20141108_105525	 Washing dishes	bathroomPee
-20141116_135403	 Washing dishes	washingDishes
-20141018_195323	 Dinner	cooking
-20141018_085550	 Cooking	washingDishes
-20141111_173951	 Dinner	bathroom1
-20141106_114702	 Washing dishes	bathroomWashing
-20141116_133128	 Lunch	washingDishes
-20141105_175240	 Washing dishes	bathroomPee
-20141115_135449	 Lunch	bathroomTankFueling
-20141115_093440	 Breakfast	washing1
-20141112_190028	 Washing dishes	bathroomWashing
-20141022_232859	 Cooking	bathroomWashing
-20141114_112414	 Lunch	cooking
-20141111_173924	 Dinner	washingDishes
-20141109_150904	 Lunch	washing1
-20141012_102743	 Cooking	bathroomPee
-20141113_195216	 Cooking	bashroomTowel
-20141110_173547	 Dinner	bathroomTankFueling
-20141110_123359	 Lunch	washing1
-20141105_222556	 Washing dishes	bathroomWashing
-20141109_143118	 Washing dishes	washingDishes
-20141103_114302	 Cooking	washingDishes
-20141105_182222	 Dinner	bathroom2
-20141114_201945	 Washing dishes	cooking2
-20141112_124341	 Lunch	bathroom1
-20141026_130029	 Lunch	None
-20141114_201822	 Washing dishes	bathroom1
-20141105_182248	 Dinner	bathroom2
-20141007_081916	 Breakfast	None
-20141022_004038	 Cooking	bathroom
-20141111_114831	 Cooking	washing1
-20141116_134906	 Washing dishes	bathroom1
-20141115_094353	 Washing dishes	bathroomWashing2
-20141020_123750	 Lunch	bathroomPee
-20141017_114206	 Cooking	bathroomWashing
-20141103_115229	 Cooking	bathroomWashing
-20141027_000038	 Midnight snack	bathroomPee
-20141026_194740	 Dinner	cooking2
-20141115_134917	 Washing dishes	washing1
-20141106_123254	 Lunch	None
-20141012_104353	 Cooking	cooking2
-20141012_104316	 Cooking	bathroom2
-20141115_093307	 Breakfast	washing1
-20141015_121615	 Lunch	cooking4
-20141031_162027	 Cooking	cooking4
-20141116_131528	 Cooking	bashroomTowel
-20141007_081649	 Breakfast	None
-20141114_194511	 Dinner	washingDishes
-20141021_180500	 Washing dishes	cooking2
-20141018_085504	 Cooking	washing1
-20141102_221614	 Dinner	bathroom2
-20141116_135155	 Washing dishes	bathroomPee
-20141114_112143	 Cooking	bathroomWashing
-20141019_132322	 Washing dishes	bathroom1
-20141111_115027	 Cooking	bathroomWashing2
-20141031_223856	 Cooking	bathroomPee
-20141108_231030	 Dinner	bathroom2
-20141105_225601	 Midnight snack	cooking2
-20141108_233928	 Washing dishes	bathroomWashing
-20141112_231436	 Cooking	bathroom2
-20141018_194637	 Dinner	washing1
-20141023_190154	 Dinner	washingDishes
-20141109_143208	 Cooking	bathroomWashing
-20141012_104929	 Breakfast	bathroom
-20141102_220532	 Cooking	bathroom2
-20141031_225022	 Cooking	bathroomPee
-20141022_233725	 Washing dishes	cooking2
-20141014_122004	 Lunch	cooking3
-20141103_114235	 Cooking	cooking2
-20141110_171812	 Cooking	bathroom1
-20141114_005313	 Washing dishes	cooking2
-20141014_122030	 Lunch	bathroomTankFueling
-20141112_233116	 Washing dishes	cooking2
-20141022_004011	 Cooking	washing1
-20141115_132119	 Cooking	bathroomPee
-20141024_110411	 Washing dishes	bathroom2
-20141101_172706	 Dinner	bathroom2
-20141112_121935	 Cooking	cooking2
-20141114_114701	 Washing dishes	bathroom
-20141031_230521	 Midnight snack	bathroomTankFueling
-20141113_195104	 Cooking	bathroomWashing2
-20141113_194642	 Cooking	bathroom
-20141101_195951	 Cooking	bathroomTankFueling
-20141031_223635	 Washing dishes	bathroomWashing
-20141106_203932	 Dinner	cooking2
-20141102_221507	 Dinner	eating
-20141105_181652	 Cooking	bathroomWashing2
-20141022_003853	 Cooking	bathroomWashing
-20141115_143101	 Washing dishes	cooking
-20141115_134426	 Cooking	bathroom
-20141113_132022	 Lunch	bathroom2
-20141115_093327	 Breakfast	cooking2
-20141112_231708	 Midnight snack	washing1
-20141109_213300	 Dinner	cooking3
-20141115_133845	 Cooking	washing1
-20141022_003917	 Cooking	washing1
-20141115_170335	 Washing dishes	cooking4
-20141112_231635	 Midnight snack	eating
-20141014_120304	 Cooking	cooking2
-20141109_143233	 Cooking	bathroomPee
-20141020_122807	 Cooking	bathroomWashing
-20141105_120026	 Cooking	bathroomWashing
-20141022_233039	 Midnight snack	bathroomWashing2
-20141104_001843	 Midnight snack	bathroom
-20141018_201632	 Washing dishes	washingDishes
-20141012_200600	 Cooking	bathroom2
-20141012_102822	 Cooking	cooking2
-20141101_171943	 Dinner	cooking
-20141022_233202	 Midnight snack	bathroomWashing2
-20141105_120340	 Lunch	cooking2
-20141108_101655	 Cooking	washing1
-20141018_195253	 Dinner	bathroomPee
-20141108_101910	 Cooking	cooking4
-20141108_105746	 Washing dishes	cooking
-20141026_125123	 Cooking	bathroomWashing
-20141109_205520	 Cooking	bathroomWashing2
-20141116_133302	 Lunch	bathroomTankFueling
-20141112_001642	 Midnight snack	cooking3
-20141031_232005	 Washing dishes	bathroom2
-20141115_093056	 Cooking	bathroom2
-20141114_112518	 Lunch	washing1
-20141014_000121	 Cooking	washingDishes
-20141115_143550	 Washing dishes	bathroomTankFueling
-20141106_204219	 Dinner	bathroom2
-20141012_135258	 Cooking	cooking
-20141110_122050	 Cooking	bathroomUtensil
-20141020_122837	 Cooking	cooking4
-20141026_123941	 Cooking	bathroomWashing2
-20141116_134838	 Washing dishes	bathroom1
-20141114_004315	 Dinner	washing1
-20141112_183439	 Dinner	bathroom2
-20141115_135032	 Cooking	washingDishes
-20141108_104251	 Breakfast	bathroomPee
-20141114_004220	 Dinner	cooking2
-20141115_134555	 Cooking	eating
-20141031_212825	 Midnight snack	bashroomTowel
-20141102_220452	 Cooking	cooking
-20141014_120659	 Cooking	eating
-20141115_093411	 Breakfast	bathroomWashing
-20141008_155104	 Cooking	bathroomWashing
-20141025_175609	 Washing dishes	bathroomWashing2
-20141106_114558	 Cooking	cooking2
-20141103_120655	 Washing dishes	bathroomWashing
-20141031_225617	 Midnight snack	bathroomWashing2
-20141104_184752	 Dinner	cooking3
-20141025_232425	 Midnight snack	bathroomPee
-20141105_185024	 Washing dishes	washingDishes
-20141109_213347	 Dinner	None
-20141017_185538	 Washing dishes	bathroomWashing2
-20141112_003021	 Washing dishes	bathroomPee
-20141018_192914	 Washing dishes	washing
-20141108_102038	 Cooking	cooking
-20141026_123621	 Washing dishes	cooking2
-20141105_123610	 Washing dishes	eating
-20141103_235700	 Cooking	bathroomWashing2
-20141019_132245	 Cooking	bathroomPee
-20141111_123707	 Lunch	washingDishes
-20141022_004306	 Midnight snack	washing1
-20141022_182244	 Dinner	cooking
-20141112_124406	 Lunch	cooking4
-20141031_163505	 Dinner	cooking2
-20141115_134138	 Cooking	bathroom2
-20141109_150834	 Lunch	cooking2
-20141026_123331	 Washing dishes	bathroom2
-20141012_104028	 Breakfast	eating
-20141024_120704	 Lunch	washing1
-20141105_225658	 Midnight snack	cooking2
-20141114_202116	 Washing dishes	cooking
-20141024_110328	 Cooking	bathroomWashing2
-20141017_193848	 Washing dishes	bathroomUtensil
-20141112_183412	 Dinner	bathroomTankFueling
-20141112_182417	 Cooking	bathroomWashing2
-20141114_114559	 Washing dishes	bathroomWashing
-20141031_164317	 Dinner	washingDishes
-20141116_133155	 Lunch	cooking
-20141103_192631	 Dinner	washing
-20141021_180605	 Dinner	bathroomWashing
-20141114_111931	 Cooking	washing1
-20141112_231352	 Cooking	cooking
-20141112_121605	 Cooking	bathroom2
-20141112_191502	 Washing dishes	bathroom1
-20141110_222409	 Midnight snack	washingDishes
-20141111_120412	 Lunch	washing1
-20141115_135421	 Lunch	cooking2
-20141026_194805	 Dinner	bathroomWashing2
-20141102_222520	 Washing dishes	eating
-20141110_123450	 Lunch	bathroom
-20141115_135326	 Lunch	bathroomTankFueling
-20141104_001810	 Midnight snack	bathroomWashing2
-20141115_132222	 Cooking	cooking
-20141111_120343	 Lunch	cooking2
-20141114_194602	 Dinner	cooking
-20141111_123647	 Lunch	bathroomWashing2
-20141014_125146	 Washing dishes	bathroom2
-20141114_193506	 Cooking	cooking
-20141105_114337	 Cooking	washingDishes
-20141113_131122	 Lunch	washing1
-20141031_224329	 Cooking	bathroom2
-20141112_182509	 Cooking	bathroomWashing
-20141021_120251	 Cooking	bathroom2
-20141114_004247	 Dinner	bathroomWashing2
-20141020_201256	 Dinner	bathroomPee
-20141025_232356	 Midnight snack	bathroom2
-20141113_200440	 Dinner	bathroom
-20141025_175436	 Washing dishes	bathroom1
-20141105_184927	 Washing dishes	bathroomWashing
-20141031_231026	 Midnight snack	bathroom1
-20141115_132427	 Washing dishes	washing1
-20141114_003224	 Cooking	bathroomWashing2
-20141022_003949	 Cooking	bashroomTowel
-20141104_183315	 Cooking	cooking2
-20141114_003312	 Cooking	washing1
-20141111_173831	 Dinner	bathroom2
-20141020_123703	 Lunch	bathroomTankFueling
-20141014_120551	 Cooking	bathroomPee
-20141017_185424	 Cooking	bathroomWashing2
-20141022_233235	 Midnight snack	cooking
-20141108_105652	 Washing dishes	cooking
-20141113_195309	 Cooking	washing1
-20141116_131801	 Cooking	washingDishes
-20141015_203104	 Dinner	cooking3
-20141026_193731	 Cooking	cooking
-20141108_231114	 Dinner	bathroom2
-20141101_200827	 Dinner	eating
-20141112_121438	 Cooking	cooking2
-20141111_181010	 Washing dishes	bathroomWashing2
-20141026_193629	 Cooking	cooking
-20141115_134833	 Cooking	eating
-20141025_182641	 Dinner	washingDishes
-20141110_173348	 Dinner	cooking
-20141022_232815	 Cooking	bathroomPee
-20141022_182621	 Dinner	cooking4
-20141106_114741	 Cooking	bathroomPee
-20141112_121542	 Cooking	bathroomWashing
-20141114_112444	 Lunch	eating
-20141115_131916	 Cooking	bathroomWashing
-20141115_093153	 Cooking	cooking2
-20141112_001551	 Midnight snack	bathroomWashing
-20141106_123208	 Lunch	cooking4
-20141112_124257	 Lunch	bathroomPee
-20141019_183918	 Cooking	washing1
-20141103_115458	 Lunch	cooking
-20141113_200359	 Dinner	bathroomPee
-20141108_101959	 Cooking	washingDishes
-20141106_204122	 Dinner	washingDishes
-20141012_135347	 Cooking	bathroomWashing
-20141104_000341	 Cooking	bathroomPee
-20141109_221338	 Washing dishes	bathroom1
-20141116_133218	 Lunch	bathroomPee
-20141116_132200	 Cooking	bathroomPee
-20141113_131228	 Lunch	bathroom2
-20141103_115528	 Lunch	washingDishes
-20141019_183703	 Cooking	washing1
-20141113_131252	 Lunch	bashroomTowel
-20141012_103053	 Cooking	bathroomWashing
-20141115_092947	 Cooking	bashroomTowel
-20141023_190013	 Cooking	bashroomTowel
-20141104_183902	 Cooking	bathroom2
-20141112_233222	 Washing dishes	washing1
-20141112_231558	 Midnight snack	cooking2
-20141104_184819	 Dinner	bathroomWashing
-20141024_120613	 Lunch	cooking
-----------------------------60---------
-Prediction time duration: 710.847628 
-Total number of predicted songs: 291 
-----------------------------60-- dbInfor()-------
-1 bathroom 1
-2 washing1 1
-3 bashroomTowel 1
-4 bathroomUtensil 1
-5 cooking4 1
-6 bathroom2 1
-7 bathroomWashing 1
-8 eating 1
-9 washing 1
-10 washingDishes 1
-11 bathroomPee 1
-12 cooking2 1
-13 cooking3 1
-14 bathroomTankFueling 1
-15 cooking 1
-16 bathroom1 1
-17 bathroomWashing2 1
+adlrecord5.db
+21 ; Washing in bathroom ; 20150509_082155 ; 2015-05-09 08:22:05 ;
+22 ; Washing in bathroom ; 20150509_082155 ; 2015-05-09 08:22:11 ;
+23 ; Washing in bathroom ; 20150509_082155 ; 2015-05-09 08:22:17 ;
+24 ; Washing in bathroom ; 20150509_082558 ; 2015-05-09 08:26:08 ;
+25 ; Washing in bathroom ; 20150509_082558 ; 2015-05-09 08:26:13 ;
+26 ; Washing in bathroom ; 20150509_082558 ; 2015-05-09 08:26:19 ;
+27 ; Washing in bathroom ; 20150509_082702 ; 2015-05-09 08:27:11 ;
+28 ; Washing in bathroom ; 20150509_082702 ; 2015-05-09 08:27:17 ;
+29 ; Washing in bathroom ; 20150509_082702 ; 2015-05-09 08:27:22 ;
+30 ; Washing in bathroom ; 20150509_083121 ; 2015-05-09 08:31:31 ;
+31 ; Washing in bathroom ; 20150509_083121 ; 2015-05-09 08:31:36 ;
+32 ; Washing in bathroom ; 20150509_083121 ; 2015-05-09 08:31:42 ;
+54 ; Washing in bathroom ; 20150509_090614 ; 2015-05-09 09:06:22 ;
+55 ; Washing in bathroom ; 20150509_090614 ; 2015-05-09 09:06:28 ;
+56 ; Washing in bathroom ; 20150509_090614 ; 2015-05-09 09:06:50 ;
+57 ; Washing in bathroom ; 20150509_090706 ; 2015-05-09 09:07:15 ;
+58 ; Washing in bathroom ; 20150509_090706 ; 2015-05-09 09:07:21 ;
+59 ; Washing in bathroom ; 20150509_090706 ; 2015-05-09 09:07:26 ;
+60 ; Washing in bathroom ; 20150509_090736 ; 2015-05-09 09:07:45 ;
+61 ; Washing in bathroom ; 20150509_090736 ; 2015-05-09 09:07:51 ;
+62 ; Washing in bathroom ; 20150509_090736 ; 2015-05-09 09:07:56 ;
+63 ; Washing in bathroom ; 20150509_090802 ; 2015-05-09 09:08:11 ;
+64 ; Washing in bathroom ; 20150509_090802 ; 2015-05-09 09:08:17 ;
+65 ; Washing in bathroom ; 20150509_090802 ; 2015-05-09 09:08:22 ;
+66 ; Washing in bathroom ; 20150509_090846 ; 2015-05-09 09:08:55 ;
+67 ; Washing in bathroom ; 20150509_090846 ; 2015-05-09 09:09:01 ;
+68 ; Washing in bathroom ; 20150509_090846 ; 2015-05-09 09:09:06 ;
+69 ; Washing in bathroom ; 20150509_090912 ; 2015-05-09 09:09:21 ;
+70 ; Washing in bathroom ; 20150509_090912 ; 2015-05-09 09:09:26 ;
+71 ; Washing in bathroom ; 20150509_090912 ; 2015-05-09 09:09:31 ;
+72 ; Washing in bathroom ; 20150509_090945 ; 2015-05-09 09:09:54 ;
+73 ; Washing in bathroom ; 20150509_090945 ; 2015-05-09 09:09:59 ;
+74 ; Washing in bathroom ; 20150509_090945 ; 2015-05-09 09:10:05 ;
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+123 ; Washing in bathroom ; 20141008_142212 ; 2014-10-08 14:22:44 ;
+124 ; Washing in bathroom ; 20141008_142212 ; 2014-10-08 14:22:48 ;
+125 ; Washing in bathroom ; 20141008_143531 ; 2014-10-08 14:35:44 ;
+126 ; Washing in bathroom ; 20141008_143531 ; 2014-10-08 14:35:49 ;
+------------------------------------------------------------
+nexussensors13.db
+------------------------------------------------------------
+nexussensors16.db
+------------------------------------------------------------
+nexussensors17.db
+47 ; Washing in bathroom ; 20141021_002203 ; 2014-10-21 00:22:11 ;
+48 ; Washing in bathroom ; 20141021_002203 ; 2014-10-21 00:22:16 ;
+289 ; Washing in bathroom ; 20141025_233940 ; 2014-10-25 23:40:02 ;
+290 ; Washing in bathroom ; 20141025_233940 ; 2014-10-25 23:40:06 ;
+291 ; Washing in bathroom ; 20141025_234258 ; 2014-10-25 23:43:08 ;
+292 ; Washing in bathroom ; 20141025_234258 ; 2014-10-25 23:43:12 ;
+293 ; Washing in bathroom ;  ; 2014-10-25 23:43:50 ;
+294 ; Washing in bathroom ;  ; 2014-10-25 23:43:51 ;
+299 ; Washing in bathroom ; 20141026_122948 ; 2014-10-26 12:30:07 ;
+300 ; Washing in bathroom ; 20141026_122948 ; 2014-10-26 12:30:11 ;
+301 ; Washing in bathroom ; 20141026_123023 ; 2014-10-26 12:31:13 ;
+302 ; Washing in bathroom ; 20141026_123023 ; 2014-10-26 12:31:17 ;
+527 ; Washing in bathroom ; 20141028_230355 ; 2014-10-28 23:04:11 ;
+528 ; Washing in bathroom ; 20141028_230355 ; 2014-10-28 23:04:16 ;
+563 ; Washing in bathroom ; 20141029_114940 ; 2014-10-29 11:49:58 ;
+564 ; Washing in bathroom ; 20141029_114940 ; 2014-10-29 11:50:02 ;
+------------------------------------------------------------
+nexussensors18.db
+65 ; Washing in bathroom ; 20141031_212158 ; 2014-10-31 21:22:14 ;
+66 ; Washing in bathroom ; 20141031_212158 ; 2014-10-31 21:22:18 ;
+71 ; Washing in bathroom ; 20141031_223116 ; 2014-10-31 22:32:01 ;
+72 ; Washing in bathroom ; 20141031_223116 ; 2014-10-31 22:32:05 ;
+93 ; Washing in bathroom ; 20141031_232846 ; 2014-10-31 23:29:01 ;
+94 ; Washing in bathroom ; 20141031_232846 ; 2014-10-31 23:29:05 ;
+123 ; Washing in bathroom ; 20141101_202410 ; 2014-11-01 20:24:24 ;
+124 ; Washing in bathroom ; 20141101_202410 ; 2014-11-01 20:24:28 ;
+125 ; Washing in bathroom ; 20141101_202824 ; 2014-11-01 20:28:41 ;
+126 ; Washing in bathroom ; 20141101_202824 ; 2014-11-01 20:28:45 ;
+161 ; Washing in bathroom ; 20141102_215441 ; 2014-11-02 21:54:59 ;
+162 ; Washing in bathroom ; 20141102_215441 ; 2014-11-02 21:55:04 ;
+239 ; Washing in bathroom ; 20141103_120847 ; 2014-11-03 12:09:01 ;
+240 ; Washing in bathroom ; 20141103_120847 ; 2014-11-03 12:09:05 ;
+273 ; Washing in bathroom ; 20141103_235522 ; 2014-11-03 23:55:34 ;
+274 ; Washing in bathroom ; 20141103_235522 ; 2014-11-03 23:55:38 ;
+275 ; Washing in bathroom ; 20141103_235630 ; 2014-11-03 23:56:42 ;
+276 ; Washing in bathroom ; 20141103_235630 ; 2014-11-03 23:56:46 ;
+408 ; Washing in bathroom ; 20141105_115139 ; 2014-11-05 11:51:54 ;
+409 ; Washing in bathroom ; 20141105_115139 ; 2014-11-05 11:51:58 ;
+410 ; Washing in bathroom ; 20141105_115222 ; 2014-11-05 11:52:33 ;
+411 ; Washing in bathroom ; 20141105_115222 ; 2014-11-05 11:52:37 ;
+412 ; Washing in bathroom ; 20141105_115343 ; 2014-11-05 11:53:54 ;
+413 ; Washing in bathroom ; 20141105_115343 ; 2014-11-05 11:53:59 ;
+414 ; Washing in bathroom ; 20141105_115612 ; 2014-11-05 11:56:25 ;
+415 ; Washing in bathroom ; 20141105_115612 ; 2014-11-05 11:56:29 ;
+446 ; Washing in bathroom ; 20141105_185559 ; 2014-11-05 18:56:15 ;
+447 ; Washing in bathroom ; 20141105_185559 ; 2014-11-05 18:56:19 ;
+450 ; Washing in bathroom ; 20141105_185713 ; 2014-11-05 18:57:26 ;
+451 ; Washing in bathroom ; 20141105_185713 ; 2014-11-05 18:57:30 ;
+889 ; Washing in bathroom ; 20141107_232011 ; 2014-11-07 23:20:18 ;
+890 ; Washing in bathroom ; 20141107_232011 ; 2014-11-07 23:20:22 ;
+891 ; Washing in bathroom ;  ; 2014-11-07 23:22:48 ;
+892 ; Washing in bathroom ;  ; 2014-11-07 23:22:52 ;
+893 ; Washing in bathroom ; 20141107_232358 ; 2014-11-07 23:24:05 ;
+894 ; Washing in bathroom ; 20141107_232358 ; 2014-11-07 23:24:09 ;
+927 ; Washing in bathroom ; 20141108_143521 ; 2014-11-08 14:35:28 ;
+928 ; Washing in bathroom ; 20141108_143521 ; 2014-11-08 14:35:32 ;
+989 ; Washing in bathroom ; 20141109_221759 ; 2014-11-09 22:18:06 ;
+990 ; Washing in bathroom ; 20141109_221759 ; 2014-11-09 22:18:10 ;
+991 ; Washing in bathroom ; 20141109_221820 ; 2014-11-09 22:18:27 ;
+992 ; Washing in bathroom ; 20141109_221820 ; 2014-11-09 22:18:31 ;
+1005 ; Washing in bathroom ; 20141110_002914 ; 2014-11-10 00:29:22 ;
+1006 ; Washing in bathroom ; 20141110_002914 ; 2014-11-10 00:29:26 ;
+1132 ; Washing in bathroom ; 20141110_222314 ; 2014-11-10 22:23:21 ;
+1133 ; Washing in bathroom ; 20141110_222314 ; 2014-11-10 22:23:25 ;
+1134 ; Washing in bathroom ;  ; 2014-11-10 22:23:47 ;
+1135 ; Washing in bathroom ;  ; 2014-11-10 22:23:51 ;
+1170 ; Washing in bathroom ; 20141111_114215 ; 2014-11-11 11:42:22 ;
+1171 ; Washing in bathroom ; 20141111_114215 ; 2014-11-11 11:42:26 ;
+1200 ; Washing in bathroom ;  ; 2014-11-11 12:42:19 ;
+1201 ; Washing in bathroom ;  ; 2014-11-11 12:42:23 ;
+1268 ; Washing in bathroom ; 20141112_003230 ; 2014-11-12 00:32:37 ;
+1269 ; Washing in bathroom ; 20141112_003230 ; 2014-11-12 00:32:41 ;
+1306 ; Washing in bathroom ; 20141112_120856 ; 2014-11-12 12:09:03 ;
+1307 ; Washing in bathroom ; 20141112_120856 ; 2014-11-12 12:09:07 ;
+1336 ; Washing in bathroom ; 20141112_153304 ; 2014-11-12 15:33:11 ;
+1337 ; Washing in bathroom ; 20141112_153304 ; 2014-11-12 15:33:15 ;
+1348 ; Washing in bathroom ; 20141112_183222 ; 2014-11-12 18:32:29 ;
+1349 ; Washing in bathroom ; 20141112_183222 ; 2014-11-12 18:32:33 ;
+1350 ; Washing in bathroom ;  ; 2014-11-12 18:32:54 ;
+1351 ; Washing in bathroom ;  ; 2014-11-12 18:32:58 ;
+1362 ; Washing in bathroom ; 20141112_191705 ; 2014-11-12 19:17:12 ;
+1363 ; Washing in bathroom ; 20141112_191705 ; 2014-11-12 19:17:16 ;
+1364 ; Washing in bathroom ; 20141112_191731 ; 2014-11-12 19:17:38 ;
+1365 ; Washing in bathroom ; 20141112_191731 ; 2014-11-12 19:17:43 ;
+1370 ; Washing in bathroom ; 20141112_225801 ; 2014-11-12 22:58:08 ;
+1371 ; Washing in bathroom ; 20141112_225801 ; 2014-11-12 22:58:12 ;
+1388 ; Washing in bathroom ;  ; 2014-11-12 23:34:13 ;
+1389 ; Washing in bathroom ;  ; 2014-11-12 23:34:17 ;
+1390 ; Washing in bathroom ; 20141112_233430 ; 2014-11-12 23:34:37 ;
+1391 ; Washing in bathroom ; 20141112_233430 ; 2014-11-12 23:34:41 ;
+1392 ; Washing in bathroom ; 20141112_233545 ; 2014-11-12 23:35:52 ;
+1393 ; Washing in bathroom ; 20141112_233545 ; 2014-11-12 23:35:56 ;
+1446 ; Washing in bathroom ; 20141113_194050 ; 2014-11-13 19:40:57 ;
+1447 ; Washing in bathroom ; 20141113_194050 ; 2014-11-13 19:41:01 ;
+1448 ; Washing in bathroom ;  ; 2014-11-13 19:41:23 ;
+1449 ; Washing in bathroom ;  ; 2014-11-13 19:41:27 ;
+1450 ; Washing in bathroom ; 20141113_194138 ; 2014-11-13 19:41:45 ;
+1451 ; Washing in bathroom ; 20141113_194138 ; 2014-11-13 19:41:49 ;
+1494 ; Washing in bathroom ; 20141114_005621 ; 2014-11-14 00:56:28 ;
+1495 ; Washing in bathroom ; 20141114_005621 ; 2014-11-14 00:56:33 ;
+1496 ; Washing in bathroom ;  ; 2014-11-14 00:56:58 ;
+1497 ; Washing in bathroom ;  ; 2014-11-14 00:57:02 ;
+1498 ; Washing in bathroom ; 20141114_005753 ; 2014-11-14 00:58:00 ;
+1499 ; Washing in bathroom ; 20141114_005753 ; 2014-11-14 00:58:04 ;
+1500 ; Washing in bathroom ; 20141114_005903 ; 2014-11-14 00:59:10 ;
+1501 ; Washing in bathroom ; 20141114_005903 ; 2014-11-14 00:59:14 ;
+1558 ; Washing in bathroom ; 20141114_114936 ; 2014-11-14 11:49:43 ;
+1559 ; Washing in bathroom ; 20141114_114936 ; 2014-11-14 11:49:47 ;
+1560 ; Washing in bathroom ; 20141114_115203 ; 2014-11-14 11:52:10 ;
+1561 ; Washing in bathroom ; 20141114_115203 ; 2014-11-14 11:52:14 ;
+1586 ; Washing in bathroom ; 20141114_190509 ; 2014-11-14 19:05:16 ;
+1587 ; Washing in bathroom ; 20141114_190509 ; 2014-11-14 19:05:20 ;
+1588 ; Washing in bathroom ;  ; 2014-11-14 19:06:24 ;
+1589 ; Washing in bathroom ;  ; 2014-11-14 19:06:28 ;
+1590 ; Washing in bathroom ; 20141114_190645 ; 2014-11-14 19:06:52 ;
+1591 ; Washing in bathroom ; 20141114_190645 ; 2014-11-14 19:06:56 ;
+1608 ; Washing in bathroom ; 20141114_202342 ; 2014-11-14 20:23:49 ;
+1609 ; Washing in bathroom ; 20141114_202342 ; 2014-11-14 20:23:53 ;
+1610 ; Washing in bathroom ; 20141114_202432 ; 2014-11-14 20:24:39 ;
+1611 ; Washing in bathroom ; 20141114_202432 ; 2014-11-14 20:24:43 ;
+1612 ; Washing in bathroom ; 20141114_202545 ; 2014-11-14 20:25:52 ;
+1613 ; Washing in bathroom ; 20141114_202545 ; 2014-11-14 20:25:56 ;
+1620 ; Washing in bathroom ; 20141114_234540 ; 2014-11-14 23:45:47 ;
+1621 ; Washing in bathroom ; 20141114_234540 ; 2014-11-14 23:45:51 ;
+1622 ; Washing in bathroom ;  ; 2014-11-14 23:46:24 ;
+1623 ; Washing in bathroom ;  ; 2014-11-14 23:46:28 ;
+1646 ; Washing in bathroom ; 20141115_131625 ; 2014-11-15 13:16:32 ;
+1647 ; Washing in bathroom ; 20141115_131625 ; 2014-11-15 13:16:37 ;
+1648 ; Washing in bathroom ;  ; 2014-11-15 13:16:53 ;
+1649 ; Washing in bathroom ;  ; 2014-11-15 13:16:57 ;
+1650 ; Washing in bathroom ; 20141115_131706 ; 2014-11-15 13:17:13 ;
+1651 ; Washing in bathroom ; 20141115_131706 ; 2014-11-15 13:17:17 ;
+1694 ; Washing in bathroom ; 20141115_143824 ; 2014-11-15 14:38:31 ;
+1695 ; Washing in bathroom ; 20141115_143824 ; 2014-11-15 14:38:35 ;
+1702 ; Washing in bathroom ; 20141115_170621 ; 2014-11-15 17:06:28 ;
+1703 ; Washing in bathroom ; 20141115_170621 ; 2014-11-15 17:06:32 ;
+1704 ; Washing in bathroom ;  ; 2014-11-15 17:07:12 ;
+1705 ; Washing in bathroom ;  ; 2014-11-15 17:07:16 ;
+1756 ; Washing in bathroom ; 20141116_155837 ; 2014-11-16 15:58:44 ;
+1757 ; Washing in bathroom ; 20141116_155837 ; 2014-11-16 15:58:48 ;
+1758 ; Washing in bathroom ;  ; 2014-11-16 15:59:56 ;
+1759 ; Washing in bathroom ;  ; 2014-11-16 16:00:00 ;
+1760 ; Washing in bathroom ; 20141116_160012 ; 2014-11-16 16:00:19 ;
+1761 ; Washing in bathroom ; 20141116_160012 ; 2014-11-16 16:00:23 ;
+1842 ; Washing in bathroom ; 20141117_134636 ; 2014-11-17 13:46:43 ;
+1843 ; Washing in bathroom ; 20141117_134636 ; 2014-11-17 13:46:47 ;
+1844 ; Washing in bathroom ; 20141117_134750 ; 2014-11-17 13:47:57 ;
+1845 ; Washing in bathroom ; 20141117_134750 ; 2014-11-17 13:48:01 ;
+1846 ; Washing in bathroom ; 20141117_135347 ; 2014-11-17 13:53:54 ;
+1847 ; Washing in bathroom ; 20141117_135347 ; 2014-11-17 13:53:58 ;
+1848 ; Washing in bathroom ; 20141117_135445 ; 2014-11-17 13:54:52 ;
+1849 ; Washing in bathroom ; 20141117_135445 ; 2014-11-17 13:54:56 ;
+1914 ; Washing in bathroom ; 20141117_201714 ; 2014-11-17 20:17:21 ;
+1915 ; Washing in bathroom ; 20141117_201714 ; 2014-11-17 20:17:25 ;
+1956 ; Washing in bathroom ;  ; 2014-11-18 13:15:17 ;
+1957 ; Washing in bathroom ;  ; 2014-11-18 13:15:21 ;
+1958 ; Washing in bathroom ; 20141118_131538 ; 2014-11-18 13:15:45 ;
+1959 ; Washing in bathroom ; 20141118_131538 ; 2014-11-18 13:15:49 ;
+2002 ; Washing in bathroom ; 20141118_193727 ; 2014-11-18 19:37:34 ;
+2003 ; Washing in bathroom ; 20141118_193727 ; 2014-11-18 19:37:38 ;
+2004 ; Washing in bathroom ;  ; 2014-11-18 19:38:09 ;
+2005 ; Washing in bathroom ;  ; 2014-11-18 19:38:13 ;
+2024 ; Washing in bathroom ;  ; 2014-11-18 23:00:40 ;
+2025 ; Washing in bathroom ;  ; 2014-11-18 23:00:44 ;
+2026 ; Washing in bathroom ; 20141118_230410 ; 2014-11-18 23:04:17 ;
+2027 ; Washing in bathroom ; 20141118_230410 ; 2014-11-18 23:04:21 ;
+2054 ; Washing in bathroom ; 20141119_132419 ; 2014-11-19 13:24:26 ;
+2055 ; Washing in bathroom ; 20141119_132419 ; 2014-11-19 13:24:30 ;
+2070 ; Washing in bathroom ; 20141120_114545 ; 2014-11-20 11:45:52 ;
+2071 ; Washing in bathroom ; 20141120_114545 ; 2014-11-20 11:45:56 ;
+2072 ; Washing in bathroom ;  ; 2014-11-20 11:46:38 ;
+2073 ; Washing in bathroom ;  ; 2014-11-20 11:46:42 ;
+2074 ; Washing in bathroom ; 20141120_114648 ; 2014-11-20 11:46:55 ;
+2075 ; Washing in bathroom ; 20141120_114648 ; 2014-11-20 11:46:59 ;
+2082 ; Washing in bathroom ;  ; 2014-11-20 12:23:26 ;
+2083 ; Washing in bathroom ;  ; 2014-11-20 12:23:30 ;
+2084 ; Washing in bathroom ; 20141120_122346 ; 2014-11-20 12:23:53 ;
+2085 ; Washing in bathroom ; 20141120_122346 ; 2014-11-20 12:23:57 ;
+2106 ; Washing in bathroom ; 20141120_205526 ; 2014-11-20 20:55:33 ;
+2107 ; Washing in bathroom ; 20141120_205526 ; 2014-11-20 20:55:38 ;
+2108 ; Washing in bathroom ;  ; 2014-11-20 20:56:02 ;
+2109 ; Washing in bathroom ;  ; 2014-11-20 20:56:07 ;
+2110 ; Washing in bathroom ; 20141120_205633 ; 2014-11-20 20:56:40 ;
+2111 ; Washing in bathroom ; 20141120_205633 ; 2014-11-20 20:56:44 ;
+2112 ; Washing in bathroom ; 20141120_205719 ; 2014-11-20 20:57:26 ;
+2113 ; Washing in bathroom ; 20141120_205719 ; 2014-11-20 20:57:30 ;
+2140 ; Washing in bathroom ; 20141120_231811 ; 2014-11-20 23:18:18 ;
+2141 ; Washing in bathroom ; 20141120_231811 ; 2014-11-20 23:18:22 ;
+2142 ; Washing in bathroom ;  ; 2014-11-20 23:18:55 ;
+2143 ; Washing in bathroom ;  ; 2014-11-20 23:18:59 ;
+2144 ; Washing in bathroom ; 20141120_231921 ; 2014-11-20 23:19:28 ;
+2145 ; Washing in bathroom ; 20141120_231921 ; 2014-11-20 23:19:32 ;
+2146 ; Washing in bathroom ; 20141120_232154 ; 2014-11-20 23:22:01 ;
+2147 ; Washing in bathroom ; 20141120_232154 ; 2014-11-20 23:22:05 ;
+2192 ; Washing in bathroom ; 20141203_211336 ; 2014-12-03 21:13:43 ;
+2193 ; Washing in bathroom ; 20141203_211336 ; 2014-12-03 21:13:47 ;
+2204 ; Washing in bathroom ; 20141204_120305 ; 2014-12-04 12:03:12 ;
+2205 ; Washing in bathroom ; 20141204_120305 ; 2014-12-04 12:03:16 ;
+2206 ; Washing in bathroom ; 20141204_120325 ; 2014-12-04 12:03:32 ;
+2207 ; Washing in bathroom ; 20141204_120325 ; 2014-12-04 12:03:36 ;
+2208 ; Washing in bathroom ; 20141204_120353 ; 2014-12-04 12:04:00 ;
+2209 ; Washing in bathroom ; 20141204_120353 ; 2014-12-04 12:04:04 ;
+2264 ; Washing in bathroom ; 20141205_180356 ; 2014-12-05 18:04:03 ;
+2265 ; Washing in bathroom ; 20141205_180356 ; 2014-12-05 18:04:07 ;
+2308 ; Washing in bathroom ; 20141205_193308 ; 2014-12-05 19:33:15 ;
+2309 ; Washing in bathroom ; 20141205_193308 ; 2014-12-05 19:33:19 ;
+2310 ; Washing in bathroom ; 20141205_193357 ; 2014-12-05 19:34:04 ;
+2311 ; Washing in bathroom ; 20141205_193357 ; 2014-12-05 19:34:08 ;
+2338 ; Washing in bathroom ; 20141206_113751 ; 2014-12-06 11:37:58 ;
+2339 ; Washing in bathroom ; 20141206_113751 ; 2014-12-06 11:38:02 ;
+2358 ; Washing in bathroom ; 20141207_161528 ; 2014-12-07 16:15:35 ;
+2359 ; Washing in bathroom ; 20141207_161528 ; 2014-12-07 16:15:39 ;
+2378 ; Washing in bathroom ; 20141207_235838 ; 2014-12-07 23:58:45 ;
+2379 ; Washing in bathroom ; 20141207_235838 ; 2014-12-07 23:58:49 ;
+2380 ; Washing in bathroom ; 20141207_235858 ; 2014-12-07 23:59:05 ;
+2381 ; Washing in bathroom ; 20141207_235858 ; 2014-12-07 23:59:09 ;
+2382 ; Washing in bathroom ; 20141207_235920 ; 2014-12-07 23:59:27 ;
+2383 ; Washing in bathroom ; 20141207_235920 ; 2014-12-07 23:59:31 ;
+2384 ; Washing in bathroom ; 20141207_235944 ; 2014-12-07 23:59:51 ;
+2385 ; Washing in bathroom ; 20141207_235944 ; 2014-12-07 23:59:55 ;
+2386 ; Washing in bathroom ; 20141208_000003 ; 2014-12-08 00:00:10 ;
+2387 ; Washing in bathroom ; 20141208_000003 ; 2014-12-08 00:00:14 ;
+2448 ; Washing in bathroom ; 20141209_114611 ; 2014-12-09 11:46:18 ;
+2449 ; Washing in bathroom ; 20141209_114611 ; 2014-12-09 11:46:22 ;
+2450 ; Washing in bathroom ; 20141209_114649 ; 2014-12-09 11:46:56 ;
+2451 ; Washing in bathroom ; 20141209_114649 ; 2014-12-09 11:47:00 ;
+2452 ; Washing in bathroom ; 20141209_114723 ; 2014-12-09 11:47:30 ;
+2453 ; Washing in bathroom ; 20141209_114723 ; 2014-12-09 11:47:34 ;
+2480 ; Washing in bathroom ; 20141209_185153 ; 2014-12-09 18:52:00 ;
+2481 ; Washing in bathroom ; 20141209_185153 ; 2014-12-09 18:52:04 ;
+2482 ; Washing in bathroom ; 20141209_185224 ; 2014-12-09 18:52:31 ;
+2483 ; Washing in bathroom ; 20141209_185224 ; 2014-12-09 18:52:35 ;
+2524 ; Washing in bathroom ; 20141210_114756 ; 2014-12-10 11:48:03 ;
+2525 ; Washing in bathroom ; 20141210_114756 ; 2014-12-10 11:48:07 ;
+2580 ; Washing in bathroom ; 20141210_125623 ; 2014-12-10 12:56:30 ;
+2581 ; Washing in bathroom ; 20141210_125623 ; 2014-12-10 12:56:35 ;
+2582 ; Washing in bathroom ; 20141210_125737 ; 2014-12-10 12:57:44 ;
+2583 ; Washing in bathroom ; 20141210_125737 ; 2014-12-10 12:57:49 ;
+2594 ; Washing in bathroom ; 20141210_151006 ; 2014-12-10 15:10:13 ;
+2595 ; Washing in bathroom ; 20141210_151006 ; 2014-12-10 15:10:17 ;
+2596 ; Washing in bathroom ; 20141210_151031 ; 2014-12-10 15:10:38 ;
+2597 ; Washing in bathroom ; 20141210_151031 ; 2014-12-10 15:10:42 ;
+2608 ; Washing in bathroom ; 20141210_173744 ; 2014-12-10 17:37:52 ;
+2609 ; Washing in bathroom ; 20141210_173744 ; 2014-12-10 17:37:56 ;
+2636 ; Washing in bathroom ; 20141210_184148 ; 2014-12-10 18:41:55 ;
+2637 ; Washing in bathroom ; 20141210_184148 ; 2014-12-10 18:41:59 ;
+2642 ; Washing in bathroom ; 20141210_184707 ; 2014-12-10 18:47:14 ;
+2643 ; Washing in bathroom ; 20141210_184707 ; 2014-12-10 18:47:18 ;
+2696 ; Washing in bathroom ; 20141211_122655 ; 2014-12-11 12:27:02 ;
+2697 ; Washing in bathroom ; 20141211_122655 ; 2014-12-11 12:27:06 ;
+2698 ; Washing in bathroom ; 20141211_122723 ; 2014-12-11 12:27:30 ;
+2699 ; Washing in bathroom ; 20141211_122723 ; 2014-12-11 12:27:34 ;
+2704 ; Washing in bathroom ; 20141211_133907 ; 2014-12-11 13:39:14 ;
+2705 ; Washing in bathroom ; 20141211_133907 ; 2014-12-11 13:39:18 ;
+2732 ; Washing in bathroom ; 20141211_234809 ; 2014-12-11 23:48:16 ;
+2733 ; Washing in bathroom ; 20141211_234809 ; 2014-12-11 23:48:20 ;
+2760 ; Washing in bathroom ; 20141212_122142 ; 2014-12-12 12:21:49 ;
+2761 ; Washing in bathroom ; 20141212_122142 ; 2014-12-12 12:21:53 ;
+2814 ; Washing in bathroom ; 20141212_175833 ; 2014-12-12 17:58:40 ;
+2815 ; Washing in bathroom ; 20141212_175833 ; 2014-12-12 17:58:44 ;
+2816 ; Washing in bathroom ; 20141212_175908 ; 2014-12-12 17:59:15 ;
+2817 ; Washing in bathroom ; 20141212_175908 ; 2014-12-12 17:59:19 ;
+2818 ; Washing in bathroom ; 20141212_175939 ; 2014-12-12 17:59:46 ;
+2819 ; Washing in bathroom ; 20141212_175939 ; 2014-12-12 17:59:50 ;
+2844 ; Washing in bathroom ; 20141213_000845 ; 2014-12-13 00:08:52 ;
+2845 ; Washing in bathroom ; 20141213_000845 ; 2014-12-13 00:08:56 ;
+2846 ; Washing in bathroom ; 20141213_001003 ; 2014-12-13 00:10:10 ;
+2847 ; Washing in bathroom ; 20141213_001003 ; 2014-12-13 00:10:14 ;
+2852 ; Washing in bathroom ; 20141213_001426 ; 2014-12-13 00:14:33 ;
+2853 ; Washing in bathroom ; 20141213_001426 ; 2014-12-13 00:14:37 ;
+2898 ; Washing in bathroom ; 20141213_160327 ; 2014-12-13 16:03:34 ;
+2899 ; Washing in bathroom ; 20141213_160327 ; 2014-12-13 16:03:38 ;
+2900 ; Washing in bathroom ;  ; 2014-12-13 16:04:31 ;
+2901 ; Washing in bathroom ;  ; 2014-12-13 16:04:35 ;
+2929 ; Washing in bathroom ; 20141213_201458 ; 2014-12-13 20:15:05 ;
+2930 ; Washing in bathroom ; 20141213_201458 ; 2014-12-13 20:15:09 ;
+2935 ; Washing in bathroom ; 20141213_201642 ; 2014-12-13 20:16:49 ;
+2936 ; Washing in bathroom ; 20141213_201642 ; 2014-12-13 20:16:53 ;
+2937 ; Washing in bathroom ; 20141213_201708 ; 2014-12-13 20:17:15 ;
+2938 ; Washing in bathroom ; 20141213_201708 ; 2014-12-13 20:17:19 ;
+2945 ; Washing in bathroom ; 20141213_213821 ; 2014-12-13 21:38:28 ;
+2946 ; Washing in bathroom ; 20141213_213821 ; 2014-12-13 21:38:32 ;
+2961 ; Washing in bathroom ; 20141213_215512 ; 2014-12-13 21:55:19 ;
+2962 ; Washing in bathroom ; 20141213_215512 ; 2014-12-13 21:55:23 ;
+2963 ; Washing in bathroom ; 20141213_215626 ; 2014-12-13 21:56:33 ;
+2964 ; Washing in bathroom ; 20141213_215626 ; 2014-12-13 21:56:37 ;
+3012 ; Washing in bathroom ; 20141214_130718 ; 2014-12-14 13:07:25 ;
+3013 ; Washing in bathroom ; 20141214_130718 ; 2014-12-14 13:07:29 ;
+3014 ; Washing in bathroom ; 20141214_130738 ; 2014-12-14 13:07:45 ;
+3015 ; Washing in bathroom ; 20141214_130738 ; 2014-12-14 13:07:49 ;
+3040 ; Washing in bathroom ; 20141215_002049 ; 2014-12-15 00:20:56 ;
+3041 ; Washing in bathroom ; 20141215_002049 ; 2014-12-15 00:21:00 ;
+3058 ; Washing in bathroom ; 20141216_011734 ; 2014-12-16 01:17:41 ;
+3059 ; Washing in bathroom ; 20141216_011734 ; 2014-12-16 01:17:45 ;
+3060 ; Washing in bathroom ; 20141216_011822 ; 2014-12-16 01:18:29 ;
+3061 ; Washing in bathroom ; 20141216_011822 ; 2014-12-16 01:18:33 ;
+------------------------------------------------------------
+nexussensors7.db
+------------------------------------------------------------
+adlrecord5.db
+102 ; Washing dishes ; 20150509_115128 ; 2015-05-09 11:51:36 ;
+103 ; Washing dishes ; 20150509_115128 ; 2015-05-09 11:51:43 ;
+104 ; Washing dishes ; 20150509_115128 ; 2015-05-09 11:52:04 ;
+105 ; Washing dishes ; 20150509_115246 ; 2015-05-09 11:52:55 ;
+106 ; Washing dishes ; 20150509_115246 ; 2015-05-09 11:53:00 ;
+107 ; Washing dishes ; 20150509_115246 ; 2015-05-09 11:53:05 ;
+108 ; Washing dishes ; 20150509_115315 ; 2015-05-09 11:53:24 ;
+109 ; Washing dishes ; 20150509_115315 ; 2015-05-09 11:53:29 ;
+110 ; Washing dishes ; 20150509_115315 ; 2015-05-09 11:53:35 ;
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+------------------------------------------------------------
+nexussensors13.db
+67 ; Washing dishes ;  ; 2014-10-13 23:52:44 ;
+68 ; Washing dishes ;  ; 2014-10-13 23:52:48 ;
+69 ; Washing dishes ;  ; 2014-10-13 23:52:52 ;
+70 ; Washing dishes ;  ; 2014-10-13 23:52:56 ;
+71 ; Washing dishes ;  ; 2014-10-13 23:53:01 ;
+72 ; Washing dishes ;  ; 2014-10-13 23:53:05 ;
+97 ; Washing dishes ; 20141014_125146 ; 2014-10-14 12:54:02 ;
+98 ; Washing dishes ; 20141014_125146 ; 2014-10-14 12:55:01 ;
+------------------------------------------------------------
+nexussensors16.db
+29 ; Washing dishes ; 20141017_185538 ; 2014-10-17 18:55:58 ;
+30 ; Washing dishes ; 20141017_185538 ; 2014-10-17 18:56:02 ;
+31 ; Washing dishes ; 20141017_193848 ; 2014-10-17 19:39:01 ;
+32 ; Washing dishes ; 20141017_193848 ; 2014-10-17 19:39:05 ;
+39 ; Washing dishes ; 20141018_090702 ; 2014-10-18 09:07:15 ;
+40 ; Washing dishes ; 20141018_090702 ; 2014-10-18 09:07:20 ;
+65 ; Washing dishes ; 20141018_192914 ; 2014-10-18 19:29:30 ;
+66 ; Washing dishes ; 20141018_192914 ; 2014-10-18 19:29:34 ;
+73 ; Washing dishes ; 20141018_201632 ; 2014-10-18 20:16:44 ;
+74 ; Washing dishes ; 20141018_201632 ; 2014-10-18 20:16:48 ;
+85 ; Washing dishes ; 20141019_132322 ; 2014-10-19 13:23:34 ;
+86 ; Washing dishes ; 20141019_132322 ; 2014-10-19 13:23:38 ;
+------------------------------------------------------------
+nexussensors17.db
+77 ; Washing dishes ; 20141021_180500 ; 2014-10-21 18:05:17 ;
+78 ; Washing dishes ; 20141021_180500 ; 2014-10-21 18:05:21 ;
+165 ; Washing dishes ; 20141022_233725 ; 2014-10-22 23:37:39 ;
+166 ; Washing dishes ; 20141022_233725 ; 2014-10-22 23:37:43 ;
+213 ; Washing dishes ; 20141024_110411 ; 2014-10-24 11:04:31 ;
+214 ; Washing dishes ; 20141024_110411 ; 2014-10-24 11:04:35 ;
+271 ; Washing dishes ; 20141025_175436 ; 2014-10-25 17:54:59 ;
+272 ; Washing dishes ; 20141025_175436 ; 2014-10-25 17:55:03 ;
+273 ; Washing dishes ; 20141025_175609 ; 2014-10-25 17:56:23 ;
+274 ; Washing dishes ; 20141025_175609 ; 2014-10-25 17:56:27 ;
+303 ; Washing dishes ; 20141026_123331 ; 2014-10-26 12:33:46 ;
+304 ; Washing dishes ; 20141026_123331 ; 2014-10-26 12:33:50 ;
+305 ; Washing dishes ; 20141026_123621 ; 2014-10-26 12:36:35 ;
+306 ; Washing dishes ; 20141026_123621 ; 2014-10-26 12:36:39 ;
+531 ; Washing dishes ; 20141028_230640 ; 2014-10-28 23:06:57 ;
+532 ; Washing dishes ; 20141028_230640 ; 2014-10-28 23:07:01 ;
+585 ; Washing dishes ; 20141029_220647 ; 2014-10-29 22:07:03 ;
+586 ; Washing dishes ; 20141029_220647 ; 2014-10-29 22:07:07 ;
+587 ; Washing dishes ; 20141029_220931 ; 2014-10-29 22:09:43 ;
+588 ; Washing dishes ; 20141029_220931 ; 2014-10-29 22:09:47 ;
+------------------------------------------------------------
+nexussensors18.db
+75 ; Washing dishes ; 20141031_223635 ; 2014-10-31 22:36:47 ;
+76 ; Washing dishes ; 20141031_223635 ; 2014-10-31 22:36:51 ;
+89 ; Washing dishes ; 20141031_232005 ; 2014-10-31 23:20:20 ;
+90 ; Washing dishes ; 20141031_232005 ; 2014-10-31 23:20:24 ;
+121 ; Washing dishes ; 20141101_201835 ; 2014-11-01 20:18:48 ;
+122 ; Washing dishes ; 20141101_201835 ; 2014-11-01 20:18:52 ;
+173 ; Washing dishes ; 20141102_222520 ; 2014-11-02 22:25:33 ;
+174 ; Washing dishes ; 20141102_222520 ; 2014-11-02 22:25:37 ;
+237 ; Washing dishes ; 20141103_120655 ; 2014-11-03 12:07:09 ;
+238 ; Washing dishes ; 20141103_120655 ; 2014-11-03 12:07:14 ;
+267 ; Washing dishes ; 20141103_193201 ; 2014-11-03 19:32:14 ;
+268 ; Washing dishes ; 20141103_193201 ; 2014-11-03 19:32:18 ;
+332 ; Washing dishes ;  ; 2014-11-04 19:17:32 ;
+333 ; Washing dishes ; 20141104_191802 ; 2014-11-04 19:18:15 ;
+334 ; Washing dishes ; 20141104_191802 ; 2014-11-04 19:18:19 ;
+422 ; Washing dishes ; 20141105_123610 ; 2014-11-05 12:36:27 ;
+423 ; Washing dishes ; 20141105_123610 ; 2014-11-05 12:36:31 ;
+434 ; Washing dishes ; 20141105_175240 ; 2014-11-05 17:52:58 ;
+435 ; Washing dishes ; 20141105_175240 ; 2014-11-05 17:53:02 ;
+442 ; Washing dishes ; 20141105_184927 ; 2014-11-05 18:49:41 ;
+443 ; Washing dishes ; 20141105_184927 ; 2014-11-05 18:49:46 ;
+444 ; Washing dishes ; 20141105_185024 ; 2014-11-05 18:50:36 ;
+445 ; Washing dishes ; 20141105_185024 ; 2014-11-05 18:50:40 ;
+456 ; Washing dishes ; 20141105_222556 ; 2014-11-05 22:26:10 ;
+457 ; Washing dishes ; 20141105_222556 ; 2014-11-05 22:26:14 ;
+462 ; Washing dishes ; 20141105_231013 ; 2014-11-05 23:10:27 ;
+463 ; Washing dishes ; 20141105_231013 ; 2014-11-05 23:10:31 ;
+515 ; Washing dishes ;  ; 2014-11-06 11:46:46 ;
+516 ; Washing dishes ;  ; 2014-11-06 11:46:50 ;
+517 ; Washing dishes ; 20141106_114702 ; 2014-11-06 11:47:10 ;
+518 ; Washing dishes ; 20141106_114702 ; 2014-11-06 11:47:14 ;
+805 ; Washing dishes ; 20141107_124031 ; 2014-11-07 12:40:38 ;
+806 ; Washing dishes ; 20141107_124031 ; 2014-11-07 12:40:42 ;
+807 ; Washing dishes ; 20141107_124054 ; 2014-11-07 12:41:01 ;
+808 ; Washing dishes ; 20141107_124054 ; 2014-11-07 12:41:05 ;
+809 ; Washing dishes ; 20141107_124127 ; 2014-11-07 12:41:34 ;
+810 ; Washing dishes ; 20141107_124127 ; 2014-11-07 12:41:38 ;
+811 ; Washing dishes ; 20141107_124159 ; 2014-11-07 12:42:06 ;
+812 ; Washing dishes ; 20141107_124159 ; 2014-11-07 12:42:10 ;
+813 ; Washing dishes ; 20141107_124226 ; 2014-11-07 12:42:33 ;
+814 ; Washing dishes ; 20141107_124226 ; 2014-11-07 12:42:37 ;
+815 ; Washing dishes ; 20141107_124243 ; 2014-11-07 12:42:50 ;
+816 ; Washing dishes ; 20141107_124243 ; 2014-11-07 12:42:54 ;
+817 ; Washing dishes ; 20141107_124304 ; 2014-11-07 12:43:11 ;
+818 ; Washing dishes ; 20141107_124304 ; 2014-11-07 12:43:15 ;
+915 ; Washing dishes ; 20141108_105525 ; 2014-11-08 10:55:32 ;
+916 ; Washing dishes ; 20141108_105525 ; 2014-11-08 10:55:36 ;
+917 ; Washing dishes ;  ; 2014-11-08 10:56:03 ;
+918 ; Washing dishes ;  ; 2014-11-08 10:56:07 ;
+919 ; Washing dishes ; 20141108_105652 ; 2014-11-08 10:56:59 ;
+920 ; Washing dishes ; 20141108_105652 ; 2014-11-08 10:57:03 ;
+921 ; Washing dishes ; 20141108_105746 ; 2014-11-08 10:57:53 ;
+922 ; Washing dishes ; 20141108_105746 ; 2014-11-08 10:57:57 ;
+937 ; Washing dishes ; 20141108_233928 ; 2014-11-08 23:39:35 ;
+938 ; Washing dishes ; 20141108_233928 ; 2014-11-08 23:39:39 ;
+949 ; Washing dishes ; 20141109_143118 ; 2014-11-09 14:31:25 ;
+950 ; Washing dishes ; 20141109_143118 ; 2014-11-09 14:31:29 ;
+985 ; Washing dishes ; 20141109_221338 ; 2014-11-09 22:13:45 ;
+986 ; Washing dishes ; 20141109_221338 ; 2014-11-09 22:13:49 ;
+987 ; Washing dishes ;  ; 2014-11-09 22:17:21 ;
+988 ; Washing dishes ;  ; 2014-11-09 22:17:25 ;
+1118 ; Washing dishes ; 20141110_180348 ; 2014-11-10 18:03:55 ;
+1119 ; Washing dishes ; 20141110_180348 ; 2014-11-10 18:04:00 ;
+1198 ; Washing dishes ; 20141111_123918 ; 2014-11-11 12:39:25 ;
+1199 ; Washing dishes ; 20141111_123918 ; 2014-11-11 12:39:29 ;
+1238 ; Washing dishes ; 20141111_181010 ; 2014-11-11 18:10:17 ;
+1239 ; Washing dishes ; 20141111_181010 ; 2014-11-11 18:10:21 ;
+1262 ; Washing dishes ; 20141112_002935 ; 2014-11-12 00:29:42 ;
+1263 ; Washing dishes ; 20141112_002935 ; 2014-11-12 00:29:46 ;
+1264 ; Washing dishes ;  ; 2014-11-12 00:30:07 ;
+1265 ; Washing dishes ;  ; 2014-11-12 00:30:11 ;
+1266 ; Washing dishes ; 20141112_003021 ; 2014-11-12 00:30:28 ;
+1267 ; Washing dishes ; 20141112_003021 ; 2014-11-12 00:30:32 ;
+1328 ; Washing dishes ; 20141112_130648 ; 2014-11-12 13:06:55 ;
+1329 ; Washing dishes ; 20141112_130648 ; 2014-11-12 13:06:59 ;
+1356 ; Washing dishes ; 20141112_190028 ; 2014-11-12 19:00:35 ;
+1357 ; Washing dishes ; 20141112_190028 ; 2014-11-12 19:00:39 ;
+1358 ; Washing dishes ;  ; 2014-11-12 19:00:58 ;
+1359 ; Washing dishes ;  ; 2014-11-12 19:01:02 ;
+1360 ; Washing dishes ; 20141112_191502 ; 2014-11-12 19:15:09 ;
+1361 ; Washing dishes ; 20141112_191502 ; 2014-11-12 19:15:13 ;
+1384 ; Washing dishes ; 20141112_233116 ; 2014-11-12 23:31:23 ;
+1385 ; Washing dishes ; 20141112_233116 ; 2014-11-12 23:31:27 ;
+1386 ; Washing dishes ; 20141112_233222 ; 2014-11-12 23:32:29 ;
+1387 ; Washing dishes ; 20141112_233222 ; 2014-11-12 23:32:33 ;
+1418 ; Washing dishes ;  ; 2014-11-13 13:20:57 ;
+1419 ; Washing dishes ;  ; 2014-11-13 13:21:01 ;
+1468 ; Washing dishes ; None ; 2014-11-13 20:28:44 ;
+1469 ; Washing dishes ; None ; 2014-11-13 20:28:48 ;
+1470 ; Washing dishes ;  ; 2014-11-13 20:29:42 ;
+1471 ; Washing dishes ;  ; 2014-11-13 20:29:46 ;
+1472 ; Washing dishes ;  ; 2014-11-13 20:30:33 ;
+1473 ; Washing dishes ;  ; 2014-11-13 20:30:37 ;
+1492 ; Washing dishes ; 20141114_005313 ; 2014-11-14 00:53:20 ;
+1493 ; Washing dishes ; 20141114_005313 ; 2014-11-14 00:53:24 ;
+1552 ; Washing dishes ; 20141114_114559 ; 2014-11-14 11:46:06 ;
+1553 ; Washing dishes ; 20141114_114559 ; 2014-11-14 11:46:10 ;
+1554 ; Washing dishes ;  ; 2014-11-14 11:46:39 ;
+1555 ; Washing dishes ;  ; 2014-11-14 11:46:43 ;
+1556 ; Washing dishes ; 20141114_114701 ; 2014-11-14 11:47:08 ;
+1557 ; Washing dishes ; 20141114_114701 ; 2014-11-14 11:47:12 ;
+1600 ; Washing dishes ; 20141114_201822 ; 2014-11-14 20:18:29 ;
+1601 ; Washing dishes ; 20141114_201822 ; 2014-11-14 20:18:34 ;
+1602 ; Washing dishes ;  ; 2014-11-14 20:19:29 ;
+1603 ; Washing dishes ;  ; 2014-11-14 20:19:33 ;
+1604 ; Washing dishes ; 20141114_201945 ; 2014-11-14 20:19:52 ;
+1605 ; Washing dishes ; 20141114_201945 ; 2014-11-14 20:19:56 ;
+1606 ; Washing dishes ; 20141114_202116 ; 2014-11-14 20:21:23 ;
+1607 ; Washing dishes ; 20141114_202116 ; 2014-11-14 20:21:27 ;
+1640 ; Washing dishes ; 20141115_094353 ; 2014-11-15 09:44:00 ;
+1641 ; Washing dishes ; 20141115_094353 ; 2014-11-15 09:44:04 ;
+1662 ; Washing dishes ; 20141115_132427 ; 2014-11-15 13:24:34 ;
+1663 ; Washing dishes ; 20141115_132427 ; 2014-11-15 13:24:38 ;
+1674 ; Washing dishes ; 20141115_134917 ; 2014-11-15 13:49:24 ;
+1675 ; Washing dishes ; 20141115_134917 ; 2014-11-15 13:49:28 ;
+1686 ; Washing dishes ; 20141115_143101 ; 2014-11-15 14:31:08 ;
+1687 ; Washing dishes ; 20141115_143101 ; 2014-11-15 14:31:12 ;
+1688 ; Washing dishes ;  ; 2014-11-15 14:32:02 ;
+1689 ; Washing dishes ;  ; 2014-11-15 14:32:06 ;
+1690 ; Washing dishes ; 20141115_143512 ; 2014-11-15 14:35:19 ;
+1691 ; Washing dishes ; 20141115_143512 ; 2014-11-15 14:35:23 ;
+1692 ; Washing dishes ; 20141115_143550 ; 2014-11-15 14:35:57 ;
+1693 ; Washing dishes ; 20141115_143550 ; 2014-11-15 14:36:01 ;
+1700 ; Washing dishes ; 20141115_170335 ; 2014-11-15 17:03:42 ;
+1701 ; Washing dishes ; 20141115_170335 ; 2014-11-15 17:03:46 ;
+1730 ; Washing dishes ; 20141116_134838 ; 2014-11-16 13:48:45 ;
+1731 ; Washing dishes ; 20141116_134838 ; 2014-11-16 13:48:49 ;
+1732 ; Washing dishes ; 20141116_134906 ; 2014-11-16 13:49:13 ;
+1733 ; Washing dishes ; 20141116_134906 ; 2014-11-16 13:49:17 ;
+1734 ; Washing dishes ;  ; 2014-11-16 13:50:22 ;
+1735 ; Washing dishes ;  ; 2014-11-16 13:50:26 ;
+1736 ; Washing dishes ; 20141116_135155 ; 2014-11-16 13:52:02 ;
+1737 ; Washing dishes ; 20141116_135155 ; 2014-11-16 13:52:06 ;
+1738 ; Washing dishes ; 20141116_135403 ; 2014-11-16 13:54:10 ;
+1739 ; Washing dishes ; 20141116_135403 ; 2014-11-16 13:54:14 ;
+1786 ; Washing dishes ; 20141116_213328 ; 2014-11-16 21:33:35 ;
+1787 ; Washing dishes ; 20141116_213328 ; 2014-11-16 21:33:39 ;
+1818 ; Washing dishes ; 20141117_125828 ; 2014-11-17 12:58:35 ;
+1819 ; Washing dishes ; 20141117_125828 ; 2014-11-17 12:58:40 ;
+1834 ; Washing dishes ; 20141117_134249 ; 2014-11-17 13:42:56 ;
+1835 ; Washing dishes ; 20141117_134249 ; 2014-11-17 13:43:00 ;
+1836 ; Washing dishes ;  ; 2014-11-17 13:43:42 ;
+1837 ; Washing dishes ;  ; 2014-11-17 13:43:46 ;
+1838 ; Washing dishes ; 20141117_134439 ; 2014-11-17 13:44:46 ;
+1839 ; Washing dishes ; 20141117_134439 ; 2014-11-17 13:44:50 ;
+1840 ; Washing dishes ; 20141117_134604 ; 2014-11-17 13:46:11 ;
+1841 ; Washing dishes ; 20141117_134604 ; 2014-11-17 13:46:16 ;
+1906 ; Washing dishes ; 20141117_201314 ; 2014-11-17 20:13:21 ;
+1907 ; Washing dishes ; 20141117_201314 ; 2014-11-17 20:13:25 ;
+1908 ; Washing dishes ;  ; 2014-11-17 20:14:22 ;
+1909 ; Washing dishes ;  ; 2014-11-17 20:14:26 ;
+1910 ; Washing dishes ; 20141117_201450 ; 2014-11-17 20:14:57 ;
+1911 ; Washing dishes ; 20141117_201450 ; 2014-11-17 20:15:01 ;
+1912 ; Washing dishes ; 20141117_201616 ; 2014-11-17 20:16:23 ;
+1913 ; Washing dishes ; 20141117_201616 ; 2014-11-17 20:16:27 ;
+1944 ; Washing dishes ; 20141118_123012 ; 2014-11-18 12:30:19 ;
+1945 ; Washing dishes ; 20141118_123012 ; 2014-11-18 12:30:23 ;
+1954 ; Washing dishes ; 20141118_131352 ; 2014-11-18 13:13:59 ;
+1955 ; Washing dishes ; 20141118_131352 ; 2014-11-18 13:14:04 ;
+1982 ; Washing dishes ; 20141118_182725 ; 2014-11-18 18:27:32 ;
+1983 ; Washing dishes ; 20141118_182725 ; 2014-11-18 18:27:36 ;
+1984 ; Washing dishes ;  ; 2014-11-18 18:28:15 ;
+1985 ; Washing dishes ;  ; 2014-11-18 18:28:19 ;
+1986 ; Washing dishes ; 20141118_183032 ; 2014-11-18 18:30:39 ;
+1987 ; Washing dishes ; 20141118_183032 ; 2014-11-18 18:30:43 ;
+1996 ; Washing dishes ; 20141118_193505 ; 2014-11-18 19:35:12 ;
+1997 ; Washing dishes ; 20141118_193505 ; 2014-11-18 19:35:16 ;
+1998 ; Washing dishes ;  ; 2014-11-18 19:35:53 ;
+1999 ; Washing dishes ;  ; 2014-11-18 19:35:57 ;
+2000 ; Washing dishes ; 20141118_193637 ; 2014-11-18 19:36:44 ;
+2001 ; Washing dishes ; 20141118_193637 ; 2014-11-18 19:36:48 ;
+2022 ; Washing dishes ; 20141118_225537 ; 2014-11-18 22:55:44 ;
+2023 ; Washing dishes ; 20141118_225537 ; 2014-11-18 22:55:48 ;
+2040 ; Washing dishes ; 20141119_124721 ; 2014-11-19 12:47:28 ;
+2041 ; Washing dishes ; 20141119_124721 ; 2014-11-19 12:47:32 ;
+2050 ; Washing dishes ; 20141119_132057 ; 2014-11-19 13:21:04 ;
+2051 ; Washing dishes ; 20141119_132057 ; 2014-11-19 13:21:08 ;
+2052 ; Washing dishes ; 20141119_132158 ; 2014-11-19 13:22:05 ;
+2053 ; Washing dishes ; 20141119_132158 ; 2014-11-19 13:22:09 ;
+2080 ; Washing dishes ; 20141120_121937 ; 2014-11-20 12:19:44 ;
+2081 ; Washing dishes ; 20141120_121937 ; 2014-11-20 12:19:48 ;
+2132 ; Washing dishes ; 20141120_230045 ; 2014-11-20 23:00:52 ;
+2133 ; Washing dishes ; 20141120_230045 ; 2014-11-20 23:00:56 ;
+2134 ; Washing dishes ;  ; 2014-11-20 23:01:22 ;
+2135 ; Washing dishes ;  ; 2014-11-20 23:01:26 ;
+2136 ; Washing dishes ; 20141120_230210 ; 2014-11-20 23:02:17 ;
+2137 ; Washing dishes ; 20141120_230210 ; 2014-11-20 23:02:21 ;
+2138 ; Washing dishes ; 20141120_230335 ; 2014-11-20 23:03:43 ;
+2139 ; Washing dishes ; 20141120_230335 ; 2014-11-20 23:03:47 ;
+2148 ; Washing dishes ; 20141203_113709 ; 2014-12-03 11:37:16 ;
+2149 ; Washing dishes ; 20141203_113709 ; 2014-12-03 11:37:20 ;
+2184 ; Washing dishes ; 20141203_210233 ; 2014-12-03 21:02:40 ;
+2185 ; Washing dishes ; 20141203_210233 ; 2014-12-03 21:02:44 ;
+2186 ; Washing dishes ;  ; 2014-12-03 21:03:11 ;
+2187 ; Washing dishes ;  ; 2014-12-03 21:03:15 ;
+2188 ; Washing dishes ; 20141203_210323 ; 2014-12-03 21:03:30 ;
+2189 ; Washing dishes ; 20141203_210323 ; 2014-12-03 21:03:34 ;
+2190 ; Washing dishes ; 20141203_210728 ; 2014-12-03 21:07:35 ;
+2191 ; Washing dishes ; 20141203_210728 ; 2014-12-03 21:07:39 ;
+2200 ; Washing dishes ; 20141204_120151 ; 2014-12-04 12:01:58 ;
+2201 ; Washing dishes ; 20141204_120151 ; 2014-12-04 12:02:02 ;
+2202 ; Washing dishes ;  ; 2014-12-04 12:02:28 ;
+2203 ; Washing dishes ;  ; 2014-12-04 12:02:32 ;
+2252 ; Washing dishes ; 20141205_115926 ; 2014-12-05 11:59:33 ;
+2253 ; Washing dishes ; 20141205_115926 ; 2014-12-05 11:59:37 ;
+2254 ; Washing dishes ; 20141205_115952 ; 2014-12-05 11:59:59 ;
+2255 ; Washing dishes ; 20141205_115952 ; 2014-12-05 12:00:03 ;
+2266 ; Washing dishes ; 20141205_180736 ; 2014-12-05 18:07:43 ;
+2267 ; Washing dishes ; 20141205_180736 ; 2014-12-05 18:07:47 ;
+2272 ; Washing dishes ; 20141205_183246 ; 2014-12-05 18:32:53 ;
+2273 ; Washing dishes ; 20141205_183246 ; 2014-12-05 18:32:57 ;
+2300 ; Washing dishes ; 20141205_192719 ; 2014-12-05 19:27:26 ;
+2301 ; Washing dishes ; 20141205_192719 ; 2014-12-05 19:27:30 ;
+2302 ; Washing dishes ;  ; 2014-12-05 19:27:59 ;
+2303 ; Washing dishes ;  ; 2014-12-05 19:28:04 ;
+2304 ; Washing dishes ; 20141205_192910 ; 2014-12-05 19:29:17 ;
+2305 ; Washing dishes ; 20141205_192910 ; 2014-12-05 19:29:21 ;
+2306 ; Washing dishes ; 20141205_193112 ; 2014-12-05 19:31:19 ;
+2307 ; Washing dishes ; 20141205_193112 ; 2014-12-05 19:31:23 ;
+2332 ; Washing dishes ; 20141206_113445 ; 2014-12-06 11:34:52 ;
+2333 ; Washing dishes ; 20141206_113445 ; 2014-12-06 11:34:56 ;
+2334 ; Washing dishes ;  ; 2014-12-06 11:36:33 ;
+2335 ; Washing dishes ;  ; 2014-12-06 11:36:37 ;
+2336 ; Washing dishes ; 20141206_113657 ; 2014-12-06 11:37:04 ;
+2337 ; Washing dishes ; 20141206_113657 ; 2014-12-06 11:37:08 ;
+2372 ; Washing dishes ; 20141207_205739 ; 2014-12-07 20:57:46 ;
+2373 ; Washing dishes ; 20141207_205739 ; 2014-12-07 20:57:50 ;
+2374 ; Washing dishes ; 20141207_205803 ; 2014-12-07 20:58:10 ;
+2375 ; Washing dishes ; 20141207_205803 ; 2014-12-07 20:58:15 ;
+2412 ; Washing dishes ; 20141208_200511 ; 2014-12-08 20:05:18 ;
+2413 ; Washing dishes ; 20141208_200511 ; 2014-12-08 20:05:22 ;
+2414 ; Washing dishes ;  ; 2014-12-08 20:06:27 ;
+2415 ; Washing dishes ;  ; 2014-12-08 20:06:31 ;
+2416 ; Washing dishes ; 20141208_200711 ; 2014-12-08 20:07:18 ;
+2417 ; Washing dishes ; 20141208_200711 ; 2014-12-08 20:07:22 ;
+2418 ; Washing dishes ;  ; 2014-12-08 20:08:05 ;
+2419 ; Washing dishes ;  ; 2014-12-08 20:08:09 ;
+2444 ; Washing dishes ; 20141209_114322 ; 2014-12-09 11:43:29 ;
+2445 ; Washing dishes ; 20141209_114322 ; 2014-12-09 11:43:33 ;
+2458 ; Washing dishes ; 20141209_121814 ; 2014-12-09 12:18:21 ;
+2459 ; Washing dishes ; 20141209_121814 ; 2014-12-09 12:18:25 ;
+2460 ; Washing dishes ; 20141209_121837 ; 2014-12-09 12:18:44 ;
+2461 ; Washing dishes ; 20141209_121837 ; 2014-12-09 12:18:49 ;
+2462 ; Washing dishes ; 20141209_121945 ; 2014-12-09 12:19:52 ;
+2463 ; Washing dishes ; 20141209_121945 ; 2014-12-09 12:19:56 ;
+2464 ; Washing dishes ; 20141209_122209 ; 2014-12-09 12:22:16 ;
+2465 ; Washing dishes ; 20141209_122209 ; 2014-12-09 12:22:20 ;
+2472 ; Washing dishes ; 20141209_184325 ; 2014-12-09 18:43:32 ;
+2473 ; Washing dishes ; 20141209_184325 ; 2014-12-09 18:43:36 ;
+2474 ; Washing dishes ;  ; 2014-12-09 18:44:25 ;
+2475 ; Washing dishes ;  ; 2014-12-09 18:44:29 ;
+2476 ; Washing dishes ; 20141209_184448 ; 2014-12-09 18:44:55 ;
+2477 ; Washing dishes ; 20141209_184448 ; 2014-12-09 18:44:59 ;
+2478 ; Washing dishes ; 20141209_184640 ; 2014-12-09 18:46:47 ;
+2479 ; Washing dishes ; 20141209_184640 ; 2014-12-09 18:46:51 ;
+2510 ; Washing dishes ; 20141209_235054 ; 2014-12-09 23:51:01 ;
+2511 ; Washing dishes ; 20141209_235054 ; 2014-12-09 23:51:05 ;
+2526 ; Washing dishes ;  ; 2014-12-10 11:48:57 ;
+2527 ; Washing dishes ;  ; 2014-12-10 11:49:01 ;
+2528 ; Washing dishes ; 20141210_114905 ; 2014-12-10 11:49:12 ;
+2529 ; Washing dishes ; 20141210_114905 ; 2014-12-10 11:49:16 ;
+2530 ; Washing dishes ; 20141210_115112 ; 2014-12-10 11:51:20 ;
+2531 ; Washing dishes ; 20141210_115112 ; 2014-12-10 11:51:24 ;
+2532 ; Washing dishes ; 20141210_115251 ; 2014-12-10 11:52:58 ;
+2533 ; Washing dishes ; 20141210_115251 ; 2014-12-10 11:53:02 ;
+2534 ; Washing dishes ; 20141210_115557 ; 2014-12-10 11:56:04 ;
+2535 ; Washing dishes ; 20141210_115557 ; 2014-12-10 11:56:08 ;
+2536 ; Washing dishes ; 20141210_115806 ; 2014-12-10 11:58:13 ;
+2537 ; Washing dishes ; 20141210_115806 ; 2014-12-10 11:58:17 ;
+2546 ; Washing dishes ; 20141210_120653 ; 2014-12-10 12:07:00 ;
+2547 ; Washing dishes ; 20141210_120653 ; 2014-12-10 12:07:04 ;
+2548 ; Washing dishes ; 20141210_120830 ; 2014-12-10 12:08:37 ;
+2549 ; Washing dishes ; 20141210_120830 ; 2014-12-10 12:08:41 ;
+2564 ; Washing dishes ; 20141210_124852 ; 2014-12-10 12:48:59 ;
+2565 ; Washing dishes ; 20141210_124852 ; 2014-12-10 12:49:03 ;
+2566 ; Washing dishes ;  ; 2014-12-10 12:50:32 ;
+2567 ; Washing dishes ;  ; 2014-12-10 12:50:36 ;
+2568 ; Washing dishes ; 20141210_125048 ; 2014-12-10 12:50:55 ;
+2569 ; Washing dishes ; 20141210_125048 ; 2014-12-10 12:50:59 ;
+2570 ; Washing dishes ; 20141210_125108 ; 2014-12-10 12:51:15 ;
+2571 ; Washing dishes ; 20141210_125108 ; 2014-12-10 12:51:20 ;
+2572 ; Washing dishes ; 20141210_125216 ; 2014-12-10 12:52:24 ;
+2573 ; Washing dishes ; 20141210_125216 ; 2014-12-10 12:52:28 ;
+2574 ; Washing dishes ; 20141210_125308 ; 2014-12-10 12:53:15 ;
+2575 ; Washing dishes ; 20141210_125308 ; 2014-12-10 12:53:19 ;
+2628 ; Washing dishes ; 20141210_183742 ; 2014-12-10 18:37:49 ;
+2629 ; Washing dishes ; 20141210_183742 ; 2014-12-10 18:37:53 ;
+2630 ; Washing dishes ;  ; 2014-12-10 18:38:49 ;
+2631 ; Washing dishes ;  ; 2014-12-10 18:38:53 ;
+2632 ; Washing dishes ; 20141210_184037 ; 2014-12-10 18:40:44 ;
+2633 ; Washing dishes ; 20141210_184037 ; 2014-12-10 18:40:48 ;
+2634 ; Washing dishes ; 20141210_184102 ; 2014-12-10 18:41:09 ;
+2635 ; Washing dishes ; 20141210_184102 ; 2014-12-10 18:41:13 ;
+2646 ; Washing dishes ; 20141211_000021 ; 2014-12-11 00:00:28 ;
+2647 ; Washing dishes ; 20141211_000021 ; 2014-12-11 00:00:32 ;
+2648 ; Washing dishes ;  ; 2014-12-11 00:01:17 ;
+2649 ; Washing dishes ;  ; 2014-12-11 00:01:21 ;
+2668 ; Washing dishes ; 20141211_003125 ; 2014-12-11 00:31:32 ;
+2669 ; Washing dishes ; 20141211_003125 ; 2014-12-11 00:31:36 ;
+2670 ; Washing dishes ; 20141211_003311 ; 2014-12-11 00:33:18 ;
+2671 ; Washing dishes ; 20141211_003311 ; 2014-12-11 00:33:22 ;
+2672 ; Washing dishes ; 20141211_003432 ; 2014-12-11 00:34:39 ;
+2673 ; Washing dishes ; 20141211_003432 ; 2014-12-11 00:34:43 ;
+2674 ; Washing dishes ; 20141211_003457 ; 2014-12-11 00:35:04 ;
+2675 ; Washing dishes ; 20141211_003457 ; 2014-12-11 00:35:08 ;
+2694 ; Washing dishes ; 20141211_122606 ; 2014-12-11 12:26:13 ;
+2695 ; Washing dishes ; 20141211_122606 ; 2014-12-11 12:26:18 ;
+2728 ; Washing dishes ; 20141211_234355 ; 2014-12-11 23:44:02 ;
+2729 ; Washing dishes ; 20141211_234355 ; 2014-12-11 23:44:06 ;
+2730 ; Washing dishes ;  ; 2014-12-11 23:45:15 ;
+2731 ; Washing dishes ;  ; 2014-12-11 23:45:19 ;
+2734 ; Washing dishes ; 20141212_114735 ; 2014-12-12 11:47:42 ;
+2735 ; Washing dishes ; 20141212_114735 ; 2014-12-12 11:47:46 ;
+2736 ; Washing dishes ;  ; 2014-12-12 11:50:12 ;
+2737 ; Washing dishes ;  ; 2014-12-12 11:50:17 ;
+2738 ; Washing dishes ; 20141212_115204 ; 2014-12-12 11:52:11 ;
+2739 ; Washing dishes ; 20141212_115204 ; 2014-12-12 11:52:15 ;
+2746 ; Washing dishes ; 20141212_121227 ; 2014-12-12 12:12:34 ;
+2747 ; Washing dishes ; 20141212_121227 ; 2014-12-12 12:12:38 ;
+2748 ; Washing dishes ;  ; 2014-12-12 12:13:40 ;
+2749 ; Washing dishes ;  ; 2014-12-12 12:13:44 ;
+2750 ; Washing dishes ; 20141212_121356 ; 2014-12-12 12:14:03 ;
+2751 ; Washing dishes ; 20141212_121356 ; 2014-12-12 12:14:07 ;
+2752 ; Washing dishes ; 20141212_121500 ; 2014-12-12 12:15:07 ;
+2753 ; Washing dishes ; 20141212_121500 ; 2014-12-12 12:15:11 ;
+2754 ; Washing dishes ; 20141212_121548 ; 2014-12-12 12:15:55 ;
+2755 ; Washing dishes ; 20141212_121548 ; 2014-12-12 12:15:59 ;
+2758 ; Washing dishes ; 20141212_121835 ; 2014-12-12 12:18:42 ;
+2759 ; Washing dishes ; 20141212_121835 ; 2014-12-12 12:18:46 ;
+2794 ; Washing dishes ; 20141212_171438 ; 2014-12-12 17:14:45 ;
+2795 ; Washing dishes ; 20141212_171438 ; 2014-12-12 17:14:49 ;
+2808 ; Washing dishes ; 20141212_175357 ; 2014-12-12 17:54:04 ;
+2809 ; Washing dishes ; 20141212_175357 ; 2014-12-12 17:54:08 ;
+2810 ; Washing dishes ; 20141212_175429 ; 2014-12-12 17:54:36 ;
+2811 ; Washing dishes ; 20141212_175429 ; 2014-12-12 17:54:40 ;
+2812 ; Washing dishes ; 20141212_175552 ; 2014-12-12 17:55:59 ;
+2813 ; Washing dishes ; 20141212_175552 ; 2014-12-12 17:56:03 ;
+2824 ; Washing dishes ; 20141212_233725 ; 2014-12-12 23:37:32 ;
+2825 ; Washing dishes ; 20141212_233725 ; 2014-12-12 23:37:36 ;
+2826 ; Washing dishes ;  ; 2014-12-12 23:40:48 ;
+2827 ; Washing dishes ;  ; 2014-12-12 23:40:52 ;
+2840 ; Washing dishes ; 20141213_000514 ; 2014-12-13 00:05:21 ;
+2841 ; Washing dishes ; 20141213_000514 ; 2014-12-13 00:05:25 ;
+2842 ; Washing dishes ;  ; 2014-12-13 00:06:51 ;
+2843 ; Washing dishes ;  ; 2014-12-13 00:06:55 ;
+2880 ; Washing dishes ; 20141213_153253 ; 2014-12-13 15:33:00 ;
+2881 ; Washing dishes ; 20141213_153253 ; 2014-12-13 15:33:04 ;
+2882 ; Washing dishes ; 20141213_153357 ; 2014-12-13 15:34:04 ;
+2883 ; Washing dishes ; 20141213_153357 ; 2014-12-13 15:34:08 ;
+2894 ; Washing dishes ; 20141213_155857 ; 2014-12-13 15:59:04 ;
+2895 ; Washing dishes ; 20141213_155857 ; 2014-12-13 15:59:08 ;
+2896 ; Washing dishes ; 20141213_160012 ; 2014-12-13 16:00:19 ;
+2897 ; Washing dishes ; 20141213_160012 ; 2014-12-13 16:00:23 ;
+2921 ; Washing dishes ; 20141213_201211 ; 2014-12-13 20:12:18 ;
+2922 ; Washing dishes ; 20141213_201211 ; 2014-12-13 20:12:22 ;
+2923 ; Washing dishes ;  ; 2014-12-13 20:12:46 ;
+2924 ; Washing dishes ;  ; 2014-12-13 20:12:50 ;
+2925 ; Washing dishes ; 20141213_201301 ; 2014-12-13 20:13:08 ;
+2926 ; Washing dishes ; 20141213_201301 ; 2014-12-13 20:13:12 ;
+2927 ; Washing dishes ; 20141213_201331 ; 2014-12-13 20:13:38 ;
+2928 ; Washing dishes ; 20141213_201331 ; 2014-12-13 20:13:42 ;
+2955 ; Washing dishes ; 20141213_215323 ; 2014-12-13 21:53:30 ;
+2956 ; Washing dishes ; 20141213_215323 ; 2014-12-13 21:53:34 ;
+2957 ; Washing dishes ;  ; 2014-12-13 21:53:55 ;
+2958 ; Washing dishes ;  ; 2014-12-13 21:53:59 ;
+2959 ; Washing dishes ; 20141213_215417 ; 2014-12-13 21:54:24 ;
+2960 ; Washing dishes ; 20141213_215417 ; 2014-12-13 21:54:28 ;
+2973 ; Washing dishes ; 20141214_102920 ; 2014-12-14 10:29:40 ;
+3006 ; Washing dishes ; 20141214_130338 ; 2014-12-14 13:03:45 ;
+3007 ; Washing dishes ; 20141214_130338 ; 2014-12-14 13:03:49 ;
+3008 ; Washing dishes ; 20141214_130441 ; 2014-12-14 13:04:48 ;
+3009 ; Washing dishes ; 20141214_130441 ; 2014-12-14 13:04:52 ;
+3010 ; Washing dishes ; 20141214_130541 ; 2014-12-14 13:05:48 ;
+3011 ; Washing dishes ; 20141214_130541 ; 2014-12-14 13:05:52 ;
+3034 ; Washing dishes ; 20141215_001819 ; 2014-12-15 00:18:26 ;
+3035 ; Washing dishes ; 20141215_001819 ; 2014-12-15 00:18:30 ;
+3036 ; Washing dishes ;  ; 2014-12-15 00:18:46 ;
+3037 ; Washing dishes ;  ; 2014-12-15 00:18:51 ;
+3038 ; Washing dishes ; 20141215_001859 ; 2014-12-15 00:19:06 ;
+3039 ; Washing dishes ; 20141215_001859 ; 2014-12-15 00:19:10 ;
+3052 ; Washing dishes ; 20141216_011356 ; 2014-12-16 01:14:03 ;
+3053 ; Washing dishes ; 20141216_011356 ; 2014-12-16 01:14:08 ;
+3205 ; Washing dishes ; 20150513_083154 ; 2015-05-13 08:32:01 ;
+3206 ; Washing dishes ; 20150513_083154 ; 2015-05-13 08:32:05 ;
+3207 ; Washing dishes ; 20150513_083223 ; 2015-05-13 08:32:30 ;
+3208 ; Washing dishes ; 20150513_083223 ; 2015-05-13 08:32:34 ;
+3209 ; Washing dishes ; 20150513_083307 ; 2015-05-13 08:33:14 ;
+3210 ; Washing dishes ; 20150513_083307 ; 2015-05-13 08:33:18 ;
+3211 ; Washing dishes ; 20150513_083631 ; 2015-05-13 08:36:38 ;
+3212 ; Washing dishes ; 20150513_083631 ; 2015-05-13 08:36:42 ;
+------------------------------------------------------------
+nexussensors7.db
+------------------------------------------------------------
+adlrecord5.db
+111 ; Bathroom ; 20150509_115657 ; 2015-05-09 11:57:06 ;
+112 ; Bathroom ; 20150509_115657 ; 2015-05-09 11:57:11 ;
+113 ; Bathroom ; 20150509_115657 ; 2015-05-09 11:57:38 ;
+114 ; Bathroom ; 20150509_115804 ; 2015-05-09 11:58:13 ;
+115 ; Bathroom ; 20150509_115804 ; 2015-05-09 11:58:18 ;
+116 ; Bathroom ; 20150509_115804 ; 2015-05-09 11:58:24 ;
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+47 ; Bathroom ;  ; 2014-10-07 16:10:58 ;
+48 ; Bathroom ;  ; 2014-10-07 16:11:02 ;
+49 ; Bathroom ;  ; 2014-10-07 16:15:29 ;
+50 ; Bathroom ;  ; 2014-10-07 16:15:34 ;
+78 ; Bathroom ; 20141007_200459 ; 2014-10-07 20:05:30 ;
+79 ; Bathroom ; 20141007_200559 ; 2014-10-07 20:06:17 ;
+80 ; Bathroom ; 20141007_200620 ; 2014-10-07 20:06:49 ;
+83 ; Bathroom ;  ; 2014-10-07 20:14:26 ;
+95 ; Bathroom ;  ; 2014-10-07 23:30:01 ;
+96 ; Bathroom ;  ; 2014-10-07 23:30:05 ;
+97 ; Bathroom ;  ; 2014-10-07 23:43:40 ;
+98 ; Bathroom ;  ; 2014-10-07 23:43:44 ;
+105 ; Bathroom ;  ; 2014-10-08 08:58:43 ;
+106 ; Bathroom ;  ; 2014-10-08 08:58:48 ;
+107 ; Bathroom ;  ; 2014-10-08 09:11:00 ;
+108 ; Bathroom ;  ; 2014-10-08 09:11:04 ;
+121 ; Bathroom ;  ; 2014-10-08 14:12:57 ;
+122 ; Bathroom ;  ; 2014-10-08 14:13:01 ;
+256 ; Bathroom ;  ; 2014-10-12 10:26:47 ;
+257 ; Bathroom ;  ; 2014-10-12 10:26:51 ;
+------------------------------------------------------------
+nexussensors13.db
+3 ; Bathroom ; 20141012_200505 ; 2014-10-12 20:05:13 ;
+4 ; Bathroom ; 20141012_200505 ; 2014-10-12 20:05:17 ;
+13 ; Bathroom ; 20141012_235637 ; 2014-10-12 23:57:22 ;
+14 ; Bathroom ; 20141012_235637 ; 2014-10-12 23:57:32 ;
+52 ; Bathroom ; 20141013_234641 ; 2014-10-13 23:47:28 ;
+53 ; Bathroom ; 20141013_234641 ; 2014-10-13 23:47:38 ;
+54 ; Bathroom ; 20141013_234746 ; 2014-10-13 23:48:00 ;
+55 ; Bathroom ; 20141013_234746 ; 2014-10-13 23:48:04 ;
+------------------------------------------------------------
+nexussensors16.db
+3 ; Bathroom ; 20141017_113357 ; 2014-10-17 11:34:09 ;
+4 ; Bathroom ; 20141017_113357 ; 2014-10-17 11:34:13 ;
+5 ; Bathroom ; 20141017_113422 ; 2014-10-17 11:34:35 ;
+6 ; Bathroom ; 20141017_113422 ; 2014-10-17 11:34:39 ;
+7 ; Bathroom ; 20141017_113446 ; 2014-10-17 11:35:01 ;
+8 ; Bathroom ; 20141017_113446 ; 2014-10-17 11:35:05 ;
+107 ; Bathroom ; 20141019_210734 ; 2014-10-19 21:08:09 ;
+108 ; Bathroom ; 20141019_210734 ; 2014-10-19 21:08:13 ;
+------------------------------------------------------------
+nexussensors17.db
+99 ; Bathroom ; 20141022_004141 ; 2014-10-22 00:41:49 ;
+100 ; Bathroom ; 20141022_004141 ; 2014-10-22 00:41:53 ;
+101 ; Bathroom ; 20141022_004205 ; 2014-10-22 00:42:13 ;
+102 ; Bathroom ; 20141022_004205 ; 2014-10-22 00:42:17 ;
+143 ; Bathroom ; 20141022_203500 ; 2014-10-22 20:35:36 ;
+144 ; Bathroom ; 20141022_203500 ; 2014-10-22 20:35:40 ;
+145 ; Bathroom ; 20141022_203547 ; 2014-10-22 20:36:00 ;
+146 ; Bathroom ; 20141022_203547 ; 2014-10-22 20:36:04 ;
+167 ; Bathroom ; 20141022_234830 ; 2014-10-22 23:50:59 ;
+168 ; Bathroom ; 20141022_234830 ; 2014-10-22 23:51:03 ;
+259 ; Bathroom ;  ; 2014-10-25 09:11:09 ;
+260 ; Bathroom ;  ; 2014-10-25 09:11:13 ;
+369 ; Bathroom ; 20141027_001242 ; 2014-10-27 00:12:57 ;
+370 ; Bathroom ; 20141027_001242 ; 2014-10-27 00:13:01 ;
+371 ; Bathroom ; 20141027_001333 ; 2014-10-27 00:13:44 ;
+372 ; Bathroom ; 20141027_001333 ; 2014-10-27 00:13:48 ;
+515 ; Bathroom ; 20141028_200809 ; 2014-10-28 20:08:24 ;
+516 ; Bathroom ; 20141028_200809 ; 2014-10-28 20:08:28 ;
+517 ; Bathroom ; 20141028_200838 ; 2014-10-28 20:08:50 ;
+518 ; Bathroom ; 20141028_200838 ; 2014-10-28 20:08:54 ;
+529 ; Bathroom ; 20141028_230445 ; 2014-10-28 23:04:56 ;
+530 ; Bathroom ; 20141028_230445 ; 2014-10-28 23:05:00 ;
+565 ; Bathroom ; 20141029_115010 ; 2014-10-29 11:50:35 ;
+566 ; Bathroom ; 20141029_115010 ; 2014-10-29 11:50:39 ;
+------------------------------------------------------------
+nexussensors18.db
+51 ; Bathroom ; 20141031_173452 ; 2014-10-31 17:35:05 ;
+52 ; Bathroom ; 20141031_173452 ; 2014-10-31 17:35:09 ;
+73 ; Bathroom ; 20141031_223216 ; 2014-10-31 22:32:33 ;
+74 ; Bathroom ; 20141031_223216 ; 2014-10-31 22:32:37 ;
+91 ; Bathroom ; 20141031_232553 ; 2014-10-31 23:26:59 ;
+92 ; Bathroom ; 20141031_232553 ; 2014-10-31 23:27:03 ;
+111 ; Bathroom ; 20141101_174502 ; 2014-11-01 17:45:20 ;
+112 ; Bathroom ; 20141101_174502 ; 2014-11-01 17:45:24 ;
+113 ; Bathroom ; 20141101_174548 ; 2014-11-01 17:46:04 ;
+114 ; Bathroom ; 20141101_174548 ; 2014-11-01 17:46:08 ;
+179 ; Bathroom ; 20141102_235727 ; 2014-11-02 23:58:49 ;
+180 ; Bathroom ; 20141102_235727 ; 2014-11-02 23:58:53 ;
+181 ; Bathroom ; 20141103_000124 ; 2014-11-03 00:01:35 ;
+182 ; Bathroom ; 20141103_000124 ; 2014-11-03 00:01:39 ;
+271 ; Bathroom ; 20141103_235450 ; 2014-11-03 23:55:07 ;
+272 ; Bathroom ; 20141103_235450 ; 2014-11-03 23:55:11 ;
+416 ; Bathroom ; 20141105_115646 ; 2014-11-05 11:58:21 ;
+417 ; Bathroom ; 20141105_115646 ; 2014-11-05 11:58:25 ;
+448 ; Bathroom ; 20141105_185629 ; 2014-11-05 18:56:41 ;
+449 ; Bathroom ; 20141105_185629 ; 2014-11-05 18:56:45 ;
+509 ; Bathroom ; 20141106_114312 ; 2014-11-06 11:43:47 ;
+510 ; Bathroom ; 20141106_114312 ; 2014-11-06 11:43:51 ;
+511 ; Bathroom ;  ; 2014-11-06 11:44:16 ;
+512 ; Bathroom ;  ; 2014-11-06 11:44:20 ;
+939 ; Bathroom ;  ; 2014-11-08 23:44:43 ;
+940 ; Bathroom ;  ; 2014-11-08 23:44:47 ;
+941 ; Bathroom ; 20141108_234502 ; 2014-11-08 23:45:09 ;
+942 ; Bathroom ; 20141108_234502 ; 2014-11-08 23:45:13 ;
+943 ; Bathroom ; 20141108_234532 ; 2014-11-08 23:45:39 ;
+944 ; Bathroom ; 20141108_234532 ; 2014-11-08 23:45:43 ;
+945 ; Bathroom ; 20141108_234732 ; 2014-11-08 23:47:39 ;
+946 ; Bathroom ; 20141108_234732 ; 2014-11-08 23:47:43 ;
+1120 ; Bathroom ; 20141110_181755 ; 2014-11-10 18:18:01 ;
+1121 ; Bathroom ; 20141110_181755 ; 2014-11-10 18:18:02 ;
+1122 ; Bathroom ; 20141110_181755 ; 2014-11-10 18:18:05 ;
+1123 ; Bathroom ;  ; 2014-11-10 18:18:07 ;
+1172 ; Bathroom ;  ; 2014-11-11 11:42:58 ;
+1173 ; Bathroom ;  ; 2014-11-11 11:43:02 ;
+1614 ; Bathroom ; 20141114_202616 ; 2014-11-14 20:26:23 ;
+1615 ; Bathroom ; 20141114_202616 ; 2014-11-14 20:26:27 ;
+1652 ; Bathroom ; 20141115_131740 ; 2014-11-15 13:17:47 ;
+1653 ; Bathroom ; 20141115_131740 ; 2014-11-15 13:17:51 ;
+1788 ; Bathroom ;  ; 2014-11-16 21:34:27 ;
+1789 ; Bathroom ;  ; 2014-11-16 21:34:31 ;
+1790 ; Bathroom ; 20141116_213504 ; 2014-11-16 21:35:11 ;
+1791 ; Bathroom ; 20141116_213504 ; 2014-11-16 21:35:16 ;
+1792 ; Bathroom ; 20141116_235446 ; 2014-11-16 23:54:53 ;
+1793 ; Bathroom ; 20141116_235446 ; 2014-11-16 23:54:57 ;
+1794 ; Bathroom ; 20141117_001814 ; 2014-11-17 00:18:21 ;
+1795 ; Bathroom ; 20141117_001814 ; 2014-11-17 00:18:26 ;
+1814 ; Bathroom ; 20141117_125700 ; 2014-11-17 12:57:07 ;
+1815 ; Bathroom ; 20141117_125700 ; 2014-11-17 12:57:11 ;
+1816 ; Bathroom ;  ; 2014-11-17 12:57:46 ;
+1817 ; Bathroom ;  ; 2014-11-17 12:57:50 ;
+1874 ; Bathroom ; 20141117_171748 ; 2014-11-17 17:17:55 ;
+1875 ; Bathroom ; 20141117_171748 ; 2014-11-17 17:17:59 ;
+1876 ; Bathroom ;  ; 2014-11-17 17:18:23 ;
+1877 ; Bathroom ;  ; 2014-11-17 17:18:27 ;
+1880 ; Bathroom ; 20141117_191201 ; 2014-11-17 19:12:08 ;
+1881 ; Bathroom ; 20141117_191201 ; 2014-11-17 19:12:12 ;
+1882 ; Bathroom ;  ; 2014-11-17 19:12:30 ;
+1883 ; Bathroom ;  ; 2014-11-17 19:12:34 ;
+1884 ; Bathroom ; 20141117_193044 ; 2014-11-17 19:30:51 ;
+1885 ; Bathroom ; 20141117_193044 ; 2014-11-17 19:30:55 ;
+2006 ; Bathroom ; 20141118_193849 ; 2014-11-18 19:38:56 ;
+2007 ; Bathroom ; 20141118_193849 ; 2014-11-18 19:39:00 ;
+2010 ; Bathroom ; 20141118_210827 ; 2014-11-18 21:08:34 ;
+2011 ; Bathroom ; 20141118_210827 ; 2014-11-18 21:08:38 ;
+2012 ; Bathroom ; 20141118_210858 ; 2014-11-18 21:09:05 ;
+2013 ; Bathroom ; 20141118_210858 ; 2014-11-18 21:09:09 ;
+2032 ; Bathroom ; 20141119_123014 ; 2014-11-19 12:30:21 ;
+2033 ; Bathroom ; 20141119_123014 ; 2014-11-19 12:30:25 ;
+2034 ; Bathroom ;  ; 2014-11-19 12:30:43 ;
+2035 ; Bathroom ;  ; 2014-11-19 12:30:47 ;
+2152 ; Bathroom ; 20141203_195440 ; 2014-12-03 19:54:47 ;
+2153 ; Bathroom ; 20141203_195440 ; 2014-12-03 19:54:51 ;
+2154 ; Bathroom ;  ; 2014-12-03 19:55:14 ;
+2155 ; Bathroom ;  ; 2014-12-03 19:55:18 ;
+2156 ; Bathroom ; 20141203_195525 ; 2014-12-03 19:55:33 ;
+2157 ; Bathroom ; 20141203_195525 ; 2014-12-03 19:55:37 ;
+2234 ; Bathroom ; 20141204_204817 ; 2014-12-04 20:48:24 ;
+2235 ; Bathroom ; 20141204_204817 ; 2014-12-04 20:48:28 ;
+2236 ; Bathroom ;  ; 2014-12-04 20:48:47 ;
+2237 ; Bathroom ;  ; 2014-12-04 20:48:51 ;
+2238 ; Bathroom ; 20141204_204857 ; 2014-12-04 20:49:04 ;
+2239 ; Bathroom ; 20141204_204857 ; 2014-12-04 20:49:08 ;
+2260 ; Bathroom ; 20141205_180303 ; 2014-12-05 18:03:10 ;
+2261 ; Bathroom ; 20141205_180303 ; 2014-12-05 18:03:14 ;
+2262 ; Bathroom ;  ; 2014-12-05 18:03:33 ;
+2263 ; Bathroom ;  ; 2014-12-05 18:03:38 ;
+2420 ; Bathroom ; 20141208_220838 ; 2014-12-08 22:08:45 ;
+2421 ; Bathroom ; 20141208_220838 ; 2014-12-08 22:08:50 ;
+2422 ; Bathroom ;  ; 2014-12-08 22:09:08 ;
+2423 ; Bathroom ;  ; 2014-12-08 22:09:12 ;
+2424 ; Bathroom ; 20141208_220929 ; 2014-12-08 22:09:36 ;
+2425 ; Bathroom ; 20141208_220929 ; 2014-12-08 22:09:40 ;
+2426 ; Bathroom ; 20141208_220952 ; 2014-12-08 22:09:59 ;
+2427 ; Bathroom ; 20141208_220952 ; 2014-12-08 22:10:03 ;
+2484 ; Bathroom ; 20141209_185254 ; 2014-12-09 18:53:01 ;
+2485 ; Bathroom ; 20141209_185254 ; 2014-12-09 18:53:05 ;
+2486 ; Bathroom ;  ; 2014-12-09 18:54:00 ;
+2487 ; Bathroom ;  ; 2014-12-09 18:54:04 ;
+2492 ; Bathroom ; 20141209_205105 ; 2014-12-09 20:51:12 ;
+2493 ; Bathroom ; 20141209_205105 ; 2014-12-09 20:51:16 ;
+2494 ; Bathroom ;  ; 2014-12-09 20:51:44 ;
+2495 ; Bathroom ;  ; 2014-12-09 20:51:48 ;
+2496 ; Bathroom ; 20141209_205202 ; 2014-12-09 20:52:09 ;
+2497 ; Bathroom ; 20141209_205202 ; 2014-12-09 20:52:13 ;
+2498 ; Bathroom ; 20141209_205242 ; 2014-12-09 20:52:49 ;
+2499 ; Bathroom ; 20141209_205242 ; 2014-12-09 20:52:53 ;
+2502 ; Bathroom ; 20141209_231657 ; 2014-12-09 23:17:04 ;
+2503 ; Bathroom ; 20141209_231657 ; 2014-12-09 23:17:08 ;
+2504 ; Bathroom ;  ; 2014-12-09 23:17:28 ;
+2505 ; Bathroom ;  ; 2014-12-09 23:17:32 ;
+2506 ; Bathroom ; 20141209_231738 ; 2014-12-09 23:17:45 ;
+2507 ; Bathroom ; 20141209_231738 ; 2014-12-09 23:17:50 ;
+2508 ; Bathroom ; 20141209_231819 ; 2014-12-09 23:18:26 ;
+2509 ; Bathroom ; 20141209_231819 ; 2014-12-09 23:18:30 ;
+2512 ; Bathroom ; 20141210_005152 ; 2014-12-10 00:51:59 ;
+2513 ; Bathroom ; 20141210_005152 ; 2014-12-10 00:52:03 ;
+2514 ; Bathroom ;  ; 2014-12-10 00:52:23 ;
+2515 ; Bathroom ;  ; 2014-12-10 00:52:27 ;
+2516 ; Bathroom ; 20141210_005301 ; 2014-12-10 00:53:08 ;
+2517 ; Bathroom ; 20141210_005301 ; 2014-12-10 00:53:12 ;
+2576 ; Bathroom ; 20141210_125537 ; 2014-12-10 12:55:44 ;
+2577 ; Bathroom ; 20141210_125537 ; 2014-12-10 12:55:48 ;
+2578 ; Bathroom ; 20141210_125557 ; 2014-12-10 12:56:04 ;
+2579 ; Bathroom ; 20141210_125557 ; 2014-12-10 12:56:08 ;
+2588 ; Bathroom ; 20141210_150844 ; 2014-12-10 15:08:51 ;
+2589 ; Bathroom ; 20141210_150844 ; 2014-12-10 15:08:55 ;
+2590 ; Bathroom ;  ; 2014-12-10 15:09:18 ;
+2591 ; Bathroom ;  ; 2014-12-10 15:09:22 ;
+2592 ; Bathroom ; 20141210_150933 ; 2014-12-10 15:09:40 ;
+2593 ; Bathroom ; 20141210_150933 ; 2014-12-10 15:09:44 ;
+2604 ; Bathroom ; 20141210_173628 ; 2014-12-10 17:36:35 ;
+2605 ; Bathroom ; 20141210_173628 ; 2014-12-10 17:36:39 ;
+2606 ; Bathroom ;  ; 2014-12-10 17:37:05 ;
+2607 ; Bathroom ;  ; 2014-12-10 17:37:09 ;
+2638 ; Bathroom ; 20141210_184234 ; 2014-12-10 18:42:41 ;
+2639 ; Bathroom ; 20141210_184234 ; 2014-12-10 18:42:45 ;
+2640 ; Bathroom ; 20141210_184258 ; 2014-12-10 18:43:05 ;
+2641 ; Bathroom ; 20141210_184258 ; 2014-12-10 18:43:09 ;
+2676 ; Bathroom ; 20141211_112008 ; 2014-12-11 11:20:15 ;
+2677 ; Bathroom ; 20141211_112008 ; 2014-12-11 11:20:19 ;
+2678 ; Bathroom ;  ; 2014-12-11 11:20:49 ;
+2679 ; Bathroom ;  ; 2014-12-11 11:20:53 ;
+2680 ; Bathroom ; 20141211_112102 ; 2014-12-11 11:21:09 ;
+2681 ; Bathroom ; 20141211_112102 ; 2014-12-11 11:21:13 ;
+2700 ; Bathroom ; 20141211_133805 ; 2014-12-11 13:38:12 ;
+2701 ; Bathroom ; 20141211_133805 ; 2014-12-11 13:38:16 ;
+2702 ; Bathroom ; 20141211_133845 ; 2014-12-11 13:38:52 ;
+2703 ; Bathroom ; 20141211_133845 ; 2014-12-11 13:38:56 ;
+2714 ; Bathroom ; 20141211_231501 ; 2014-12-11 23:15:08 ;
+2715 ; Bathroom ; 20141211_231501 ; 2014-12-11 23:15:12 ;
+2716 ; Bathroom ;  ; 2014-12-11 23:15:44 ;
+2717 ; Bathroom ;  ; 2014-12-11 23:15:48 ;
+2718 ; Bathroom ; 20141211_231556 ; 2014-12-11 23:16:03 ;
+2719 ; Bathroom ; 20141211_231556 ; 2014-12-11 23:16:07 ;
+2848 ; Bathroom ; 20141213_001054 ; 2014-12-13 00:11:01 ;
+2849 ; Bathroom ; 20141213_001054 ; 2014-12-13 00:11:04 ;
+2850 ; Bathroom ; 20141213_001118 ; 2014-12-13 00:11:25 ;
+2851 ; Bathroom ; 20141213_001118 ; 2014-12-13 00:11:29 ;
+2854 ; Bathroom ; None ; 2014-12-13 10:45:21 ;
+2855 ; Bathroom ; None ; 2014-12-13 10:45:26 ;
+2856 ; Bathroom ;  ; 2014-12-13 10:45:40 ;
+2857 ; Bathroom ;  ; 2014-12-13 10:45:44 ;
+2858 ; Bathroom ;  ; 2014-12-13 10:46:00 ;
+2859 ; Bathroom ;  ; 2014-12-13 10:46:04 ;
+2931 ; Bathroom ; 20141213_201531 ; 2014-12-13 20:15:38 ;
+2932 ; Bathroom ; 20141213_201531 ; 2014-12-13 20:15:42 ;
+2933 ; Bathroom ; 20141213_201557 ; 2014-12-13 20:16:04 ;
+2934 ; Bathroom ; 20141213_201557 ; 2014-12-13 20:16:09 ;
+2941 ; Bathroom ;  ; 2014-12-13 21:37:41 ;
+2942 ; Bathroom ;  ; 2014-12-13 21:37:45 ;
+2943 ; Bathroom ; 20141213_213754 ; 2014-12-13 21:38:01 ;
+2944 ; Bathroom ; 20141213_213754 ; 2014-12-13 21:38:05 ;
+2965 ; Bathroom ; 20141213_215748 ; 2014-12-13 21:57:55 ;
+2966 ; Bathroom ; 20141213_215748 ; 2014-12-13 21:57:59 ;
+2982 ; Bathroom ; 20141214_123502 ; 2014-12-14 12:35:09 ;
+2983 ; Bathroom ; 20141214_123502 ; 2014-12-14 12:35:13 ;
+2984 ; Bathroom ;  ; 2014-12-14 12:35:35 ;
+2985 ; Bathroom ;  ; 2014-12-14 12:35:39 ;
+3042 ; Bathroom ; 20141215_002224 ; 2014-12-15 00:22:31 ;
+3043 ; Bathroom ; 20141215_002224 ; 2014-12-15 00:22:35 ;
+3044 ; Bathroom ; 20141215_002249 ; 2014-12-15 00:22:56 ;
+3045 ; Bathroom ; 20141215_002249 ; 2014-12-15 00:23:00 ;
+3054 ; Bathroom ;  ; 2014-12-16 01:16:33 ;
+3055 ; Bathroom ;  ; 2014-12-16 01:16:37 ;
+3056 ; Bathroom ; 20141216_011659 ; 2014-12-16 01:17:06 ;
+3057 ; Bathroom ; 20141216_011659 ; 2014-12-16 01:17:10 ;
+3096 ; Bathroom ; None ; 2015-05-02 09:54:28 ;
+3097 ; Bathroom ; None ; 2015-05-02 09:54:32 ;
+------------------------------------------------------------
+nexussensors7.db
+391 ; Bathroom ; 20141006_144120 ; 2014-10-06 14:41:28 ;
+392 ; Bathroom ; 20141006_144120 ; 2014-10-06 14:41:32 ;
+------------------------------------------------------------
+adlrecord5.db
+15 ; Cooking ; 20150509_081648 ; 2015-05-09 08:17:14 ;
+16 ; Cooking ; 20150509_081648 ; 2015-05-09 08:17:24 ;
+17 ; Cooking ; 20150509_081648 ; 2015-05-09 08:17:30 ;
+18 ; Cooking ; 20150509_081827 ; 2015-05-09 08:18:38 ;
+19 ; Cooking ; 20150509_081827 ; 2015-05-09 08:18:45 ;
+20 ; Cooking ; 20150509_081827 ; 2015-05-09 08:18:50 ;
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+6 ; Cooking ; 20150604_095130 ; 2015-06-04 10:02:53 ;
+7 ; Cooking ; 20150604_100402 ; 2015-06-04 10:04:21 ;
+8 ; Cooking ; 20150604_100402 ; 2015-06-04 10:04:31 ;
+9 ; Cooking ; 20150604_100402 ; 2015-06-04 10:04:41 ;
+10 ; Cooking ; 20150604_101739 ; 2015-06-04 10:17:59 ;
+11 ; Cooking ; 20150604_101739 ; 2015-06-04 10:18:09 ;
+12 ; Cooking ; 20150604_101739 ; 2015-06-04 10:18:19 ;
+16 ; Cooking ; 20150605_113503 ; 2015-06-05 11:35:23 ;
+17 ; Cooking ; 20150605_113503 ; 2015-06-05 11:35:33 ;
+------------------------------------------------------------
+nexussensors10.db
+93 ; Cooking ;  ; 2014-10-07 23:28:48 ;
+94 ; Cooking ;  ; 2014-10-07 23:28:52 ;
+129 ; Cooking ; 20141008_155032 ; 2014-10-08 15:50:48 ;
+130 ; Cooking ; 20141008_155032 ; 2014-10-08 15:50:52 ;
+131 ; Cooking ; 20141008_155104 ; 2014-10-08 15:51:27 ;
+132 ; Cooking ; 20141008_155104 ; 2014-10-08 15:51:31 ;
+242 ; Cooking ;  ; 2014-10-11 15:22:01 ;
+258 ; Cooking ; 20141012_102743 ; 2014-10-12 10:27:51 ;
+259 ; Cooking ; 20141012_102743 ; 2014-10-12 10:27:55 ;
+260 ; Cooking ; 20141012_102822 ; 2014-10-12 10:28:42 ;
+261 ; Cooking ; 20141012_102822 ; 2014-10-12 10:28:52 ;
+262 ; Cooking ; 20141012_102822 ; 2014-10-12 10:29:02 ;
+263 ; Cooking ; 20141012_102822 ; 2014-10-12 10:29:12 ;
+264 ; Cooking ; 20141012_102822 ; 2014-10-12 10:29:22 ;
+265 ; Cooking ; 20141012_103053 ; 2014-10-12 10:31:45 ;
+266 ; Cooking ; 20141012_103053 ; 2014-10-12 10:32:05 ;
+267 ; Cooking ; 20141012_103053 ; 2014-10-12 10:32:25 ;
+268 ; Cooking ; 20141012_103053 ; 2014-10-12 10:32:45 ;
+269 ; Cooking ; 20141012_103053 ; 2014-10-12 10:33:05 ;
+270 ; Cooking ; 20141012_103451 ; 2014-10-12 10:36:23 ;
+271 ; Cooking ; 20141012_103451 ; 2014-10-12 10:37:03 ;
+274 ; Cooking ; 20141012_104316 ; 2014-10-12 10:43:43 ;
+275 ; Cooking ; 20141012_104353 ; 2014-10-12 10:45:20 ;
+276 ; Cooking ; 20141012_104353 ; 2014-10-12 10:46:01 ;
+315 ; Cooking ; 20141012_135258 ; 2014-10-12 13:53:15 ;
+316 ; Cooking ; 20141012_135258 ; 2014-10-12 13:53:19 ;
+317 ; Cooking ; 20141012_135347 ; 2014-10-12 13:54:02 ;
+318 ; Cooking ; 20141012_135347 ; 2014-10-12 13:54:06 ;
+------------------------------------------------------------
+nexussensors13.db
+5 ; Cooking ; 20141012_200600 ; 2014-10-12 20:06:08 ;
+6 ; Cooking ; 20141012_200600 ; 2014-10-12 20:06:12 ;
+7 ; Cooking ; 20141012_200742 ; 2014-10-12 20:08:42 ;
+8 ; Cooking ; 20141012_200742 ; 2014-10-12 20:09:12 ;
+56 ; Cooking ;  ; 2014-10-13 23:51:32 ;
+57 ; Cooking ;  ; 2014-10-13 23:51:36 ;
+58 ; Cooking ;  ; 2014-10-13 23:52:00 ;
+59 ; Cooking ;  ; 2014-10-13 23:52:04 ;
+60 ; Cooking ;  ; 2014-10-13 23:52:04 ;
+61 ; Cooking ;  ; 2014-10-13 23:52:08 ;
+62 ; Cooking ;  ; 2014-10-13 23:52:09 ;
+63 ; Cooking ;  ; 2014-10-13 23:52:13 ;
+64 ; Cooking ;  ; 2014-10-13 23:52:17 ;
+65 ; Cooking ;  ; 2014-10-13 23:52:21 ;
+66 ; Cooking ;  ; 2014-10-13 23:52:25 ;
+73 ; Cooking ; 20141014_000121 ; 2014-10-14 00:01:36 ;
+74 ; Cooking ; 20141014_000121 ; 2014-10-14 00:01:40 ;
+85 ; Cooking ;  ; 2014-10-14 10:50:34 ;
+86 ; Cooking ;  ; 2014-10-14 10:50:38 ;
+87 ; Cooking ; 20141014_120304 ; 2014-10-14 12:03:17 ;
+88 ; Cooking ; 20141014_120304 ; 2014-10-14 12:03:21 ;
+89 ; Cooking ; 20141014_120551 ; 2014-10-14 12:06:04 ;
+90 ; Cooking ; 20141014_120551 ; 2014-10-14 12:06:08 ;
+91 ; Cooking ; 20141014_120659 ; 2014-10-14 12:07:45 ;
+92 ; Cooking ; 20141014_120659 ; 2014-10-14 12:08:04 ;
+119 ; Cooking ; 20141014_213702 ; 2014-10-14 21:37:16 ;
+120 ; Cooking ; 20141014_213702 ; 2014-10-14 21:37:20 ;
+------------------------------------------------------------
+nexussensors16.db
+9 ; Cooking ; 20141017_114206 ; 2014-10-17 11:42:19 ;
+10 ; Cooking ; 20141017_114206 ; 2014-10-17 11:42:23 ;
+11 ; Cooking ; 20141017_114322 ; 2014-10-17 11:43:44 ;
+12 ; Cooking ; 20141017_114322 ; 2014-10-17 11:43:52 ;
+27 ; Cooking ; 20141017_185424 ; 2014-10-17 18:54:36 ;
+28 ; Cooking ; 20141017_185424 ; 2014-10-17 18:54:40 ;
+35 ; Cooking ; 20141018_085504 ; 2014-10-18 08:55:18 ;
+36 ; Cooking ; 20141018_085504 ; 2014-10-18 08:55:22 ;
+37 ; Cooking ; 20141018_085550 ; 2014-10-18 08:56:03 ;
+38 ; Cooking ; 20141018_085550 ; 2014-10-18 08:56:07 ;
+83 ; Cooking ; 20141019_132245 ; 2014-10-19 13:23:00 ;
+84 ; Cooking ; 20141019_132245 ; 2014-10-19 13:23:04 ;
+97 ; Cooking ; 20141019_183703 ; 2014-10-19 18:37:16 ;
+98 ; Cooking ; 20141019_183703 ; 2014-10-19 18:37:20 ;
+99 ; Cooking ; 20141019_183918 ; 2014-10-19 18:39:29 ;
+100 ; Cooking ; 20141019_183918 ; 2014-10-19 18:39:33 ;
+------------------------------------------------------------
+nexussensors17.db
+13 ; Cooking ; 20141020_122807 ; 2014-10-20 12:28:19 ;
+14 ; Cooking ; 20141020_122807 ; 2014-10-20 12:28:24 ;
+15 ; Cooking ; 20141020_122837 ; 2014-10-20 12:28:49 ;
+16 ; Cooking ; 20141020_122837 ; 2014-10-20 12:28:53 ;
+63 ; Cooking ; 20141021_120251 ; 2014-10-21 12:03:04 ;
+64 ; Cooking ; 20141021_120251 ; 2014-10-21 12:03:08 ;
+91 ; Cooking ; 20141022_003853 ; 2014-10-22 00:39:06 ;
+92 ; Cooking ; 20141022_003853 ; 2014-10-22 00:39:10 ;
+93 ; Cooking ; 20141022_003917 ; 2014-10-22 00:39:27 ;
+94 ; Cooking ; 20141022_003949 ; 2014-10-22 00:39:57 ;
+95 ; Cooking ; 20141022_004011 ; 2014-10-22 00:40:19 ;
+96 ; Cooking ; 20141022_004011 ; 2014-10-22 00:40:23 ;
+97 ; Cooking ; 20141022_004038 ; 2014-10-22 00:40:46 ;
+98 ; Cooking ; 20141022_004038 ; 2014-10-22 00:40:50 ;
+151 ; Cooking ; 20141022_232815 ; 2014-10-22 23:28:30 ;
+152 ; Cooking ; 20141022_232815 ; 2014-10-22 23:28:34 ;
+153 ; Cooking ; 20141022_232859 ; 2014-10-22 23:29:11 ;
+154 ; Cooking ; 20141022_232859 ; 2014-10-22 23:29:15 ;
+193 ; Cooking ; 20141023_190013 ; 2014-10-23 19:00:30 ;
+194 ; Cooking ; 20141023_190013 ; 2014-10-23 19:00:34 ;
+211 ; Cooking ; 20141024_110328 ; 2014-10-24 11:03:57 ;
+212 ; Cooking ; 20141024_110328 ; 2014-10-24 11:04:01 ;
+307 ; Cooking ; 20141026_123941 ; 2014-10-26 12:41:49 ;
+308 ; Cooking ; 20141026_123941 ; 2014-10-26 12:42:49 ;
+309 ; Cooking ; 20141026_125123 ; 2014-10-26 12:53:23 ;
+310 ; Cooking ; 20141026_125123 ; 2014-10-26 12:54:23 ;
+341 ; Cooking ; 20141026_193629 ; 2014-10-26 19:36:41 ;
+342 ; Cooking ; 20141026_193629 ; 2014-10-26 19:36:45 ;
+343 ; Cooking ; 20141026_193731 ; 2014-10-26 19:37:42 ;
+344 ; Cooking ; 20141026_193731 ; 2014-10-26 19:37:47 ;
+359 ; Cooking ; 20141026_235456 ; 2014-10-26 23:55:28 ;
+360 ; Cooking ; 20141026_235456 ; 2014-10-26 23:55:32 ;
+395 ; Cooking ; 20141027_112754 ; 2014-10-27 11:28:07 ;
+396 ; Cooking ; 20141027_112754 ; 2014-10-27 11:28:11 ;
+397 ; Cooking ; 20141027_113755 ; 2014-10-27 11:38:07 ;
+398 ; Cooking ; 20141027_113755 ; 2014-10-27 11:38:11 ;
+399 ; Cooking ; 20141027_113930 ; 2014-10-27 11:39:43 ;
+400 ; Cooking ; 20141027_113930 ; 2014-10-27 11:39:47 ;
+403 ; Cooking ; 20141027_120815 ; 2014-10-27 12:08:30 ;
+404 ; Cooking ; 20141027_120815 ; 2014-10-27 12:08:35 ;
+429 ; Cooking ; 20141027_181415 ; 2014-10-27 18:14:31 ;
+430 ; Cooking ; 20141027_181415 ; 2014-10-27 18:14:35 ;
+431 ; Cooking ; 20141027_183050 ; 2014-10-27 18:31:03 ;
+432 ; Cooking ; 20141027_183050 ; 2014-10-27 18:31:07 ;
+503 ; Cooking ; 20141028_184346 ; 2014-10-28 18:44:00 ;
+504 ; Cooking ; 20141028_184346 ; 2014-10-28 18:44:04 ;
+505 ; Cooking ; 20141028_184516 ; 2014-10-28 18:45:30 ;
+506 ; Cooking ; 20141028_184516 ; 2014-10-28 18:45:34 ;
+603 ; Cooking ; 20141030_124025 ; 2014-10-30 12:40:38 ;
+604 ; Cooking ; 20141030_124025 ; 2014-10-30 12:40:42 ;
+641 ; Cooking ; 20141030_220239 ; 2014-10-30 22:02:52 ;
+642 ; Cooking ; 20141030_220239 ; 2014-10-30 22:02:56 ;
+643 ; Cooking ; 20141030_220332 ; 2014-10-30 22:03:46 ;
+644 ; Cooking ; 20141030_220332 ; 2014-10-30 22:03:50 ;
+------------------------------------------------------------
+nexussensors18.db
+43 ; Cooking ; 20141031_162027 ; 2014-10-31 16:34:33 ;
+44 ; Cooking ; 20141031_162027 ; 2014-10-31 16:34:37 ;
+77 ; Cooking ; 20141031_223856 ; 2014-10-31 22:41:09 ;
+78 ; Cooking ; 20141031_223856 ; 2014-10-31 22:42:10 ;
+79 ; Cooking ; 20141031_224329 ; 2014-10-31 22:43:42 ;
+80 ; Cooking ; 20141031_224329 ; 2014-10-31 22:43:46 ;
+81 ; Cooking ; 20141031_225022 ; 2014-10-31 22:50:33 ;
+82 ; Cooking ; 20141031_225022 ; 2014-10-31 22:50:37 ;
+117 ; Cooking ; 20141101_195951 ; 2014-11-01 20:00:04 ;
+118 ; Cooking ; 20141101_195951 ; 2014-11-01 20:00:08 ;
+165 ; Cooking ; 20141102_220452 ; 2014-11-02 22:05:14 ;
+166 ; Cooking ; 20141102_220452 ; 2014-11-02 22:05:18 ;
+167 ; Cooking ; 20141102_220532 ; 2014-11-02 22:05:58 ;
+168 ; Cooking ; 20141102_220532 ; 2014-11-02 22:06:02 ;
+227 ; Cooking ; 20141103_114235 ; 2014-11-03 11:42:45 ;
+228 ; Cooking ; 20141103_114235 ; 2014-11-03 11:42:49 ;
+229 ; Cooking ; 20141103_114302 ; 2014-11-03 11:43:14 ;
+230 ; Cooking ; 20141103_114302 ; 2014-11-03 11:43:18 ;
+231 ; Cooking ; 20141103_115229 ; 2014-11-03 11:52:42 ;
+232 ; Cooking ; 20141103_115229 ; 2014-11-03 11:52:46 ;
+277 ; Cooking ; 20141103_235700 ; 2014-11-03 23:57:12 ;
+278 ; Cooking ; 20141103_235700 ; 2014-11-03 23:57:16 ;
+279 ; Cooking ; 20141104_000341 ; 2014-11-04 00:03:54 ;
+280 ; Cooking ; 20141104_000341 ; 2014-11-04 00:03:58 ;
+319 ; Cooking ; 20141104_183315 ; 2014-11-04 18:35:29 ;
+320 ; Cooking ; 20141104_183315 ; 2014-11-04 18:36:30 ;
+321 ; Cooking ; 20141104_183315 ; 2014-11-04 18:37:30 ;
+322 ; Cooking ; 20141104_183315 ; 2014-11-04 18:38:30 ;
+323 ; Cooking ; 20141104_183902 ; 2014-11-04 18:39:14 ;
+324 ; Cooking ; 20141104_183902 ; 2014-11-04 18:39:18 ;
+331 ; Cooking ;  ; 2014-11-04 19:17:28 ;
+406 ; Cooking ; 20141105_114337 ; 2014-11-05 11:43:49 ;
+407 ; Cooking ; 20141105_114337 ; 2014-11-05 11:43:53 ;
+418 ; Cooking ; 20141105_120026 ; 2014-11-05 12:00:47 ;
+419 ; Cooking ; 20141105_120026 ; 2014-11-05 12:00:51 ;
+436 ; Cooking ; 20141105_181652 ; 2014-11-05 18:17:06 ;
+437 ; Cooking ; 20141105_181652 ; 2014-11-05 18:17:10 ;
+513 ; Cooking ; 20141106_114558 ; 2014-11-06 11:46:09 ;
+514 ; Cooking ; 20141106_114558 ; 2014-11-06 11:46:13 ;
+519 ; Cooking ; 20141106_114741 ; 2014-11-06 11:47:49 ;
+520 ; Cooking ; 20141106_114741 ; 2014-11-06 11:47:53 ;
+521 ; Cooking ; 20141106_114938 ; 2014-11-06 11:49:46 ;
+522 ; Cooking ; 20141106_114938 ; 2014-11-06 11:49:50 ;
+793 ; Cooking ; 20141107_120655 ; 2014-11-07 12:07:02 ;
+794 ; Cooking ; 20141107_120655 ; 2014-11-07 12:07:06 ;
+795 ; Cooking ; 20141107_120717 ; 2014-11-07 12:07:24 ;
+796 ; Cooking ; 20141107_120717 ; 2014-11-07 12:07:28 ;
+797 ; Cooking ; 20141107_120821 ; 2014-11-07 12:08:28 ;
+798 ; Cooking ; 20141107_120821 ; 2014-11-07 12:08:32 ;
+897 ; Cooking ; 20141108_101655 ; 2014-11-08 10:17:02 ;
+898 ; Cooking ; 20141108_101655 ; 2014-11-08 10:17:06 ;
+899 ; Cooking ;  ; 2014-11-08 10:18:22 ;
+900 ; Cooking ;  ; 2014-11-08 10:18:26 ;
+901 ; Cooking ; 20141108_101910 ; 2014-11-08 10:19:17 ;
+902 ; Cooking ; 20141108_101910 ; 2014-11-08 10:19:21 ;
+903 ; Cooking ; 20141108_101959 ; 2014-11-08 10:20:06 ;
+904 ; Cooking ; 20141108_101959 ; 2014-11-08 10:20:10 ;
+905 ; Cooking ; 20141108_102038 ; 2014-11-08 10:20:45 ;
+906 ; Cooking ; 20141108_102038 ; 2014-11-08 10:20:49 ;
+951 ; Cooking ;  ; 2014-11-09 14:31:55 ;
+952 ; Cooking ;  ; 2014-11-09 14:31:59 ;
+953 ; Cooking ; 20141109_143208 ; 2014-11-09 14:32:15 ;
+954 ; Cooking ; 20141109_143208 ; 2014-11-09 14:32:19 ;
+955 ; Cooking ; 20141109_143233 ; 2014-11-09 14:32:40 ;
+956 ; Cooking ; 20141109_143233 ; 2014-11-09 14:32:44 ;
+977 ; Cooking ; 20141109_205520 ; 2014-11-09 20:55:27 ;
+978 ; Cooking ; 20141109_205520 ; 2014-11-09 20:55:31 ;
+1067 ; Cooking ; 20141110_122050 ; 2014-11-10 12:20:57 ;
+1068 ; Cooking ; 20141110_122050 ; 2014-11-10 12:21:01 ;
+1069 ; Cooking ;  ; 2014-11-10 12:33:38 ;
+1070 ; Cooking ;  ; 2014-11-10 12:33:42 ;
+1110 ; Cooking ; 20141110_171812 ; 2014-11-10 17:18:19 ;
+1111 ; Cooking ; 20141110_171812 ; 2014-11-10 17:18:23 ;
+1112 ; Cooking ;  ; 2014-11-10 17:26:17 ;
+1113 ; Cooking ;  ; 2014-11-10 17:26:21 ;
+1174 ; Cooking ; 20141111_114455 ; 2014-11-11 11:45:02 ;
+1175 ; Cooking ; 20141111_114455 ; 2014-11-11 11:45:06 ;
+1176 ; Cooking ;  ; 2014-11-11 11:47:40 ;
+1177 ; Cooking ;  ; 2014-11-11 11:47:44 ;
+1178 ; Cooking ; 20141111_114831 ; 2014-11-11 11:48:38 ;
+1179 ; Cooking ; 20141111_114831 ; 2014-11-11 11:48:42 ;
+1180 ; Cooking ; 20141111_115027 ; 2014-11-11 11:50:34 ;
+1181 ; Cooking ; 20141111_115027 ; 2014-11-11 11:50:38 ;
+1308 ; Cooking ; 20141112_121438 ; 2014-11-12 12:14:45 ;
+1309 ; Cooking ; 20141112_121438 ; 2014-11-12 12:14:49 ;
+1310 ; Cooking ;  ; 2014-11-12 12:15:17 ;
+1311 ; Cooking ;  ; 2014-11-12 12:15:21 ;
+1312 ; Cooking ; 20141112_121542 ; 2014-11-12 12:15:49 ;
+1313 ; Cooking ; 20141112_121542 ; 2014-11-12 12:15:53 ;
+1314 ; Cooking ; 20141112_121605 ; 2014-11-12 12:16:12 ;
+1315 ; Cooking ; 20141112_121605 ; 2014-11-12 12:16:16 ;
+1316 ; Cooking ;  ; 2014-11-12 12:18:49 ;
+1317 ; Cooking ;  ; 2014-11-12 12:18:53 ;
+1318 ; Cooking ; 20141112_121935 ; 2014-11-12 12:19:42 ;
+1319 ; Cooking ; 20141112_121935 ; 2014-11-12 12:19:46 ;
+1342 ; Cooking ; 20141112_182417 ; 2014-11-12 18:24:24 ;
+1343 ; Cooking ; 20141112_182417 ; 2014-11-12 18:24:28 ;
+1344 ; Cooking ;  ; 2014-11-12 18:24:53 ;
+1345 ; Cooking ;  ; 2014-11-12 18:24:57 ;
+1346 ; Cooking ; 20141112_182509 ; 2014-11-12 18:25:16 ;
+1347 ; Cooking ; 20141112_182509 ; 2014-11-12 18:25:20 ;
+1372 ; Cooking ; 20141112_231352 ; 2014-11-12 23:13:59 ;
+1373 ; Cooking ; 20141112_231352 ; 2014-11-12 23:14:03 ;
+1374 ; Cooking ;  ; 2014-11-12 23:14:25 ;
+1375 ; Cooking ;  ; 2014-11-12 23:14:29 ;
+1376 ; Cooking ; 20141112_231436 ; 2014-11-12 23:14:43 ;
+1377 ; Cooking ; 20141112_231436 ; 2014-11-12 23:14:47 ;
+1444 ; Cooking ; 20141113_193905 ; 2014-11-13 19:39:12 ;
+1445 ; Cooking ; 20141113_193905 ; 2014-11-13 19:39:16 ;
+1452 ; Cooking ; 20141113_194642 ; 2014-11-13 19:46:49 ;
+1453 ; Cooking ; 20141113_194642 ; 2014-11-13 19:46:53 ;
+1454 ; Cooking ;  ; 2014-11-13 19:48:47 ;
+1455 ; Cooking ;  ; 2014-11-13 19:48:51 ;
+1456 ; Cooking ; 20141113_195104 ; 2014-11-13 19:51:11 ;
+1457 ; Cooking ; 20141113_195104 ; 2014-11-13 19:51:16 ;
+1458 ; Cooking ; 20141113_195216 ; 2014-11-13 19:52:23 ;
+1459 ; Cooking ; 20141113_195216 ; 2014-11-13 19:52:27 ;
+1460 ; Cooking ; 20141113_195309 ; 2014-11-13 19:53:16 ;
+1461 ; Cooking ; 20141113_195309 ; 2014-11-13 19:53:20 ;
+1480 ; Cooking ; 20141114_003224 ; 2014-11-14 00:32:31 ;
+1481 ; Cooking ; 20141114_003224 ; 2014-11-14 00:32:35 ;
+1482 ; Cooking ;  ; 2014-11-14 00:32:53 ;
+1483 ; Cooking ;  ; 2014-11-14 00:32:57 ;
+1484 ; Cooking ; 20141114_003312 ; 2014-11-14 00:33:19 ;
+1485 ; Cooking ; 20141114_003312 ; 2014-11-14 00:33:23 ;
+1540 ; Cooking ; 20141114_111931 ; 2014-11-14 11:19:38 ;
+1541 ; Cooking ; 20141114_111931 ; 2014-11-14 11:19:42 ;
+1542 ; Cooking ;  ; 2014-11-14 11:20:11 ;
+1543 ; Cooking ;  ; 2014-11-14 11:20:15 ;
+1544 ; Cooking ; 20141114_112143 ; 2014-11-14 11:21:50 ;
+1545 ; Cooking ; 20141114_112143 ; 2014-11-14 11:21:54 ;
+1592 ; Cooking ; 20141114_193506 ; 2014-11-14 19:35:13 ;
+1593 ; Cooking ; 20141114_193506 ; 2014-11-14 19:35:17 ;
+1624 ; Cooking ; 20141115_092947 ; 2014-11-15 09:29:54 ;
+1625 ; Cooking ; 20141115_092947 ; 2014-11-15 09:29:58 ;
+1626 ; Cooking ;  ; 2014-11-15 09:30:43 ;
+1627 ; Cooking ;  ; 2014-11-15 09:30:47 ;
+1628 ; Cooking ; 20141115_093056 ; 2014-11-15 09:31:03 ;
+1629 ; Cooking ; 20141115_093056 ; 2014-11-15 09:31:07 ;
+1630 ; Cooking ; 20141115_093153 ; 2014-11-15 09:32:00 ;
+1631 ; Cooking ; 20141115_093153 ; 2014-11-15 09:32:04 ;
+1654 ; Cooking ; 20141115_131916 ; 2014-11-15 13:19:23 ;
+1655 ; Cooking ; 20141115_131916 ; 2014-11-15 13:19:27 ;
+1656 ; Cooking ;  ; 2014-11-15 13:20:31 ;
+1657 ; Cooking ;  ; 2014-11-15 13:20:35 ;
+1658 ; Cooking ; 20141115_132119 ; 2014-11-15 13:21:26 ;
+1659 ; Cooking ; 20141115_132119 ; 2014-11-15 13:21:30 ;
+1660 ; Cooking ; 20141115_132222 ; 2014-11-15 13:22:29 ;
+1661 ; Cooking ; 20141115_132222 ; 2014-11-15 13:22:33 ;
+1664 ; Cooking ; 20141115_133845 ; 2014-11-15 13:38:52 ;
+1665 ; Cooking ; 20141115_133845 ; 2014-11-15 13:38:56 ;
+1666 ; Cooking ; 20141115_134138 ; 2014-11-15 13:41:45 ;
+1667 ; Cooking ; 20141115_134138 ; 2014-11-15 13:41:49 ;
+1668 ; Cooking ; 20141115_134426 ; 2014-11-15 13:44:33 ;
+1669 ; Cooking ; 20141115_134426 ; 2014-11-15 13:44:38 ;
+1670 ; Cooking ; 20141115_134555 ; 2014-11-15 13:46:02 ;
+1671 ; Cooking ; 20141115_134555 ; 2014-11-15 13:46:06 ;
+1672 ; Cooking ; 20141115_134833 ; 2014-11-15 13:48:40 ;
+1673 ; Cooking ; 20141115_134833 ; 2014-11-15 13:48:44 ;
+1676 ; Cooking ; 20141115_135032 ; 2014-11-15 13:50:39 ;
+1677 ; Cooking ; 20141115_135032 ; 2014-11-15 13:50:43 ;
+1678 ; Cooking ;  ; 2014-11-15 13:51:11 ;
+1679 ; Cooking ;  ; 2014-11-15 13:51:15 ;
+1712 ; Cooking ; 20141116_131528 ; 2014-11-16 13:15:35 ;
+1713 ; Cooking ; 20141116_131528 ; 2014-11-16 13:15:39 ;
+1714 ; Cooking ;  ; 2014-11-16 13:17:00 ;
+1715 ; Cooking ;  ; 2014-11-16 13:17:04 ;
+1716 ; Cooking ; 20141116_131719 ; 2014-11-16 13:17:26 ;
+1717 ; Cooking ; 20141116_131719 ; 2014-11-16 13:17:30 ;
+1718 ; Cooking ; 20141116_131801 ; 2014-11-16 13:18:08 ;
+1719 ; Cooking ; 20141116_131801 ; 2014-11-16 13:18:12 ;
+1720 ; Cooking ; 20141116_132200 ; 2014-11-16 13:22:07 ;
+1721 ; Cooking ; 20141116_132200 ; 2014-11-16 13:22:11 ;
+1820 ; Cooking ;  ; 2014-11-17 13:00:24 ;
+1821 ; Cooking ;  ; 2014-11-17 13:00:28 ;
+1822 ; Cooking ; 20141117_130118 ; 2014-11-17 13:01:25 ;
+1823 ; Cooking ; 20141117_130118 ; 2014-11-17 13:01:29 ;
+1824 ; Cooking ; 20141117_130421 ; 2014-11-17 13:04:29 ;
+1825 ; Cooking ; 20141117_130421 ; 2014-11-17 13:04:33 ;
+1826 ; Cooking ; 20141117_130658 ; 2014-11-17 13:07:05 ;
+1827 ; Cooking ; 20141117_130658 ; 2014-11-17 13:07:10 ;
+1892 ; Cooking ; 20141117_193525 ; 2014-11-17 19:35:32 ;
+1893 ; Cooking ; 20141117_193525 ; 2014-11-17 19:35:36 ;
+1894 ; Cooking ; 20141117_193555 ; 2014-11-17 19:36:02 ;
+1895 ; Cooking ; 20141117_193555 ; 2014-11-17 19:36:07 ;
+1896 ; Cooking ; 20141117_193705 ; 2014-11-17 19:37:12 ;
+1897 ; Cooking ; 20141117_193705 ; 2014-11-17 19:37:16 ;
+1898 ; Cooking ; 20141117_193816 ; 2014-11-17 19:38:23 ;
+1899 ; Cooking ; 20141117_193816 ; 2014-11-17 19:38:27 ;
+1946 ; Cooking ; 20141118_123439 ; 2014-11-18 12:34:46 ;
+1947 ; Cooking ; 20141118_123439 ; 2014-11-18 12:34:50 ;
+1948 ; Cooking ;  ; 2014-11-18 12:39:58 ;
+1949 ; Cooking ;  ; 2014-11-18 12:40:02 ;
+1988 ; Cooking ; 20141118_183216 ; 2014-11-18 18:32:23 ;
+1989 ; Cooking ; 20141118_183216 ; 2014-11-18 18:32:27 ;
+2036 ; Cooking ; 20141119_123302 ; 2014-11-19 12:33:09 ;
+2037 ; Cooking ; 20141119_123302 ; 2014-11-19 12:33:13 ;
+2038 ; Cooking ; 20141119_124613 ; 2014-11-19 12:46:20 ;
+2039 ; Cooking ; 20141119_124613 ; 2014-11-19 12:46:24 ;
+2042 ; Cooking ; 20141119_124804 ; 2014-11-19 12:48:11 ;
+2043 ; Cooking ; 20141119_124804 ; 2014-11-19 12:48:15 ;
+2114 ; Cooking ; 20141120_215902 ; 2014-11-20 21:59:09 ;
+2115 ; Cooking ; 20141120_215902 ; 2014-11-20 21:59:13 ;
+2116 ; Cooking ;  ; 2014-11-20 22:00:42 ;
+2117 ; Cooking ;  ; 2014-11-20 22:00:46 ;
+2118 ; Cooking ; 20141120_220053 ; 2014-11-20 22:01:00 ;
+2119 ; Cooking ; 20141120_220053 ; 2014-11-20 22:01:04 ;
+2150 ; Cooking ;  ; 2014-12-03 11:38:14 ;
+2151 ; Cooking ;  ; 2014-12-03 11:38:19 ;
+2160 ; Cooking ;  ; 2014-12-03 20:26:34 ;
+2161 ; Cooking ;  ; 2014-12-03 20:26:38 ;
+2162 ; Cooking ; 20141203_202648 ; 2014-12-03 20:26:55 ;
+2163 ; Cooking ; 20141203_202648 ; 2014-12-03 20:26:59 ;
+2164 ; Cooking ; 20141203_202727 ; 2014-12-03 20:27:34 ;
+2165 ; Cooking ; 20141203_202727 ; 2014-12-03 20:27:38 ;
+2166 ; Cooking ; 20141203_202805 ; 2014-12-03 20:28:12 ;
+2167 ; Cooking ; 20141203_202805 ; 2014-12-03 20:28:16 ;
+2168 ; Cooking ; 20141203_202910 ; 2014-12-03 20:29:17 ;
+2169 ; Cooking ; 20141203_202910 ; 2014-12-03 20:29:21 ;
+2170 ; Cooking ; 20141203_203026 ; 2014-12-03 20:30:33 ;
+2171 ; Cooking ; 20141203_203026 ; 2014-12-03 20:30:37 ;
+2172 ; Cooking ; 20141203_203238 ; 2014-12-03 20:32:45 ;
+2173 ; Cooking ; 20141203_203238 ; 2014-12-03 20:32:49 ;
+2174 ; Cooking ; 20141203_203307 ; 2014-12-03 20:33:14 ;
+2175 ; Cooking ; 20141203_203307 ; 2014-12-03 20:33:18 ;
+2216 ; Cooking ; 20141204_182934 ; 2014-12-04 18:29:41 ;
+2217 ; Cooking ; 20141204_182934 ; 2014-12-04 18:29:46 ;
+2218 ; Cooking ;  ; 2014-12-04 18:30:07 ;
+2219 ; Cooking ;  ; 2014-12-04 18:30:11 ;
+2220 ; Cooking ; 20141204_183033 ; 2014-12-04 18:30:40 ;
+2221 ; Cooking ; 20141204_183033 ; 2014-12-04 18:30:44 ;
+2222 ; Cooking ; 20141204_183302 ; 2014-12-04 18:33:09 ;
+2223 ; Cooking ; 20141204_183302 ; 2014-12-04 18:33:13 ;
+2242 ; Cooking ; 20141205_111239 ; 2014-12-05 11:12:46 ;
+2243 ; Cooking ; 20141205_111239 ; 2014-12-05 11:12:51 ;
+2274 ; Cooking ; 20141205_183659 ; 2014-12-05 18:37:06 ;
+2275 ; Cooking ; 20141205_183659 ; 2014-12-05 18:37:10 ;
+2276 ; Cooking ; 20141205_183727 ; 2014-12-05 18:37:34 ;
+2277 ; Cooking ; 20141205_183727 ; 2014-12-05 18:37:38 ;
+2278 ; Cooking ; 20141205_184012 ; 2014-12-05 18:40:19 ;
+2279 ; Cooking ; 20141205_184012 ; 2014-12-05 18:40:23 ;
+2280 ; Cooking ; 20141205_184121 ; 2014-12-05 18:41:28 ;
+2281 ; Cooking ; 20141205_184121 ; 2014-12-05 18:41:32 ;
+2282 ; Cooking ; 20141205_184210 ; 2014-12-05 18:42:17 ;
+2283 ; Cooking ; 20141205_184210 ; 2014-12-05 18:42:21 ;
+2284 ; Cooking ; 20141205_184315 ; 2014-12-05 18:43:22 ;
+2285 ; Cooking ; 20141205_184315 ; 2014-12-05 18:43:26 ;
+2286 ; Cooking ; 20141205_184414 ; 2014-12-05 18:44:21 ;
+2287 ; Cooking ; 20141205_184414 ; 2014-12-05 18:44:25 ;
+2288 ; Cooking ; 20141205_184507 ; 2014-12-05 18:45:14 ;
+2289 ; Cooking ; 20141205_184507 ; 2014-12-05 18:45:18 ;
+2290 ; Cooking ; 20141205_184653 ; 2014-12-05 18:47:00 ;
+2291 ; Cooking ; 20141205_184653 ; 2014-12-05 18:47:04 ;
+2292 ; Cooking ; 20141205_184942 ; 2014-12-05 18:49:49 ;
+2293 ; Cooking ; 20141205_184942 ; 2014-12-05 18:49:53 ;
+2322 ; Cooking ; 20141206_111038 ; 2014-12-06 11:10:45 ;
+2323 ; Cooking ; 20141206_111038 ; 2014-12-06 11:10:49 ;
+2344 ; Cooking ; 20141207_152820 ; 2014-12-07 15:28:27 ;
+2345 ; Cooking ; 20141207_152820 ; 2014-12-07 15:28:31 ;
+2346 ; Cooking ;  ; 2014-12-07 15:30:51 ;
+2347 ; Cooking ;  ; 2014-12-07 15:30:55 ;
+2348 ; Cooking ; 20141207_153756 ; 2014-12-07 15:38:03 ;
+2349 ; Cooking ; 20141207_153756 ; 2014-12-07 15:38:07 ;
+2362 ; Cooking ; 20141207_204059 ; 2014-12-07 20:41:06 ;
+2363 ; Cooking ; 20141207_204059 ; 2014-12-07 20:41:10 ;
+2364 ; Cooking ;  ; 2014-12-07 20:42:32 ;
+2365 ; Cooking ;  ; 2014-12-07 20:42:36 ;
+2438 ; Cooking ; 20141209_113137 ; 2014-12-09 11:31:44 ;
+2439 ; Cooking ; 20141209_113137 ; 2014-12-09 11:31:48 ;
+2440 ; Cooking ;  ; 2014-12-09 11:33:56 ;
+2441 ; Cooking ;  ; 2014-12-09 11:34:00 ;
+2442 ; Cooking ; 20141209_114219 ; 2014-12-09 11:42:26 ;
+2443 ; Cooking ; 20141209_114219 ; 2014-12-09 11:42:30 ;
+2538 ; Cooking ; 20141210_120154 ; 2014-12-10 12:02:01 ;
+2539 ; Cooking ; 20141210_120154 ; 2014-12-10 12:02:05 ;
+2540 ; Cooking ; 20141210_120409 ; 2014-12-10 12:04:16 ;
+2541 ; Cooking ; 20141210_120409 ; 2014-12-10 12:04:20 ;
+2550 ; Cooking ; 20141210_121143 ; 2014-12-10 12:11:50 ;
+2551 ; Cooking ; 20141210_121143 ; 2014-12-10 12:11:54 ;
+2610 ; Cooking ; 20141210_173836 ; 2014-12-10 17:38:43 ;
+2611 ; Cooking ; 20141210_173836 ; 2014-12-10 17:38:47 ;
+2614 ; Cooking ; 20141210_174119 ; 2014-12-10 17:41:26 ;
+2615 ; Cooking ; 20141210_174119 ; 2014-12-10 17:41:30 ;
+2616 ; Cooking ; 20141210_180225 ; 2014-12-10 18:02:32 ;
+2617 ; Cooking ; 20141210_180225 ; 2014-12-10 18:02:36 ;
+2618 ; Cooking ; 20141210_180452 ; 2014-12-10 18:04:59 ;
+2619 ; Cooking ; 20141210_180452 ; 2014-12-10 18:05:03 ;
+2620 ; Cooking ; 20141210_180632 ; 2014-12-10 18:06:39 ;
+2621 ; Cooking ; 20141210_180632 ; 2014-12-10 18:06:43 ;
+2650 ; Cooking ; 20141211_000852 ; 2014-12-11 00:08:59 ;
+2651 ; Cooking ; 20141211_000852 ; 2014-12-11 00:09:03 ;
+2682 ; Cooking ; 20141211_115126 ; 2014-12-11 11:51:33 ;
+2683 ; Cooking ; 20141211_115126 ; 2014-12-11 11:51:37 ;
+2684 ; Cooking ; 20141211_115342 ; 2014-12-11 11:53:49 ;
+2685 ; Cooking ; 20141211_115342 ; 2014-12-11 11:53:53 ;
+2686 ; Cooking ; 20141211_120230 ; 2014-12-11 12:02:38 ;
+2687 ; Cooking ; 20141211_120230 ; 2014-12-11 12:02:42 ;
+2720 ; Cooking ; 20141211_231658 ; 2014-12-11 23:17:05 ;
+2721 ; Cooking ; 20141211_231658 ; 2014-12-11 23:17:09 ;
+2740 ; Cooking ; 20141212_115352 ; 2014-12-12 11:53:59 ;
+2741 ; Cooking ; 20141212_115352 ; 2014-12-12 11:54:03 ;
+2756 ; Cooking ; 20141212_121638 ; 2014-12-12 12:16:45 ;
+2757 ; Cooking ; 20141212_121638 ; 2014-12-12 12:16:49 ;
+2772 ; Cooking ; 20141212_165243 ; 2014-12-12 16:52:51 ;
+2773 ; Cooking ; 20141212_165243 ; 2014-12-12 16:52:55 ;
+2774 ; Cooking ;  ; 2014-12-12 16:53:19 ;
+2775 ; Cooking ;  ; 2014-12-12 16:53:24 ;
+2776 ; Cooking ; 20141212_165343 ; 2014-12-12 16:53:50 ;
+2777 ; Cooking ; 20141212_165343 ; 2014-12-12 16:53:54 ;
+2784 ; Cooking ; 20141212_170118 ; 2014-12-12 17:01:26 ;
+2785 ; Cooking ; 20141212_170118 ; 2014-12-12 17:01:30 ;
+2786 ; Cooking ; 20141212_170332 ; 2014-12-12 17:03:39 ;
+2787 ; Cooking ; 20141212_170332 ; 2014-12-12 17:03:43 ;
+2790 ; Cooking ; 20141212_170836 ; 2014-12-12 17:08:43 ;
+2791 ; Cooking ; 20141212_170836 ; 2014-12-12 17:08:47 ;
+2792 ; Cooking ; 20141212_170936 ; 2014-12-12 17:09:43 ;
+2793 ; Cooking ; 20141212_170936 ; 2014-12-12 17:09:47 ;
+2828 ; Cooking ; 20141212_234246 ; 2014-12-12 23:42:53 ;
+2829 ; Cooking ; 20141212_234246 ; 2014-12-12 23:42:57 ;
+2830 ; Cooking ; 20141212_234330 ; 2014-12-12 23:43:37 ;
+2831 ; Cooking ; 20141212_234330 ; 2014-12-12 23:43:42 ;
+2832 ; Cooking ; 20141212_234538 ; 2014-12-12 23:45:45 ;
+2833 ; Cooking ; 20141212_234538 ; 2014-12-12 23:45:49 ;
+2872 ; Cooking ; 20141213_151955 ; 2014-12-13 15:20:02 ;
+2873 ; Cooking ; 20141213_151955 ; 2014-12-13 15:20:06 ;
+2874 ; Cooking ;  ; 2014-12-13 15:25:35 ;
+2875 ; Cooking ;  ; 2014-12-13 15:25:39 ;
+2876 ; Cooking ; 20141213_152559 ; 2014-12-13 15:26:07 ;
+2877 ; Cooking ; 20141213_152559 ; 2014-12-13 15:26:11 ;
+2878 ; Cooking ; 20141213_153109 ; 2014-12-13 15:31:16 ;
+2879 ; Cooking ; 20141213_153109 ; 2014-12-13 15:31:20 ;
+2907 ; Cooking ; 20141213_200101 ; 2014-12-13 20:01:08 ;
+2908 ; Cooking ; 20141213_200101 ; 2014-12-13 20:01:12 ;
+2909 ; Cooking ;  ; 2014-12-13 20:02:25 ;
+2910 ; Cooking ;  ; 2014-12-13 20:02:29 ;
+2911 ; Cooking ; 20141213_200241 ; 2014-12-13 20:02:48 ;
+2912 ; Cooking ; 20141213_200241 ; 2014-12-13 20:02:52 ;
+2939 ; Cooking ; 20141213_213342 ; 2014-12-13 21:33:49 ;
+2940 ; Cooking ; 20141213_213342 ; 2014-12-13 21:33:53 ;
+2986 ; Cooking ; 20141214_123618 ; 2014-12-14 12:36:25 ;
+2987 ; Cooking ; 20141214_123618 ; 2014-12-14 12:36:29 ;
+2988 ; Cooking ; 20141214_124249 ; 2014-12-14 12:42:56 ;
+2989 ; Cooking ; 20141214_124249 ; 2014-12-14 12:43:00 ;
+2990 ; Cooking ; 20141214_124409 ; 2014-12-14 12:44:16 ;
+2991 ; Cooking ; 20141214_124409 ; 2014-12-14 12:44:20 ;
+------------------------------------------------------------
+nexussensors7.db
+117 ; Cooking ; 20141005_235716 ; 2014-10-05 23:57:37 ;
+118 ; Cooking ; 20141005_235716 ; 2014-10-05 23:57:39 ;
+254 ; Cooking ; 20141006_110035 ; 2014-10-06 11:00:36 ;
+------------------------------------------------------------
+adlrecord5.db
+12 ; Bus ; 20150509_081353 ; 2015-05-09 08:14:22 ;
+13 ; Bus ; 20150509_081353 ; 2015-05-09 08:14:27 ;
+14 ; Bus ; 20150509_081353 ; 2015-05-09 08:14:32 ;
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+5 ; Bus ; 20141007_070800 ; 2014-10-07 07:08:15 ;
+6 ; Bus ; 20141007_070800 ; 2014-10-07 07:08:19 ;
+7 ; Bus ; 20141007_071256 ; 2014-10-07 07:13:17 ;
+8 ; Bus ; 20141007_071256 ; 2014-10-07 07:13:21 ;
+9 ; Bus ; 20141007_071344 ; 2014-10-07 07:13:56 ;
+10 ; Bus ; 20141007_071344 ; 2014-10-07 07:14:00 ;
+11 ; Bus ; 20141007_071409 ; 2014-10-07 07:14:22 ;
+12 ; Bus ; 20141007_071409 ; 2014-10-07 07:14:26 ;
+53 ; Bus ; 20141007_162902 ; 2014-10-07 16:29:06 ;
+54 ; Bus ; 20141007_162902 ; 2014-10-07 16:29:09 ;
+101 ; Bus ; 20141008_071019 ; 2014-10-08 07:10:36 ;
+102 ; Bus ; 20141008_071019 ; 2014-10-08 07:10:40 ;
+115 ; Bus ;  ; 2014-10-08 11:25:53 ;
+116 ; Bus ;  ; 2014-10-08 11:25:57 ;
+153 ; Bus ;  ; 2014-10-09 07:09:15 ;
+154 ; Bus ;  ; 2014-10-09 07:09:20 ;
+155 ; Bus ; 20141009_070927 ; 2014-10-09 07:09:43 ;
+156 ; Bus ; 20141009_070927 ; 2014-10-09 07:09:47 ;
+161 ; Bus ;  ; 2014-10-09 09:35:00 ;
+162 ; Bus ;  ; 2014-10-09 09:35:04 ;
+163 ; Bus ;  ; 2014-10-09 09:36:11 ;
+164 ; Bus ;  ; 2014-10-09 09:36:15 ;
+165 ; Bus ; 20141009_120952 ; 2014-10-09 12:10:13 ;
+166 ; Bus ; 20141009_120952 ; 2014-10-09 12:10:17 ;
+171 ; Bus ;  ; 2014-10-09 13:21:45 ;
+172 ; Bus ;  ; 2014-10-09 13:21:49 ;
+173 ; Bus ; 20141009_133739 ; 2014-10-09 13:37:53 ;
+174 ; Bus ; 20141009_133739 ; 2014-10-09 13:37:57 ;
+175 ; Bus ; 20141009_142139 ; 2014-10-09 14:21:59 ;
+176 ; Bus ; 20141009_142139 ; 2014-10-09 14:22:03 ;
+192 ; Bus ;  ; 2014-10-09 20:17:32 ;
+193 ; Bus ;  ; 2014-10-09 20:17:36 ;
+194 ; Bus ;  ; 2014-10-09 20:18:59 ;
+195 ; Bus ;  ; 2014-10-09 20:19:03 ;
+196 ; Bus ;  ; 2014-10-09 20:24:37 ;
+197 ; Bus ;  ; 2014-10-09 20:24:41 ;
+198 ; Bus ; 20141009_202528 ; 2014-10-09 20:25:36 ;
+199 ; Bus ; 20141009_202528 ; 2014-10-09 20:25:40 ;
+210 ; Bus ;  ; 2014-10-10 08:56:22 ;
+211 ; Bus ;  ; 2014-10-10 08:56:26 ;
+214 ; Bus ;  ; 2014-10-10 10:58:30 ;
+215 ; Bus ;  ; 2014-10-10 10:58:34 ;
+220 ; Bus ; 20141010_152358 ; 2014-10-10 15:24:15 ;
+221 ; Bus ; 20141010_152358 ; 2014-10-10 15:24:19 ;
+------------------------------------------------------------
+nexussensors13.db
+15 ; Bus ;  ; 2014-10-13 07:07:30 ;
+18 ; Bus ;  ; 2014-10-13 09:24:48 ;
+19 ; Bus ;  ; 2014-10-13 09:24:52 ;
+24 ; Bus ;  ; 2014-10-13 14:09:22 ;
+25 ; Bus ;  ; 2014-10-13 14:09:26 ;
+26 ; Bus ;  ; 2014-10-13 14:13:23 ;
+27 ; Bus ;  ; 2014-10-13 14:13:27 ;
+75 ; Bus ; 20141014_070827 ; 2014-10-14 07:08:40 ;
+76 ; Bus ; 20141014_070827 ; 2014-10-14 07:08:44 ;
+83 ; Bus ;  ; 2014-10-14 09:29:01 ;
+84 ; Bus ;  ; 2014-10-14 09:29:05 ;
+99 ; Bus ;  ; 2014-10-14 14:13:29 ;
+100 ; Bus ;  ; 2014-10-14 14:13:33 ;
+101 ; Bus ; 20141014_141917 ; 2014-10-14 14:19:28 ;
+102 ; Bus ; 20141014_141917 ; 2014-10-14 14:19:32 ;
+111 ; Bus ; 20141014_174157 ; 2014-10-14 17:42:11 ;
+112 ; Bus ; 20141014_174157 ; 2014-10-14 17:42:15 ;
+113 ; Bus ;  ; 2014-10-14 18:34:20 ;
+114 ; Bus ;  ; 2014-10-14 18:34:24 ;
+125 ; Bus ; 20141015_071003 ; 2014-10-15 07:10:21 ;
+126 ; Bus ; 20141015_071003 ; 2014-10-15 07:10:25 ;
+127 ; Bus ; 20141015_071034 ; 2014-10-15 07:10:46 ;
+128 ; Bus ; 20141015_071034 ; 2014-10-15 07:10:50 ;
+151 ; Bus ;  ; 2014-10-15 12:57:02 ;
+152 ; Bus ;  ; 2014-10-15 12:57:06 ;
+169 ; Bus ;  ; 2014-10-15 19:06:25 ;
+170 ; Bus ;  ; 2014-10-15 19:06:29 ;
+181 ; Bus ; 20141016_070752 ; 2014-10-16 07:08:06 ;
+182 ; Bus ; 20141016_070752 ; 2014-10-16 07:08:10 ;
+185 ; Bus ;  ; 2014-10-16 09:27:06 ;
+186 ; Bus ;  ; 2014-10-16 09:27:11 ;
+------------------------------------------------------------
+nexussensors16.db
+17 ; Bus ; 20141017_130454 ; 2014-10-17 13:05:04 ;
+18 ; Bus ; 20141017_130454 ; 2014-10-17 13:05:09 ;
+19 ; Bus ; 20141017_131012 ; 2014-10-17 13:10:25 ;
+20 ; Bus ; 20141017_131012 ; 2014-10-17 13:10:29 ;
+25 ; Bus ; 20141017_182715 ; 2014-10-17 18:27:39 ;
+26 ; Bus ; 20141017_182715 ; 2014-10-17 18:27:43 ;
+113 ; Bus ; 20141020_070951 ; 2014-10-20 07:10:22 ;
+114 ; Bus ; 20141020_070951 ; 2014-10-20 07:10:26 ;
+------------------------------------------------------------
+nexussensors17.db
+3 ; Bus ; 20141020_112403 ; 2014-10-20 11:24:16 ;
+4 ; Bus ; 20141020_112403 ; 2014-10-20 11:24:20 ;
+5 ; Bus ; 20141020_112524 ; 2014-10-20 11:25:43 ;
+6 ; Bus ; 20141020_112524 ; 2014-10-20 11:25:47 ;
+23 ; Bus ; 20141020_131323 ; 2014-10-20 13:13:39 ;
+24 ; Bus ; 20141020_131323 ; 2014-10-20 13:13:43 ;
+25 ; Bus ; 20141020_131354 ; 2014-10-20 13:14:06 ;
+26 ; Bus ; 20141020_131354 ; 2014-10-20 13:14:10 ;
+55 ; Bus ; 20141021_093037 ; 2014-10-21 09:30:51 ;
+56 ; Bus ; 20141021_093037 ; 2014-10-21 09:30:55 ;
+57 ; Bus ; 20141021_093109 ; 2014-10-21 09:31:20 ;
+58 ; Bus ; 20141021_093109 ; 2014-10-21 09:31:24 ;
+67 ; Bus ; 20141021_131855 ; 2014-10-21 13:19:09 ;
+68 ; Bus ; 20141021_131855 ; 2014-10-21 13:19:13 ;
+111 ; Bus ; 20141022_070709 ; 2014-10-22 07:07:20 ;
+112 ; Bus ; 20141022_070709 ; 2014-10-22 07:07:24 ;
+113 ; Bus ; 20141022_071839 ; 2014-10-22 07:18:51 ;
+114 ; Bus ; 20141022_071839 ; 2014-10-22 07:18:55 ;
+115 ; Bus ; 20141022_092921 ; 2014-10-22 09:29:32 ;
+116 ; Bus ; 20141022_092921 ; 2014-10-22 09:29:37 ;
+117 ; Bus ; 20141022_093223 ; 2014-10-22 09:32:35 ;
+118 ; Bus ; 20141022_093223 ; 2014-10-22 09:32:39 ;
+173 ; Bus ; 20141023_074340 ; 2014-10-23 07:43:53 ;
+174 ; Bus ; 20141023_074340 ; 2014-10-23 07:43:57 ;
+175 ; Bus ; 20141023_074403 ; 2014-10-23 07:44:15 ;
+176 ; Bus ; 20141023_074403 ; 2014-10-23 07:44:19 ;
+177 ; Bus ; 20141023_074435 ; 2014-10-23 07:44:46 ;
+178 ; Bus ; 20141023_074435 ; 2014-10-23 07:44:50 ;
+185 ; Bus ; 20141023_122957 ; 2014-10-23 12:30:09 ;
+186 ; Bus ; 20141023_122957 ; 2014-10-23 12:30:13 ;
+187 ; Bus ; 20141023_123028 ; 2014-10-23 12:30:38 ;
+188 ; Bus ; 20141023_123028 ; 2014-10-23 12:30:42 ;
+189 ; Bus ; 20141023_183353 ; 2014-10-23 18:34:05 ;
+190 ; Bus ; 20141023_183353 ; 2014-10-23 18:34:09 ;
+191 ; Bus ; 20141023_183508 ; 2014-10-23 18:35:20 ;
+192 ; Bus ; 20141023_183508 ; 2014-10-23 18:35:24 ;
+201 ; Bus ; 20141024_070856 ; 2014-10-24 07:09:09 ;
+202 ; Bus ; 20141024_070856 ; 2014-10-24 07:09:13 ;
+207 ; Bus ; 20141024_093521 ; 2014-10-24 09:35:33 ;
+208 ; Bus ; 20141024_093521 ; 2014-10-24 09:35:37 ;
+209 ; Bus ; 20141024_093545 ; 2014-10-24 09:35:58 ;
+210 ; Bus ; 20141024_093545 ; 2014-10-24 09:36:02 ;
+237 ; Bus ; 20141024_171202 ; 2014-10-24 17:12:14 ;
+238 ; Bus ; 20141024_171202 ; 2014-10-24 17:12:18 ;
+239 ; Bus ; 20141024_171706 ; 2014-10-24 17:17:18 ;
+240 ; Bus ; 20141024_171706 ; 2014-10-24 17:17:22 ;
+245 ; Bus ; 20141024_183758 ; 2014-10-24 18:38:11 ;
+246 ; Bus ; 20141024_183758 ; 2014-10-24 18:38:15 ;
+247 ; Bus ; 20141024_183858 ; 2014-10-24 18:39:09 ;
+248 ; Bus ; 20141024_183858 ; 2014-10-24 18:39:13 ;
+249 ; Bus ; 20141024_183920 ; 2014-10-24 18:39:32 ;
+250 ; Bus ; 20141024_183920 ; 2014-10-24 18:39:36 ;
+251 ; Bus ; 20141024_183942 ; 2014-10-24 18:39:53 ;
+252 ; Bus ; 20141024_183942 ; 2014-10-24 18:39:57 ;
+375 ; Bus ; 20141027_071240 ; 2014-10-27 07:12:52 ;
+376 ; Bus ; 20141027_071240 ; 2014-10-27 07:12:56 ;
+377 ; Bus ; 20141027_071310 ; 2014-10-27 07:13:23 ;
+378 ; Bus ; 20141027_071310 ; 2014-10-27 07:13:27 ;
+385 ; Bus ; 20141027_105703 ; 2014-10-27 10:57:15 ;
+386 ; Bus ; 20141027_105703 ; 2014-10-27 10:57:19 ;
+387 ; Bus ; 20141027_105729 ; 2014-10-27 10:58:13 ;
+388 ; Bus ; 20141027_105729 ; 2014-10-27 10:58:18 ;
+389 ; Bus ; 20141027_105829 ; 2014-10-27 10:58:40 ;
+390 ; Bus ; 20141027_105829 ; 2014-10-27 10:58:44 ;
+391 ; Bus ; 20141027_105912 ; 2014-10-27 10:59:24 ;
+392 ; Bus ; 20141027_105912 ; 2014-10-27 10:59:28 ;
+393 ; Bus ; 20141027_110628 ; 2014-10-27 11:06:39 ;
+394 ; Bus ; 20141027_110628 ; 2014-10-27 11:06:43 ;
+411 ; Bus ; 20141027_122632 ; 2014-10-27 12:26:43 ;
+412 ; Bus ; 20141027_122632 ; 2014-10-27 12:26:47 ;
+413 ; Bus ; 20141027_122822 ; 2014-10-27 12:28:32 ;
+414 ; Bus ; 20141027_122822 ; 2014-10-27 12:28:36 ;
+427 ; Bus ; 20141027_173726 ; 2014-10-27 17:37:37 ;
+428 ; Bus ; 20141027_173726 ; 2014-10-27 17:37:41 ;
+449 ; Bus ; 20141028_071015 ; 2014-10-28 07:10:26 ;
+450 ; Bus ; 20141028_071015 ; 2014-10-28 07:10:30 ;
+457 ; Bus ; 20141028_092822 ; 2014-10-28 09:28:38 ;
+458 ; Bus ; 20141028_092822 ; 2014-10-28 09:28:42 ;
+459 ; Bus ; 20141028_092850 ; 2014-10-28 09:29:01 ;
+460 ; Bus ; 20141028_092850 ; 2014-10-28 09:29:05 ;
+461 ; Bus ; 20141028_092919 ; 2014-10-28 09:29:30 ;
+462 ; Bus ; 20141028_092919 ; 2014-10-28 09:29:35 ;
+463 ; Bus ; 20141028_093605 ; 2014-10-28 09:36:17 ;
+464 ; Bus ; 20141028_093605 ; 2014-10-28 09:36:21 ;
+475 ; Bus ; 20141028_134130 ; 2014-10-28 13:41:42 ;
+476 ; Bus ; 20141028_134130 ; 2014-10-28 13:41:46 ;
+477 ; Bus ; 20141028_134157 ; 2014-10-28 13:42:10 ;
+478 ; Bus ; 20141028_134157 ; 2014-10-28 13:42:14 ;
+495 ; Bus ; 20141028_181001 ; 2014-10-28 18:10:17 ;
+496 ; Bus ; 20141028_181001 ; 2014-10-28 18:10:21 ;
+497 ; Bus ; 20141028_181027 ; 2014-10-28 18:10:38 ;
+498 ; Bus ; 20141028_181027 ; 2014-10-28 18:10:42 ;
+499 ; Bus ; 20141028_181054 ; 2014-10-28 18:11:13 ;
+500 ; Bus ; 20141028_181054 ; 2014-10-28 18:11:17 ;
+501 ; Bus ; 20141028_181137 ; 2014-10-28 18:11:48 ;
+502 ; Bus ; 20141028_181137 ; 2014-10-28 18:11:52 ;
+541 ; Bus ; 20141029_070958 ; 2014-10-29 07:10:10 ;
+542 ; Bus ; 20141029_070958 ; 2014-10-29 07:10:14 ;
+555 ; Bus ; 20141029_102712 ; 2014-10-29 10:27:25 ;
+556 ; Bus ; 20141029_102712 ; 2014-10-29 10:27:29 ;
+557 ; Bus ; 20141029_102741 ; 2014-10-29 10:27:52 ;
+558 ; Bus ; 20141029_102741 ; 2014-10-29 10:27:56 ;
+593 ; Bus ; 20141030_071032 ; 2014-10-30 07:10:46 ;
+594 ; Bus ; 20141030_071032 ; 2014-10-30 07:10:50 ;
+597 ; Bus ; 20141030_092938 ; 2014-10-30 09:29:53 ;
+598 ; Bus ; 20141030_092938 ; 2014-10-30 09:29:57 ;
+613 ; Bus ; 20141030_132904 ; 2014-10-30 13:29:15 ;
+614 ; Bus ; 20141030_132904 ; 2014-10-30 13:29:19 ;
+615 ; Bus ; 20141030_133447 ; 2014-10-30 13:35:00 ;
+616 ; Bus ; 20141030_133447 ; 2014-10-30 13:35:04 ;
+617 ; Bus ; 20141030_133514 ; 2014-10-30 13:35:26 ;
+618 ; Bus ; 20141030_133514 ; 2014-10-30 13:35:30 ;
+635 ; Bus ; 20141030_213628 ; 2014-10-30 21:36:40 ;
+636 ; Bus ; 20141030_213628 ; 2014-10-30 21:36:44 ;
+637 ; Bus ; 20141030_213652 ; 2014-10-30 21:37:09 ;
+638 ; Bus ; 20141030_213652 ; 2014-10-30 21:37:13 ;
+659 ; Bus ; 20141031_070932 ; 2014-10-31 07:09:44 ;
+660 ; Bus ; 20141031_070932 ; 2014-10-31 07:09:48 ;
+661 ; Bus ; 20141031_071009 ; 2014-10-31 07:10:22 ;
+662 ; Bus ; 20141031_071009 ; 2014-10-31 07:10:26 ;
+------------------------------------------------------------
+nexussensors18.db
+21 ; Bus ; 20141031_102415 ; 2014-10-31 10:24:26 ;
+22 ; Bus ; 20141031_102415 ; 2014-10-31 10:24:30 ;
+23 ; Bus ; 20141031_102501 ; 2014-10-31 10:25:13 ;
+24 ; Bus ; 20141031_102501 ; 2014-10-31 10:25:17 ;
+25 ; Bus ; 20141031_102554 ; 2014-10-31 10:26:08 ;
+26 ; Bus ; 20141031_102554 ; 2014-10-31 10:26:12 ;
+37 ; Bus ; 20141031_155312 ; 2014-10-31 15:53:23 ;
+38 ; Bus ; 20141031_155312 ; 2014-10-31 15:53:27 ;
+39 ; Bus ; 20141031_155335 ; 2014-10-31 15:53:47 ;
+40 ; Bus ; 20141031_155335 ; 2014-10-31 15:53:51 ;
+41 ; Bus ; 20141031_155408 ; 2014-10-31 15:55:32 ;
+42 ; Bus ; 20141031_155408 ; 2014-10-31 15:55:36 ;
+189 ; Bus ; 20141103_070749 ; 2014-11-03 07:08:01 ;
+190 ; Bus ; 20141103_070749 ; 2014-11-03 07:08:05 ;
+191 ; Bus ; 20141103_070827 ; 2014-11-03 07:08:38 ;
+192 ; Bus ; 20141103_070827 ; 2014-11-03 07:08:42 ;
+193 ; Bus ; 20141103_071706 ; 2014-11-03 07:17:18 ;
+194 ; Bus ; 20141103_071706 ; 2014-11-03 07:17:22 ;
+211 ; Bus ; 20141103_110135 ; 2014-11-03 11:01:49 ;
+212 ; Bus ; 20141103_110135 ; 2014-11-03 11:01:53 ;
+213 ; Bus ; 20141103_110200 ; 2014-11-03 11:02:11 ;
+214 ; Bus ; 20141103_110200 ; 2014-11-03 11:02:15 ;
+215 ; Bus ; 20141103_111115 ; 2014-11-03 11:11:27 ;
+216 ; Bus ; 20141103_111115 ; 2014-11-03 11:11:32 ;
+223 ; Bus ; 20141103_112210 ; 2014-11-03 11:22:20 ;
+224 ; Bus ; 20141103_112210 ; 2014-11-03 11:22:25 ;
+225 ; Bus ; 20141103_112231 ; 2014-11-03 11:22:42 ;
+226 ; Bus ; 20141103_112231 ; 2014-11-03 11:22:46 ;
+247 ; Bus ; 20141103_125645 ; 2014-11-03 12:57:03 ;
+248 ; Bus ; 20141103_125645 ; 2014-11-03 12:57:07 ;
+249 ; Bus ; 20141103_130334 ; 2014-11-03 13:03:45 ;
+250 ; Bus ; 20141103_130334 ; 2014-11-03 13:03:49 ;
+263 ; Bus ; 20141103_171706 ; 2014-11-03 17:17:17 ;
+264 ; Bus ; 20141103_171706 ; 2014-11-03 17:17:21 ;
+285 ; Bus ; 20141104_070717 ; 2014-11-04 07:07:42 ;
+286 ; Bus ; 20141104_070717 ; 2014-11-04 07:07:46 ;
+287 ; Bus ; 20141104_070754 ; 2014-11-04 07:08:13 ;
+288 ; Bus ; 20141104_070754 ; 2014-11-04 07:08:17 ;
+289 ; Bus ; 20141104_071854 ; 2014-11-04 07:19:06 ;
+290 ; Bus ; 20141104_071854 ; 2014-11-04 07:19:10 ;
+297 ; Bus ; 20141104_103506 ; 2014-11-04 10:35:16 ;
+298 ; Bus ; 20141104_103506 ; 2014-11-04 10:35:20 ;
+299 ; Bus ; 20141104_103530 ; 2014-11-04 10:35:41 ;
+300 ; Bus ; 20141104_103530 ; 2014-11-04 10:35:46 ;
+317 ; Bus ; 20141104_173722 ; 2014-11-04 17:37:34 ;
+318 ; Bus ; 20141104_173722 ; 2014-11-04 17:37:39 ;
+370 ; Bus ; 20141105_070802 ; 2014-11-05 07:08:15 ;
+371 ; Bus ; 20141105_070802 ; 2014-11-05 07:08:19 ;
+372 ; Bus ; 20141105_070829 ; 2014-11-05 07:08:40 ;
+373 ; Bus ; 20141105_070829 ; 2014-11-05 07:08:44 ;
+388 ; Bus ; 20141105_112544 ; 2014-11-05 11:25:56 ;
+389 ; Bus ; 20141105_112544 ; 2014-11-05 11:26:00 ;
+390 ; Bus ; 20141105_112607 ; 2014-11-05 11:26:18 ;
+391 ; Bus ; 20141105_112607 ; 2014-11-05 11:26:22 ;
+392 ; Bus ;  ; 2014-11-05 11:26:45 ;
+393 ; Bus ;  ; 2014-11-05 11:26:49 ;
+394 ; Bus ; 20141105_112702 ; 2014-11-05 11:27:10 ;
+395 ; Bus ; 20141105_112702 ; 2014-11-05 11:27:14 ;
+396 ; Bus ; 20141105_113346 ; 2014-11-05 11:33:58 ;
+397 ; Bus ; 20141105_113346 ; 2014-11-05 11:34:02 ;
+398 ; Bus ; 20141105_113458 ; 2014-11-05 11:35:06 ;
+399 ; Bus ; 20141105_113458 ; 2014-11-05 11:35:10 ;
+400 ; Bus ; 20141105_113535 ; 2014-11-05 11:35:43 ;
+401 ; Bus ; 20141105_113535 ; 2014-11-05 11:35:47 ;
+404 ; Bus ; 20141105_113803 ; 2014-11-05 11:38:11 ;
+405 ; Bus ; 20141105_113803 ; 2014-11-05 11:38:15 ;
+470 ; Bus ; 20141106_070729 ; 2014-11-06 07:07:44 ;
+471 ; Bus ; 20141106_070729 ; 2014-11-06 07:07:48 ;
+472 ; Bus ; 20141106_070814 ; 2014-11-06 07:08:22 ;
+473 ; Bus ; 20141106_070814 ; 2014-11-06 07:08:26 ;
+474 ; Bus ; 20141106_070835 ; 2014-11-06 07:08:43 ;
+475 ; Bus ; 20141106_070835 ; 2014-11-06 07:08:47 ;
+487 ; Bus ; 20141106_092943 ; 2014-11-06 09:29:56 ;
+488 ; Bus ; 20141106_092943 ; 2014-11-06 09:30:00 ;
+489 ; Bus ; 20141106_093010 ; 2014-11-06 09:30:22 ;
+490 ; Bus ; 20141106_093010 ; 2014-11-06 09:30:26 ;
+529 ; Bus ; 20141106_134542 ; 2014-11-06 13:45:51 ;
+530 ; Bus ; 20141106_134542 ; 2014-11-06 13:45:55 ;
+693 ; Bus ; 20141107_070713 ; 2014-11-07 07:07:20 ;
+694 ; Bus ; 20141107_070713 ; 2014-11-07 07:07:24 ;
+695 ; Bus ; 20141107_070743 ; 2014-11-07 07:07:50 ;
+696 ; Bus ; 20141107_070743 ; 2014-11-07 07:07:54 ;
+697 ; Bus ; 20141107_070811 ; 2014-11-07 07:08:18 ;
+698 ; Bus ; 20141107_070811 ; 2014-11-07 07:08:22 ;
+699 ; Bus ; 20141107_070842 ; 2014-11-07 07:08:49 ;
+700 ; Bus ; 20141107_070842 ; 2014-11-07 07:08:53 ;
+749 ; Bus ; 20141107_100541 ; 2014-11-07 10:05:48 ;
+750 ; Bus ; 20141107_100541 ; 2014-11-07 10:05:52 ;
+751 ; Bus ; 20141107_100606 ; 2014-11-07 10:06:13 ;
+752 ; Bus ; 20141107_100606 ; 2014-11-07 10:06:17 ;
+753 ; Bus ; 20141107_100635 ; 2014-11-07 10:06:42 ;
+754 ; Bus ; 20141107_100635 ; 2014-11-07 10:06:46 ;
+755 ; Bus ; 20141107_100701 ; 2014-11-07 10:07:08 ;
+756 ; Bus ; 20141107_100701 ; 2014-11-07 10:07:12 ;
+757 ; Bus ; 20141107_102542 ; 2014-11-07 10:25:49 ;
+758 ; Bus ; 20141107_102542 ; 2014-11-07 10:25:53 ;
+759 ; Bus ;  ; 2014-11-07 10:26:29 ;
+760 ; Bus ;  ; 2014-11-07 10:26:33 ;
+761 ; Bus ; 20141107_102651 ; 2014-11-07 10:26:58 ;
+762 ; Bus ; 20141107_102651 ; 2014-11-07 10:27:02 ;
+763 ; Bus ; 20141107_102716 ; 2014-11-07 10:27:23 ;
+764 ; Bus ; 20141107_102716 ; 2014-11-07 10:27:27 ;
+765 ; Bus ; 20141107_102800 ; 2014-11-07 10:28:07 ;
+766 ; Bus ; 20141107_102800 ; 2014-11-07 10:28:11 ;
+767 ; Bus ; 20141107_102831 ; 2014-11-07 10:28:38 ;
+768 ; Bus ; 20141107_102831 ; 2014-11-07 10:28:42 ;
+769 ; Bus ; 20141107_102858 ; 2014-11-07 10:29:05 ;
+770 ; Bus ; 20141107_102858 ; 2014-11-07 10:29:09 ;
+771 ; Bus ; 20141107_102923 ; 2014-11-07 10:29:30 ;
+772 ; Bus ; 20141107_102923 ; 2014-11-07 10:29:34 ;
+773 ; Bus ; 20141107_102956 ; 2014-11-07 10:30:03 ;
+774 ; Bus ; 20141107_102956 ; 2014-11-07 10:30:07 ;
+835 ; Bus ; 20141107_131126 ; 2014-11-07 13:11:33 ;
+836 ; Bus ; 20141107_131126 ; 2014-11-07 13:11:37 ;
+837 ; Bus ; 20141107_131147 ; 2014-11-07 13:11:54 ;
+838 ; Bus ; 20141107_131147 ; 2014-11-07 13:11:58 ;
+839 ; Bus ; 20141107_131214 ; 2014-11-07 13:12:21 ;
+840 ; Bus ; 20141107_131214 ; 2014-11-07 13:12:25 ;
+881 ; Bus ; 20141107_165457 ; 2014-11-07 16:55:04 ;
+882 ; Bus ; 20141107_165457 ; 2014-11-07 16:55:08 ;
+883 ; Bus ;  ; 2014-11-07 16:55:42 ;
+884 ; Bus ;  ; 2014-11-07 16:55:46 ;
+885 ; Bus ; 20141107_165630 ; 2014-11-07 16:56:37 ;
+886 ; Bus ; 20141107_165630 ; 2014-11-07 16:56:41 ;
+887 ; Bus ; 20141107_165726 ; 2014-11-07 16:57:33 ;
+888 ; Bus ; 20141107_165726 ; 2014-11-07 16:57:37 ;
+1011 ; Bus ; 20141110_070704 ; 2014-11-10 07:07:11 ;
+1012 ; Bus ; 20141110_070704 ; 2014-11-10 07:07:15 ;
+1013 ; Bus ; 20141110_070736 ; 2014-11-10 07:07:43 ;
+1014 ; Bus ; 20141110_070736 ; 2014-11-10 07:07:47 ;
+1015 ; Bus ; 20141110_070813 ; 2014-11-10 07:08:20 ;
+1016 ; Bus ; 20141110_070813 ; 2014-11-10 07:08:24 ;
+1017 ; Bus ; 20141110_070836 ; 2014-11-10 07:08:43 ;
+1018 ; Bus ; 20141110_070836 ; 2014-11-10 07:08:48 ;
+1019 ; Bus ; 20141110_070856 ; 2014-11-10 07:09:03 ;
+1020 ; Bus ; 20141110_070856 ; 2014-11-10 07:09:07 ;
+1021 ; Bus ; 20141110_071414 ; 2014-11-10 07:14:21 ;
+1022 ; Bus ; 20141110_071414 ; 2014-11-10 07:14:25 ;
+1045 ; Bus ; 20141110_105731 ; 2014-11-10 10:57:38 ;
+1046 ; Bus ; 20141110_105731 ; 2014-11-10 10:57:42 ;
+1047 ; Bus ;  ; 2014-11-10 10:58:01 ;
+1048 ; Bus ;  ; 2014-11-10 10:58:05 ;
+1049 ; Bus ; 20141110_105814 ; 2014-11-10 10:58:21 ;
+1050 ; Bus ; 20141110_105814 ; 2014-11-10 10:58:25 ;
+1051 ; Bus ; 20141110_105835 ; 2014-11-10 10:58:42 ;
+1052 ; Bus ; 20141110_105835 ; 2014-11-10 10:58:46 ;
+1053 ; Bus ; 20141110_105901 ; 2014-11-10 10:59:08 ;
+1054 ; Bus ; 20141110_105901 ; 2014-11-10 10:59:12 ;
+1102 ; Bus ; 20141110_165504 ; 2014-11-10 16:55:11 ;
+1103 ; Bus ; 20141110_165504 ; 2014-11-10 16:55:15 ;
+1104 ; Bus ; 20141110_165534 ; 2014-11-10 16:55:41 ;
+1105 ; Bus ; 20141110_165534 ; 2014-11-10 16:55:45 ;
+1106 ; Bus ;  ; 2014-11-10 16:56:02 ;
+1107 ; Bus ;  ; 2014-11-10 16:56:06 ;
+1108 ; Bus ; 20141110_165621 ; 2014-11-10 16:56:28 ;
+1109 ; Bus ; 20141110_165621 ; 2014-11-10 16:56:32 ;
+1146 ; Bus ; 20141111_070842 ; 2014-11-11 07:08:49 ;
+1147 ; Bus ; 20141111_070842 ; 2014-11-11 07:08:53 ;
+1148 ; Bus ; 20141111_070907 ; 2014-11-11 07:09:14 ;
+1149 ; Bus ; 20141111_070907 ; 2014-11-11 07:09:18 ;
+1158 ; Bus ; 20141111_092722 ; 2014-11-11 09:27:29 ;
+1159 ; Bus ; 20141111_092722 ; 2014-11-11 09:27:33 ;
+1160 ; Bus ; 20141111_092754 ; 2014-11-11 09:28:01 ;
+1161 ; Bus ; 20141111_092754 ; 2014-11-11 09:28:05 ;
+1162 ; Bus ; 20141111_092818 ; 2014-11-11 09:28:25 ;
+1163 ; Bus ; 20141111_092818 ; 2014-11-11 09:28:29 ;
+1164 ; Bus ; 20141111_092909 ; 2014-11-11 09:29:16 ;
+1165 ; Bus ; 20141111_092909 ; 2014-11-11 09:29:20 ;
+1166 ; Bus ; 20141111_092956 ; 2014-11-11 09:30:03 ;
+1167 ; Bus ; 20141111_092956 ; 2014-11-11 09:30:07 ;
+1168 ; Bus ; 20141111_093041 ; 2014-11-11 09:30:48 ;
+1169 ; Bus ; 20141111_093041 ; 2014-11-11 09:30:52 ;
+1202 ; Bus ; 20141111_125708 ; 2014-11-11 12:57:15 ;
+1203 ; Bus ; 20141111_125708 ; 2014-11-11 12:57:19 ;
+1204 ; Bus ;  ; 2014-11-11 12:57:43 ;
+1205 ; Bus ;  ; 2014-11-11 12:57:47 ;
+1206 ; Bus ; 20141111_125806 ; 2014-11-11 12:58:13 ;
+1207 ; Bus ; 20141111_125806 ; 2014-11-11 12:58:17 ;
+1222 ; Bus ; 20141111_162247 ; 2014-11-11 16:22:54 ;
+1223 ; Bus ; 20141111_162247 ; 2014-11-11 16:22:58 ;
+1224 ; Bus ;  ; 2014-11-11 16:23:24 ;
+1225 ; Bus ;  ; 2014-11-11 16:23:28 ;
+1226 ; Bus ; 20141111_162349 ; 2014-11-11 16:23:56 ;
+1227 ; Bus ; 20141111_162349 ; 2014-11-11 16:24:00 ;
+1274 ; Bus ; 20141112_070755 ; 2014-11-12 07:08:02 ;
+1275 ; Bus ; 20141112_070755 ; 2014-11-12 07:08:06 ;
+1276 ; Bus ; 20141112_070815 ; 2014-11-12 07:08:22 ;
+1277 ; Bus ; 20141112_070815 ; 2014-11-12 07:08:26 ;
+1278 ; Bus ; 20141112_070842 ; 2014-11-12 07:08:49 ;
+1279 ; Bus ; 20141112_070842 ; 2014-11-12 07:08:53 ;
+1280 ; Bus ; 20141112_070906 ; 2014-11-12 07:09:13 ;
+1281 ; Bus ; 20141112_070906 ; 2014-11-12 07:09:17 ;
+1282 ; Bus ; 20141112_094534 ; 2014-11-12 09:45:41 ;
+1283 ; Bus ; 20141112_094534 ; 2014-11-12 09:45:45 ;
+1300 ; Bus ; 20141112_112642 ; 2014-11-12 11:26:49 ;
+1301 ; Bus ; 20141112_112642 ; 2014-11-12 11:26:53 ;
+1302 ; Bus ;  ; 2014-11-12 11:27:14 ;
+1303 ; Bus ;  ; 2014-11-12 11:27:18 ;
+1304 ; Bus ; 20141112_112727 ; 2014-11-12 11:27:34 ;
+1305 ; Bus ; 20141112_112727 ; 2014-11-12 11:27:38 ;
+1398 ; Bus ; 20141113_092811 ; 2014-11-13 09:28:18 ;
+1399 ; Bus ; 20141113_092811 ; 2014-11-13 09:28:22 ;
+1400 ; Bus ;  ; 2014-11-13 09:28:48 ;
+1401 ; Bus ;  ; 2014-11-13 09:28:52 ;
+1402 ; Bus ; 20141113_092905 ; 2014-11-13 09:29:12 ;
+1403 ; Bus ; 20141113_092905 ; 2014-11-13 09:29:16 ;
+1404 ; Bus ; 20141113_092940 ; 2014-11-13 09:29:47 ;
+1405 ; Bus ; 20141113_092940 ; 2014-11-13 09:29:51 ;
+1406 ; Bus ; 20141113_093001 ; 2014-11-13 09:30:08 ;
+1407 ; Bus ; 20141113_093001 ; 2014-11-13 09:30:12 ;
+1420 ; Bus ; 20141113_132849 ; 2014-11-13 13:28:56 ;
+1421 ; Bus ; 20141113_132849 ; 2014-11-13 13:29:00 ;
+1422 ; Bus ; 20141113_132932 ; 2014-11-13 13:29:39 ;
+1423 ; Bus ; 20141113_132932 ; 2014-11-13 13:29:43 ;
+1424 ; Bus ; 20141113_133014 ; 2014-11-13 13:30:21 ;
+1425 ; Bus ; 20141113_133014 ; 2014-11-13 13:30:25 ;
+1506 ; Bus ; 20141114_071011 ; 2014-11-14 07:10:18 ;
+1507 ; Bus ; 20141114_071011 ; 2014-11-14 07:10:22 ;
+1508 ; Bus ;  ; 2014-11-14 07:10:42 ;
+1509 ; Bus ;  ; 2014-11-14 07:10:46 ;
+1510 ; Bus ; 20141114_071057 ; 2014-11-14 07:11:04 ;
+1511 ; Bus ; 20141114_071057 ; 2014-11-14 07:11:09 ;
+1512 ; Bus ; 20141114_071131 ; 2014-11-14 07:11:38 ;
+1513 ; Bus ; 20141114_071131 ; 2014-11-14 07:11:42 ;
+1520 ; Bus ; 20141114_094313 ; 2014-11-14 09:43:20 ;
+1521 ; Bus ; 20141114_094313 ; 2014-11-14 09:43:24 ;
+1522 ; Bus ;  ; 2014-11-14 09:44:10 ;
+1523 ; Bus ;  ; 2014-11-14 09:44:14 ;
+1524 ; Bus ; 20141114_094443 ; 2014-11-14 09:44:50 ;
+1525 ; Bus ; 20141114_094443 ; 2014-11-14 09:44:54 ;
+1528 ; Bus ; 20141114_095837 ; 2014-11-14 09:58:44 ;
+1529 ; Bus ; 20141114_095837 ; 2014-11-14 09:58:48 ;
+1530 ; Bus ;  ; 2014-11-14 10:00:36 ;
+1531 ; Bus ;  ; 2014-11-14 10:00:40 ;
+1532 ; Bus ; 20141114_100112 ; 2014-11-14 10:01:19 ;
+1533 ; Bus ; 20141114_100112 ; 2014-11-14 10:01:23 ;
+1534 ; Bus ; 20141114_100137 ; 2014-11-14 10:01:44 ;
+1535 ; Bus ; 20141114_100137 ; 2014-11-14 10:01:48 ;
+1536 ; Bus ; 20141114_103532 ; 2014-11-14 10:35:39 ;
+1537 ; Bus ; 20141114_103532 ; 2014-11-14 10:35:43 ;
+1568 ; Bus ; 20141114_122813 ; 2014-11-14 12:28:20 ;
+1569 ; Bus ; 20141114_122813 ; 2014-11-14 12:28:24 ;
+1570 ; Bus ;  ; 2014-11-14 12:28:56 ;
+1571 ; Bus ;  ; 2014-11-14 12:29:00 ;
+1572 ; Bus ; 20141114_122923 ; 2014-11-14 12:29:30 ;
+1573 ; Bus ; 20141114_122923 ; 2014-11-14 12:29:34 ;
+1574 ; Bus ; 20141114_123007 ; 2014-11-14 12:30:14 ;
+1575 ; Bus ; 20141114_123007 ; 2014-11-14 12:30:18 ;
+1580 ; Bus ; 20141114_181015 ; 2014-11-14 18:10:22 ;
+1581 ; Bus ; 20141114_181015 ; 2014-11-14 18:10:26 ;
+1582 ; Bus ;  ; 2014-11-14 18:11:05 ;
+1583 ; Bus ;  ; 2014-11-14 18:11:10 ;
+1584 ; Bus ; 20141114_181125 ; 2014-11-14 18:11:32 ;
+1585 ; Bus ; 20141114_181125 ; 2014-11-14 18:11:36 ;
+1796 ; Bus ; 20141117_070916 ; 2014-11-17 07:09:23 ;
+1797 ; Bus ; 20141117_070916 ; 2014-11-17 07:09:27 ;
+1798 ; Bus ;  ; 2014-11-17 07:09:50 ;
+1799 ; Bus ;  ; 2014-11-17 07:09:54 ;
+1800 ; Bus ; 20141117_071008 ; 2014-11-17 07:10:15 ;
+1801 ; Bus ; 20141117_071008 ; 2014-11-17 07:10:19 ;
+1802 ; Bus ; 20141117_093044 ; 2014-11-17 09:30:51 ;
+1803 ; Bus ; 20141117_093044 ; 2014-11-17 09:30:55 ;
+1804 ; Bus ;  ; 2014-11-17 09:31:19 ;
+1805 ; Bus ;  ; 2014-11-17 09:31:23 ;
+1806 ; Bus ; 20141117_093138 ; 2014-11-17 09:31:45 ;
+1807 ; Bus ; 20141117_093138 ; 2014-11-17 09:31:49 ;
+1854 ; Bus ; 20141117_142656 ; 2014-11-17 14:27:03 ;
+1855 ; Bus ; 20141117_142656 ; 2014-11-17 14:27:07 ;
+1856 ; Bus ;  ; 2014-11-17 14:27:51 ;
+1857 ; Bus ;  ; 2014-11-17 14:27:55 ;
+1858 ; Bus ; 20141117_142808 ; 2014-11-17 14:28:15 ;
+1859 ; Bus ; 20141117_142808 ; 2014-11-17 14:28:19 ;
+1860 ; Bus ; 20141117_142834 ; 2014-11-17 14:28:42 ;
+1861 ; Bus ; 20141117_142834 ; 2014-11-17 14:28:46 ;
+1866 ; Bus ; 20141117_165644 ; 2014-11-17 16:56:51 ;
+1867 ; Bus ; 20141117_165644 ; 2014-11-17 16:56:55 ;
+1868 ; Bus ;  ; 2014-11-17 16:57:16 ;
+1869 ; Bus ;  ; 2014-11-17 16:57:20 ;
+1870 ; Bus ; 20141117_165741 ; 2014-11-17 16:57:48 ;
+1871 ; Bus ; 20141117_165741 ; 2014-11-17 16:57:52 ;
+1872 ; Bus ; 20141117_165808 ; 2014-11-17 16:58:15 ;
+1873 ; Bus ; 20141117_165808 ; 2014-11-17 16:58:19 ;
+1920 ; Bus ; 20141118_070838 ; 2014-11-18 07:08:45 ;
+1921 ; Bus ; 20141118_070838 ; 2014-11-18 07:08:49 ;
+1922 ; Bus ;  ; 2014-11-18 07:09:11 ;
+1923 ; Bus ;  ; 2014-11-18 07:09:15 ;
+1924 ; Bus ; 20141118_070928 ; 2014-11-18 07:09:35 ;
+1925 ; Bus ; 20141118_070928 ; 2014-11-18 07:09:39 ;
+1926 ; Bus ; 20141118_092943 ; 2014-11-18 09:29:50 ;
+1927 ; Bus ; 20141118_092943 ; 2014-11-18 09:29:54 ;
+1934 ; Bus ; 20141118_102822 ; 2014-11-18 10:28:29 ;
+1935 ; Bus ; 20141118_102822 ; 2014-11-18 10:28:33 ;
+1936 ; Bus ;  ; 2014-11-18 10:28:56 ;
+1937 ; Bus ;  ; 2014-11-18 10:29:00 ;
+1938 ; Bus ; 20141118_102916 ; 2014-11-18 10:29:23 ;
+1939 ; Bus ; 20141118_102916 ; 2014-11-18 10:29:27 ;
+1960 ; Bus ; 20141118_134206 ; 2014-11-18 13:42:13 ;
+1961 ; Bus ; 20141118_134206 ; 2014-11-18 13:42:17 ;
+1962 ; Bus ;  ; 2014-11-18 13:42:40 ;
+1963 ; Bus ;  ; 2014-11-18 13:42:44 ;
+1964 ; Bus ; 20141118_134250 ; 2014-11-18 13:42:57 ;
+1965 ; Bus ; 20141118_134250 ; 2014-11-18 13:43:01 ;
+1978 ; Bus ; 20141118_175536 ; 2014-11-18 17:55:43 ;
+1979 ; Bus ; 20141118_175536 ; 2014-11-18 17:55:48 ;
+1980 ; Bus ;  ; 2014-11-18 17:56:26 ;
+1981 ; Bus ;  ; 2014-11-18 17:56:30 ;
+2028 ; Bus ; 20141119_071451 ; 2014-11-19 07:14:58 ;
+2029 ; Bus ; 20141119_071451 ; 2014-11-19 07:15:02 ;
+2030 ; Bus ; 20141119_112908 ; 2014-11-19 11:29:15 ;
+2031 ; Bus ; 20141119_112908 ; 2014-11-19 11:29:20 ;
+2062 ; Bus ; 20141120_102618 ; 2014-11-20 10:26:25 ;
+2063 ; Bus ; 20141120_102618 ; 2014-11-20 10:26:29 ;
+2064 ; Bus ;  ; 2014-11-20 10:26:50 ;
+2065 ; Bus ;  ; 2014-11-20 10:26:54 ;
+2066 ; Bus ; 20141120_102703 ; 2014-11-20 10:27:10 ;
+2067 ; Bus ; 20141120_102703 ; 2014-11-20 10:27:14 ;
+2086 ; Bus ; 20141120_124153 ; 2014-11-20 12:42:00 ;
+2087 ; Bus ; 20141120_124153 ; 2014-11-20 12:42:04 ;
+2088 ; Bus ;  ; 2014-11-20 12:42:31 ;
+2089 ; Bus ;  ; 2014-11-20 12:42:35 ;
+2090 ; Bus ; 20141120_124248 ; 2014-11-20 12:42:55 ;
+2091 ; Bus ; 20141120_124248 ; 2014-11-20 12:42:59 ;
+2092 ; Bus ; 20141120_124329 ; 2014-11-20 12:43:36 ;
+2093 ; Bus ; 20141120_124329 ; 2014-11-20 12:43:40 ;
+2196 ; Bus ; 20141204_070726 ; 2014-12-04 07:07:33 ;
+2197 ; Bus ; 20141204_070726 ; 2014-12-04 07:07:37 ;
+2198 ; Bus ;  ; 2014-12-04 07:07:56 ;
+2199 ; Bus ;  ; 2014-12-04 07:08:00 ;
+2210 ; Bus ; 20141204_134219 ; 2014-12-04 13:42:26 ;
+2211 ; Bus ; 20141204_134219 ; 2014-12-04 13:42:30 ;
+2212 ; Bus ; 20141204_134239 ; 2014-12-04 13:42:46 ;
+2213 ; Bus ; 20141204_134239 ; 2014-12-04 13:42:50 ;
+2214 ; Bus ; 20141204_134302 ; 2014-12-04 13:43:09 ;
+2215 ; Bus ; 20141204_134302 ; 2014-12-04 13:43:13 ;
+2390 ; Bus ;  ; 2014-12-08 07:07:10 ;
+2391 ; Bus ;  ; 2014-12-08 07:07:15 ;
+2392 ; Bus ; 20141208_070744 ; 2014-12-08 07:07:51 ;
+2393 ; Bus ; 20141208_070744 ; 2014-12-08 07:07:55 ;
+2394 ; Bus ; 20141208_070810 ; 2014-12-08 07:08:17 ;
+2395 ; Bus ; 20141208_070810 ; 2014-12-08 07:08:21 ;
+2396 ; Bus ; 20141208_092533 ; 2014-12-08 09:25:40 ;
+2397 ; Bus ; 20141208_092533 ; 2014-12-08 09:25:45 ;
+2398 ; Bus ;  ; 2014-12-08 09:26:10 ;
+2399 ; Bus ;  ; 2014-12-08 09:26:14 ;
+2400 ; Bus ; 20141208_092640 ; 2014-12-08 09:26:47 ;
+2401 ; Bus ; 20141208_092640 ; 2014-12-08 09:26:51 ;
+2406 ; Bus ; 20141208_132707 ; 2014-12-08 13:27:14 ;
+2407 ; Bus ; 20141208_132707 ; 2014-12-08 13:27:18 ;
+2408 ; Bus ;  ; 2014-12-08 13:27:38 ;
+2409 ; Bus ;  ; 2014-12-08 13:27:42 ;
+2410 ; Bus ; 20141208_132752 ; 2014-12-08 13:27:59 ;
+2411 ; Bus ; 20141208_132752 ; 2014-12-08 13:28:03 ;
+2428 ; Bus ; 20141209_070719 ; 2014-12-09 07:07:26 ;
+2429 ; Bus ; 20141209_070719 ; 2014-12-09 07:07:30 ;
+2430 ; Bus ; 20141209_070822 ; 2014-12-09 07:08:30 ;
+2431 ; Bus ; 20141209_070822 ; 2014-12-09 07:08:34 ;
+2432 ; Bus ; 20141209_092809 ; 2014-12-09 09:28:16 ;
+2433 ; Bus ; 20141209_092809 ; 2014-12-09 09:28:20 ;
+2466 ; Bus ; 20141209_132727 ; 2014-12-09 13:27:34 ;
+2467 ; Bus ; 20141209_132727 ; 2014-12-09 13:27:38 ;
+2468 ; Bus ; 20141209_132751 ; 2014-12-09 13:27:58 ;
+2469 ; Bus ; 20141209_132751 ; 2014-12-09 13:28:02 ;
+2470 ; Bus ; 20141209_132823 ; 2014-12-09 13:28:31 ;
+2471 ; Bus ; 20141209_132823 ; 2014-12-09 13:28:35 ;
+2518 ; Bus ; 20141210_112918 ; 2014-12-10 11:29:25 ;
+2519 ; Bus ; 20141210_112918 ; 2014-12-10 11:29:29 ;
+2520 ; Bus ;  ; 2014-12-10 11:29:45 ;
+2521 ; Bus ;  ; 2014-12-10 11:29:49 ;
+2522 ; Bus ; 20141210_113128 ; 2014-12-10 11:31:35 ;
+2523 ; Bus ; 20141210_113128 ; 2014-12-10 11:31:39 ;
+2706 ; Bus ; 20141211_135654 ; 2014-12-11 13:57:01 ;
+2707 ; Bus ; 20141211_135654 ; 2014-12-11 13:57:05 ;
+2708 ; Bus ;  ; 2014-12-11 13:57:34 ;
+2709 ; Bus ;  ; 2014-12-11 13:57:38 ;
+2710 ; Bus ; 20141211_135758 ; 2014-12-11 13:58:05 ;
+2711 ; Bus ; 20141211_135758 ; 2014-12-11 13:58:09 ;
+2712 ; Bus ; 20141211_135817 ; 2014-12-11 13:58:24 ;
+2713 ; Bus ; 20141211_135817 ; 2014-12-11 13:58:28 ;
+2766 ; Bus ; 20141212_154957 ; 2014-12-12 15:50:04 ;
+2767 ; Bus ; 20141212_154957 ; 2014-12-12 15:50:08 ;
+2768 ; Bus ;  ; 2014-12-12 15:50:28 ;
+2769 ; Bus ;  ; 2014-12-12 15:50:32 ;
+2770 ; Bus ; 20141212_155043 ; 2014-12-12 15:50:50 ;
+2771 ; Bus ; 20141212_155043 ; 2014-12-12 15:50:54 ;
+3116 ; Bus ;  ; 2015-05-08 14:12:04 ;
+3117 ; Bus ;  ; 2015-05-08 14:12:08 ;
+3118 ; Bus ; 20150508_141215 ; 2015-05-08 14:12:22 ;
+3119 ; Bus ; 20150508_141215 ; 2015-05-08 14:12:26 ;
+3120 ; Bus ; 20150508_141243 ; 2015-05-08 14:12:50 ;
+3121 ; Bus ; 20150508_141243 ; 2015-05-08 14:12:54 ;
+3122 ; Bus ; 20150508_141305 ; 2015-05-08 14:13:12 ;
+3123 ; Bus ; 20150508_141305 ; 2015-05-08 14:13:16 ;
+3124 ; Bus ; 20150508_141329 ; 2015-05-08 14:13:36 ;
+3125 ; Bus ; 20150508_141329 ; 2015-05-08 14:13:40 ;
+3174 ; Bus ;  ; 2015-05-08 17:55:08 ;
+3175 ; Bus ;  ; 2015-05-08 17:55:12 ;
+------------------------------------------------------------
+nexussensors7.db
+211 ; Bus ; 20141006_070743 ; 2014-10-06 07:07:57 ;
+212 ; Bus ; 20141006_070743 ; 2014-10-06 07:08:01 ;
+213 ; Bus ; 20141006_070812 ; 2014-10-06 07:08:22 ;
+214 ; Bus ; 20141006_070812 ; 2014-10-06 07:08:27 ;
+403 ; Bus ; 20141006_145120 ; 2014-10-06 14:51:28 ;
+404 ; Bus ; 20141006_145120 ; 2014-10-06 14:51:32 ;
+------------------------------------------------------------
+adlrecord5.db
+------------------------------------------------------------
+adlrecord6.db
+15 ; Driving ; 20150514_081424 ; 2015-05-14 08:14:43 ;
+16 ; Driving ; 20150514_081424 ; 2015-05-14 08:14:53 ;
+17 ; Driving ; 20150514_085023 ; 2015-05-14 08:50:42 ;
+18 ; Driving ; 20150514_085023 ; 2015-05-14 08:50:53 ;
+19 ; Driving ; 20150514_085446 ; 2015-05-14 08:55:05 ;
+20 ; Driving ; 20150514_085446 ; 2015-05-14 08:55:15 ;
+33 ; Driving ; 20150514_193624 ; 2015-05-14 19:36:43 ;
+34 ; Driving ; 20150514_193624 ; 2015-05-14 19:36:53 ;
+35 ; Driving ; 20150514_193624 ; 2015-05-14 19:43:31 ;
+36 ; Driving ; 20150514_195031 ; 2015-05-14 19:50:50 ;
+37 ; Driving ; 20150514_195031 ; 2015-05-14 19:51:00 ;
+38 ; Driving ; 20150514_195031 ; 2015-05-14 19:51:10 ;
+39 ; Driving ; 20150514_195649 ; 2015-05-14 19:57:09 ;
+40 ; Driving ; 20150514_195649 ; 2015-05-14 19:57:19 ;
+41 ; Driving ; 20150514_195649 ; 2015-05-14 19:57:29 ;
+42 ; Driving ; 20150514_200227 ; 2015-05-14 20:02:46 ;
+43 ; Driving ; 20150514_200227 ; 2015-05-14 20:02:56 ;
+44 ; Driving ; 20150514_200227 ; 2015-05-14 20:03:06 ;
+61 ; Driving ; 20150515_072140 ; 2015-05-15 07:21:59 ;
+62 ; Driving ; 20150515_072140 ; 2015-05-15 07:22:09 ;
+63 ; Driving ; 20150515_072140 ; 2015-05-15 07:25:10 ;
+64 ; Driving ; 20150515_073853 ; 2015-05-15 07:39:12 ;
+65 ; Driving ; 20150515_073853 ; 2015-05-15 07:39:22 ;
+66 ; Driving ; 20150515_073853 ; 2015-05-15 07:39:32 ;
+67 ; Driving ; 20150515_074922 ; 2015-05-15 07:49:41 ;
+68 ; Driving ; 20150515_074922 ; 2015-05-15 07:49:51 ;
+69 ; Driving ; 20150515_075725 ; 2015-05-15 07:57:44 ;
+70 ; Driving ; 20150515_075725 ; 2015-05-15 07:57:54 ;
+71 ; Driving ; 20150515_075725 ; 2015-05-15 08:00:54 ;
+72 ; Driving ; 20150515_080102 ; 2015-05-15 08:01:21 ;
+73 ; Driving ; 20150515_080102 ; 2015-05-15 08:01:31 ;
+74 ; Driving ; 20150515_181005 ; 2015-05-15 18:10:24 ;
+75 ; Driving ; 20150515_181005 ; 2015-05-15 18:10:35 ;
+76 ; Driving ; 20150515_181005 ; 2015-05-15 18:13:33 ;
+77 ; Driving ; 20150515_181623 ; 2015-05-15 18:16:42 ;
+78 ; Driving ; 20150515_181623 ; 2015-05-15 18:16:52 ;
+79 ; Driving ; 20150515_181623 ; 2015-05-15 18:17:02 ;
+80 ; Driving ; 20150515_193337 ; 2015-05-15 19:33:56 ;
+81 ; Driving ; 20150515_193337 ; 2015-05-15 19:34:06 ;
+82 ; Driving ; 20150515_193337 ; 2015-05-15 19:37:17 ;
+83 ; Driving ; 20150515_193759 ; 2015-05-15 19:38:18 ;
+84 ; Driving ; 20150515_193759 ; 2015-05-15 19:38:28 ;
+85 ; Driving ; 20150515_193759 ; 2015-05-15 19:38:38 ;
+92 ; Driving ; 20150516_084914 ; 2015-05-16 08:49:33 ;
+93 ; Driving ; 20150516_084914 ; 2015-05-16 08:49:43 ;
+105 ; Driving ; 20150518_163447 ; 2015-05-18 16:35:06 ;
+106 ; Driving ; 20150518_163447 ; 2015-05-18 16:35:17 ;
+107 ; Driving ; 20150518_163907 ; 2015-05-18 16:39:26 ;
+108 ; Driving ; 20150518_163907 ; 2015-05-18 16:39:36 ;
+109 ; Driving ; 20150518_163907 ; 2015-05-18 16:42:35 ;
+110 ; Driving ; 20150518_170113 ; 2015-05-18 17:01:32 ;
+111 ; Driving ; 20150518_170113 ; 2015-05-18 17:01:42 ;
+120 ; Driving ; 20150521_071348 ; 2015-05-21 07:14:07 ;
+121 ; Driving ; 20150521_071348 ; 2015-05-21 07:14:17 ;
+122 ; Driving ; 20150521_071348 ; 2015-05-21 07:17:25 ;
+123 ; Driving ; 20150521_071938 ; 2015-05-21 07:19:57 ;
+124 ; Driving ; 20150521_071938 ; 2015-05-21 07:20:07 ;
+125 ; Driving ; 20150521_071938 ; 2015-05-21 07:20:17 ;
+139 ; Driving ; 20150525_205422 ; 2015-05-25 20:54:41 ;
+140 ; Driving ; 20150525_205422 ; 2015-05-25 20:54:51 ;
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+133 ; Driving ; 20141008_162145 ; 2014-10-08 16:22:06 ;
+134 ; Driving ; 20141008_162145 ; 2014-10-08 16:22:10 ;
+135 ; Driving ;  ; 2014-10-08 16:23:48 ;
+136 ; Driving ;  ; 2014-10-08 16:23:52 ;
+137 ; Driving ;  ; 2014-10-08 16:33:56 ;
+138 ; Driving ;  ; 2014-10-08 16:34:00 ;
+139 ; Driving ;  ; 2014-10-08 16:51:58 ;
+140 ; Driving ;  ; 2014-10-08 16:52:02 ;
+141 ; Driving ;  ; 2014-10-08 17:10:13 ;
+142 ; Driving ;  ; 2014-10-08 17:10:18 ;
+143 ; Driving ;  ; 2014-10-08 17:21:38 ;
+144 ; Driving ;  ; 2014-10-08 17:21:42 ;
+224 ; Driving ;  ; 2014-10-10 17:21:20 ;
+225 ; Driving ;  ; 2014-10-10 17:21:24 ;
+228 ; Driving ;  ; 2014-10-10 18:31:06 ;
+229 ; Driving ;  ; 2014-10-10 18:31:10 ;
+------------------------------------------------------------
+nexussensors13.db
+------------------------------------------------------------
+nexussensors16.db
+49 ; Driving ;  ; 2014-10-18 12:04:16 ;
+50 ; Driving ;  ; 2014-10-18 12:04:20 ;
+53 ; Driving ;  ; 2014-10-18 13:40:54 ;
+54 ; Driving ;  ; 2014-10-18 13:40:58 ;
+------------------------------------------------------------
+nexussensors17.db
+------------------------------------------------------------
+nexussensors18.db
+101 ; Driving ; 20141101_145036 ; 2014-11-01 14:50:48 ;
+102 ; Driving ; 20141101_145036 ; 2014-11-01 14:50:52 ;
+135 ; Driving ; 20141102_114516 ; 2014-11-02 11:45:31 ;
+136 ; Driving ; 20141102_114516 ; 2014-11-02 11:45:35 ;
+137 ; Driving ; 20141102_114733 ; 2014-11-02 11:47:45 ;
+138 ; Driving ; 20141102_114733 ; 2014-11-02 11:47:49 ;
+139 ; Driving ; 20141102_114833 ; 2014-11-02 11:48:45 ;
+140 ; Driving ; 20141102_114833 ; 2014-11-02 11:48:49 ;
+143 ; Driving ; 20141102_141614 ; 2014-11-02 14:16:26 ;
+144 ; Driving ; 20141102_141614 ; 2014-11-02 14:16:30 ;
+527 ; Driving ; 20141106_133412 ; 2014-11-06 13:34:21 ;
+528 ; Driving ; 20141106_133412 ; 2014-11-06 13:34:25 ;
+637 ; Driving ; 20141106_195342 ; 2014-11-06 19:53:49 ;
+638 ; Driving ; 20141106_195342 ; 2014-11-06 19:53:53 ;
+639 ; Driving ; 20141106_195404 ; 2014-11-06 19:54:11 ;
+640 ; Driving ; 20141106_195404 ; 2014-11-06 19:54:15 ;
+641 ; Driving ;  ; 2014-11-06 19:54:40 ;
+642 ; Driving ;  ; 2014-11-06 19:54:45 ;
+643 ; Driving ; 20141106_195453 ; 2014-11-06 19:55:00 ;
+644 ; Driving ; 20141106_195453 ; 2014-11-06 19:55:04 ;
+645 ; Driving ; 20141106_195521 ; 2014-11-06 19:55:28 ;
+646 ; Driving ; 20141106_195521 ; 2014-11-06 19:55:32 ;
+647 ; Driving ; 20141106_195543 ; 2014-11-06 19:55:50 ;
+648 ; Driving ; 20141106_195543 ; 2014-11-06 19:55:54 ;
+649 ; Driving ; 20141106_195605 ; 2014-11-06 19:56:12 ;
+650 ; Driving ; 20141106_195605 ; 2014-11-06 19:56:17 ;
+651 ; Driving ; 20141106_195629 ; 2014-11-06 19:56:36 ;
+652 ; Driving ; 20141106_195629 ; 2014-11-06 19:56:40 ;
+969 ; Driving ; None ; 2014-11-09 20:35:28 ;
+970 ; Driving ; None ; 2014-11-09 20:35:32 ;
+971 ; Driving ; 20141109_204010 ; 2014-11-09 20:40:17 ;
+972 ; Driving ; 20141109_204010 ; 2014-11-09 20:40:21 ;
+973 ; Driving ;  ; 2014-11-09 20:40:47 ;
+974 ; Driving ;  ; 2014-11-09 20:40:51 ;
+975 ; Driving ; 20141109_204108 ; 2014-11-09 20:41:15 ;
+976 ; Driving ; 20141109_204108 ; 2014-11-09 20:41:19 ;
+1248 ; Driving ; 20141111_215642 ; 2014-11-11 21:56:49 ;
+1249 ; Driving ; 20141111_215642 ; 2014-11-11 21:56:53 ;
+1250 ; Driving ;  ; 2014-11-11 21:57:17 ;
+1251 ; Driving ;  ; 2014-11-11 21:57:21 ;
+3086 ; Driving ; None ; 2015-03-21 09:33:06 ;
+3087 ; Driving ; None ; 2015-03-21 09:33:10 ;
+3186 ; Driving ; 20150512_070553 ; 2015-05-12 07:06:00 ;
+3187 ; Driving ; 20150512_070553 ; 2015-05-12 07:06:04 ;
+3188 ; Driving ;  ; 2015-05-12 07:06:27 ;
+3189 ; Driving ;  ; 2015-05-12 07:06:31 ;
+3190 ; Driving ; 20150512_070709 ; 2015-05-12 07:07:16 ;
+3191 ; Driving ; 20150512_070709 ; 2015-05-12 07:07:20 ;
+3192 ; Driving ; 20150512_070735 ; 2015-05-12 07:07:42 ;
+3193 ; Driving ; 20150512_070735 ; 2015-05-12 07:07:46 ;
+3194 ; Driving ; 20150512_103047 ; 2015-05-12 10:30:54 ;
+3195 ; Driving ; 20150512_103047 ; 2015-05-12 10:30:58 ;
+------------------------------------------------------------
+nexussensors7.db
+------------------------------------------------------------
+adlrecord5.db
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+1 ; Walking outside ; 20141007_065910 ; 2014-10-07 07:05:36 ;
+2 ; Walking outside ; 20141007_065910 ; 2014-10-07 07:05:40 ;
+3 ; Walking outside ; 20141007_070613 ; 2014-10-07 07:06:28 ;
+4 ; Walking outside ; 20141007_070613 ; 2014-10-07 07:06:32 ;
+13 ; Walking outside ; 20141007_071518 ; 2014-10-07 07:22:35 ;
+14 ; Walking outside ; 20141007_071518 ; 2014-10-07 07:22:40 ;
+37 ; Walking outside ; 20141007_114730 ; 2014-10-07 11:47:34 ;
+38 ; Walking outside ; 20141007_114730 ; 2014-10-07 11:47:36 ;
+55 ; Walking outside ; 20141007_163832 ; 2014-10-07 16:38:50 ;
+56 ; Walking outside ; 20141007_163832 ; 2014-10-07 16:38:54 ;
+103 ; Walking outside ;  ; 2014-10-08 07:23:29 ;
+104 ; Walking outside ;  ; 2014-10-08 07:23:33 ;
+109 ; Walking outside ;  ; 2014-10-08 09:23:27 ;
+110 ; Walking outside ;  ; 2014-10-08 09:23:31 ;
+113 ; Walking outside ;  ; 2014-10-08 11:02:15 ;
+114 ; Walking outside ;  ; 2014-10-08 11:02:19 ;
+157 ; Walking outside ;  ; 2014-10-09 07:20:53 ;
+158 ; Walking outside ;  ; 2014-10-09 07:20:57 ;
+159 ; Walking outside ;  ; 2014-10-09 09:21:11 ;
+160 ; Walking outside ;  ; 2014-10-09 09:21:15 ;
+206 ; Walking outside ; 20141010_063655 ; 2014-10-10 07:05:47 ;
+207 ; Walking outside ; 20141010_063655 ; 2014-10-10 07:05:51 ;
+208 ; Walking outside ;  ; 2014-10-10 08:49:32 ;
+209 ; Walking outside ;  ; 2014-10-10 08:49:36 ;
+------------------------------------------------------------
+nexussensors13.db
+16 ; Walking outside ;  ; 2014-10-13 07:22:07 ;
+17 ; Walking outside ;  ; 2014-10-13 07:22:11 ;
+77 ; Walking outside ;  ; 2014-10-14 07:22:24 ;
+78 ; Walking outside ;  ; 2014-10-14 07:22:28 ;
+81 ; Walking outside ;  ; 2014-10-14 09:22:50 ;
+82 ; Walking outside ;  ; 2014-10-14 09:22:54 ;
+123 ; Walking outside ; 20141015_070612 ; 2014-10-15 07:06:26 ;
+124 ; Walking outside ; 20141015_070612 ; 2014-10-15 07:06:30 ;
+135 ; Walking outside ;  ; 2014-10-15 09:21:55 ;
+136 ; Walking outside ;  ; 2014-10-15 09:21:59 ;
+147 ; Walking outside ; 20141015_125519 ; 2014-10-15 12:55:33 ;
+148 ; Walking outside ; 20141015_125519 ; 2014-10-15 12:55:37 ;
+153 ; Walking outside ;  ; 2014-10-15 13:16:15 ;
+154 ; Walking outside ;  ; 2014-10-15 13:16:19 ;
+165 ; Walking outside ; 20141015_185044 ; 2014-10-15 18:50:58 ;
+166 ; Walking outside ; 20141015_185044 ; 2014-10-15 18:51:03 ;
+177 ; Walking outside ;  ; 2014-10-16 07:05:51 ;
+178 ; Walking outside ;  ; 2014-10-16 07:05:55 ;
+183 ; Walking outside ;  ; 2014-10-16 07:21:08 ;
+184 ; Walking outside ;  ; 2014-10-16 07:21:12 ;
+------------------------------------------------------------
+nexussensors16.db
+13 ; Walking outside ;  ; 2014-10-17 12:54:46 ;
+14 ; Walking outside ;  ; 2014-10-17 12:54:51 ;
+55 ; Walking outside ; 20141018_141654 ; 2014-10-18 14:17:06 ;
+56 ; Walking outside ; 20141018_141654 ; 2014-10-18 14:17:11 ;
+61 ; Walking outside ; 20141018_185108 ; 2014-10-18 18:51:20 ;
+62 ; Walking outside ; 20141018_185108 ; 2014-10-18 18:51:24 ;
+------------------------------------------------------------
+nexussensors17.db
+7 ; Walking outside ; 20141020_115844 ; 2014-10-20 11:59:21 ;
+8 ; Walking outside ; 20141020_115844 ; 2014-10-20 11:59:25 ;
+21 ; Walking outside ; 20141020_131024 ; 2014-10-20 13:10:42 ;
+22 ; Walking outside ; 20141020_131024 ; 2014-10-20 13:10:46 ;
+37 ; Walking outside ;  ; 2014-10-20 18:44:43 ;
+38 ; Walking outside ;  ; 2014-10-20 18:44:47 ;
+51 ; Walking outside ; 20141021_070037 ; 2014-10-21 07:07:04 ;
+52 ; Walking outside ; 20141021_070037 ; 2014-10-21 07:07:08 ;
+53 ; Walking outside ; 20141021_072036 ; 2014-10-21 07:21:04 ;
+54 ; Walking outside ; 20141021_072036 ; 2014-10-21 07:21:08 ;
+73 ; Walking outside ; 20141021_165240 ; 2014-10-21 16:52:53 ;
+74 ; Walking outside ; 20141021_165240 ; 2014-10-21 16:52:57 ;
+109 ; Walking outside ; 20141022_070612 ; 2014-10-22 07:06:39 ;
+110 ; Walking outside ; 20141022_070612 ; 2014-10-22 07:06:43 ;
+203 ; Walking outside ; 20141024_092234 ; 2014-10-24 09:22:51 ;
+204 ; Walking outside ; 20141024_092234 ; 2014-10-24 09:22:56 ;
+205 ; Walking outside ; 20141024_092305 ; 2014-10-24 09:23:17 ;
+206 ; Walking outside ; 20141024_092305 ; 2014-10-24 09:23:21 ;
+235 ; Walking outside ; 20141024_171052 ; 2014-10-24 17:11:07 ;
+236 ; Walking outside ; 20141024_171052 ; 2014-10-24 17:11:11 ;
+243 ; Walking outside ; 20141024_182242 ; 2014-10-24 18:22:53 ;
+244 ; Walking outside ; 20141024_182242 ; 2014-10-24 18:22:58 ;
+373 ; Walking outside ; 20141027_070430 ; 2014-10-27 07:04:51 ;
+374 ; Walking outside ; 20141027_070430 ; 2014-10-27 07:04:55 ;
+383 ; Walking outside ; 20141027_105356 ; 2014-10-27 10:54:17 ;
+384 ; Walking outside ; 20141027_105356 ; 2014-10-27 10:54:21 ;
+405 ; Walking outside ; 20141027_122347 ; 2014-10-27 12:24:02 ;
+406 ; Walking outside ; 20141027_122347 ; 2014-10-27 12:24:06 ;
+407 ; Walking outside ; 20141027_122439 ; 2014-10-27 12:24:53 ;
+408 ; Walking outside ; 20141027_122439 ; 2014-10-27 12:24:57 ;
+419 ; Walking outside ; 20141027_135406 ; 2014-10-27 13:54:31 ;
+420 ; Walking outside ; 20141027_135406 ; 2014-10-27 13:54:35 ;
+447 ; Walking outside ; 20141028_065803 ; 2014-10-28 07:05:53 ;
+448 ; Walking outside ; 20141028_065803 ; 2014-10-28 07:05:57 ;
+451 ; Walking outside ; 20141028_072005 ; 2014-10-28 07:20:25 ;
+452 ; Walking outside ; 20141028_072005 ; 2014-10-28 07:20:29 ;
+537 ; Walking outside ; 20141029_070548 ; 2014-10-29 07:06:14 ;
+538 ; Walking outside ; 20141029_070548 ; 2014-10-29 07:06:18 ;
+543 ; Walking outside ; 20141029_072044 ; 2014-10-29 07:21:27 ;
+544 ; Walking outside ; 20141029_072044 ; 2014-10-29 07:21:31 ;
+549 ; Walking outside ; 20141029_101425 ; 2014-10-29 10:14:38 ;
+550 ; Walking outside ; 20141029_101425 ; 2014-10-29 10:14:42 ;
+551 ; Walking outside ; 20141029_101449 ; 2014-10-29 10:15:01 ;
+552 ; Walking outside ; 20141029_101449 ; 2014-10-29 10:15:05 ;
+591 ; Walking outside ; 20141030_070238 ; 2014-10-30 07:05:04 ;
+592 ; Walking outside ; 20141030_070238 ; 2014-10-30 07:05:08 ;
+595 ; Walking outside ; 20141030_072037 ; 2014-10-30 07:20:49 ;
+596 ; Walking outside ; 20141030_072037 ; 2014-10-30 07:20:53 ;
+609 ; Walking outside ; 20141030_132457 ; 2014-10-30 13:25:11 ;
+610 ; Walking outside ; 20141030_132457 ; 2014-10-30 13:25:15 ;
+619 ; Walking outside ; 20141030_133836 ; 2014-10-30 13:38:51 ;
+620 ; Walking outside ; 20141030_133836 ; 2014-10-30 13:38:55 ;
+621 ; Walking outside ; 20141030_134324 ; 2014-10-30 13:43:38 ;
+622 ; Walking outside ; 20141030_134324 ; 2014-10-30 13:43:42 ;
+639 ; Walking outside ; 20141030_214716 ; 2014-10-30 21:47:28 ;
+640 ; Walking outside ; 20141030_214716 ; 2014-10-30 21:47:32 ;
+655 ; Walking outside ; 20141031_070515 ; 2014-10-31 07:05:29 ;
+656 ; Walking outside ; 20141031_070515 ; 2014-10-31 07:05:33 ;
+657 ; Walking outside ; 20141031_070541 ; 2014-10-31 07:05:53 ;
+658 ; Walking outside ; 20141031_070541 ; 2014-10-31 07:05:57 ;
+663 ; Walking outside ; 20141031_071930 ; 2014-10-31 07:19:44 ;
+664 ; Walking outside ; 20141031_071930 ; 2014-10-31 07:19:48 ;
+------------------------------------------------------------
+nexussensors18.db
+3 ; Walking outside ; 20141031_092952 ; 2014-10-31 09:30:07 ;
+4 ; Walking outside ; 20141031_092952 ; 2014-10-31 09:30:11 ;
+5 ; Walking outside ; 20141031_093103 ; 2014-10-31 09:31:18 ;
+6 ; Walking outside ; 20141031_093103 ; 2014-10-31 09:31:22 ;
+7 ; Walking outside ; 20141031_093130 ; 2014-10-31 09:31:43 ;
+8 ; Walking outside ; 20141031_093130 ; 2014-10-31 09:31:47 ;
+15 ; Walking outside ; 20141031_102120 ; 2014-10-31 10:21:31 ;
+16 ; Walking outside ; 20141031_102120 ; 2014-10-31 10:21:36 ;
+17 ; Walking outside ; 20141031_102147 ; 2014-10-31 10:22:00 ;
+18 ; Walking outside ; 20141031_102147 ; 2014-10-31 10:22:04 ;
+19 ; Walking outside ; 20141031_102306 ; 2014-10-31 10:23:17 ;
+20 ; Walking outside ; 20141031_102306 ; 2014-10-31 10:23:21 ;
+35 ; Walking outside ; 20141031_155136 ; 2014-10-31 15:51:50 ;
+36 ; Walking outside ; 20141031_155136 ; 2014-10-31 15:51:54 ;
+105 ; Walking outside ; 20141101_161530 ; 2014-11-01 16:15:44 ;
+106 ; Walking outside ; 20141101_161530 ; 2014-11-01 16:15:48 ;
+145 ; Walking outside ; 20141102_142357 ; 2014-11-02 14:24:11 ;
+146 ; Walking outside ; 20141102_142357 ; 2014-11-02 14:24:15 ;
+147 ; Walking outside ; 20141102_142500 ; 2014-11-02 14:25:12 ;
+148 ; Walking outside ; 20141102_142500 ; 2014-11-02 14:25:16 ;
+185 ; Walking outside ; 20141103_070456 ; 2014-11-03 07:05:10 ;
+186 ; Walking outside ; 20141103_070456 ; 2014-11-03 07:05:14 ;
+187 ; Walking outside ; 20141103_070525 ; 2014-11-03 07:05:37 ;
+188 ; Walking outside ; 20141103_070525 ; 2014-11-03 07:05:41 ;
+195 ; Walking outside ; 20141103_072108 ; 2014-11-03 07:21:24 ;
+196 ; Walking outside ; 20141103_072108 ; 2014-11-03 07:21:29 ;
+199 ; Walking outside ; 20141103_092553 ; 2014-11-03 09:26:22 ;
+200 ; Walking outside ; 20141103_092553 ; 2014-11-03 09:26:26 ;
+209 ; Walking outside ; 20141103_103311 ; 2014-11-03 10:33:23 ;
+210 ; Walking outside ; 20141103_103311 ; 2014-11-03 10:33:27 ;
+217 ; Walking outside ; 20141103_111857 ; 2014-11-03 11:19:05 ;
+218 ; Walking outside ; 20141103_111857 ; 2014-11-03 11:19:09 ;
+221 ; Walking outside ; 20141103_111942 ; 2014-11-03 11:19:55 ;
+222 ; Walking outside ; 20141103_111942 ; 2014-11-03 11:19:59 ;
+261 ; Walking outside ; 20141103_170739 ; 2014-11-03 17:07:53 ;
+262 ; Walking outside ; 20141103_170739 ; 2014-11-03 17:07:57 ;
+291 ; Walking outside ; 20141104_091033 ; 2014-11-04 09:10:47 ;
+292 ; Walking outside ; 20141104_091033 ; 2014-11-04 09:10:52 ;
+293 ; Walking outside ; 20141104_092548 ; 2014-11-04 09:26:30 ;
+294 ; Walking outside ; 20141104_092548 ; 2014-11-04 09:26:34 ;
+295 ; Walking outside ; 20141104_103245 ; 2014-11-04 10:32:59 ;
+296 ; Walking outside ; 20141104_103245 ; 2014-11-04 10:33:03 ;
+315 ; Walking outside ; 20141104_172214 ; 2014-11-04 17:22:30 ;
+316 ; Walking outside ; 20141104_172214 ; 2014-11-04 17:22:34 ;
+364 ; Walking outside ; 20141105_070426 ; 2014-11-05 07:04:43 ;
+365 ; Walking outside ; 20141105_070426 ; 2014-11-05 07:04:47 ;
+366 ; Walking outside ; 20141105_070457 ; 2014-11-05 07:05:14 ;
+367 ; Walking outside ; 20141105_070457 ; 2014-11-05 07:05:18 ;
+368 ; Walking outside ; 20141105_070539 ; 2014-11-05 07:05:57 ;
+369 ; Walking outside ; 20141105_070539 ; 2014-11-05 07:06:01 ;
+376 ; Walking outside ; 20141105_092530 ; 2014-11-05 09:25:46 ;
+377 ; Walking outside ; 20141105_092530 ; 2014-11-05 09:25:50 ;
+378 ; Walking outside ; 20141105_092612 ; 2014-11-05 09:26:24 ;
+379 ; Walking outside ; 20141105_092612 ; 2014-11-05 09:26:28 ;
+380 ; Walking outside ; 20141105_102042 ; 2014-11-05 10:21:09 ;
+381 ; Walking outside ; 20141105_102042 ; 2014-11-05 10:21:13 ;
+382 ; Walking outside ; 20141105_112249 ; 2014-11-05 11:23:01 ;
+383 ; Walking outside ; 20141105_112249 ; 2014-11-05 11:23:05 ;
+384 ; Walking outside ; 20141105_112320 ; 2014-11-05 11:23:32 ;
+385 ; Walking outside ; 20141105_112320 ; 2014-11-05 11:23:36 ;
+386 ; Walking outside ; 20141105_112344 ; 2014-11-05 11:23:56 ;
+387 ; Walking outside ; 20141105_112344 ; 2014-11-05 11:24:00 ;
+464 ; Walking outside ; 20141106_070407 ; 2014-11-06 07:04:30 ;
+465 ; Walking outside ; 20141106_070407 ; 2014-11-06 07:04:34 ;
+466 ; Walking outside ; 20141106_070445 ; 2014-11-06 07:04:57 ;
+467 ; Walking outside ; 20141106_070445 ; 2014-11-06 07:05:01 ;
+468 ; Walking outside ; 20141106_070547 ; 2014-11-06 07:05:55 ;
+469 ; Walking outside ; 20141106_070547 ; 2014-11-06 07:05:59 ;
+476 ; Walking outside ; 20141106_071952 ; 2014-11-06 07:20:05 ;
+477 ; Walking outside ; 20141106_071952 ; 2014-11-06 07:20:09 ;
+478 ; Walking outside ; 20141106_072025 ; 2014-11-06 07:20:37 ;
+479 ; Walking outside ; 20141106_072025 ; 2014-11-06 07:20:41 ;
+480 ; Walking outside ; 20141106_091050 ; 2014-11-06 09:11:04 ;
+481 ; Walking outside ; 20141106_091117 ; 2014-11-06 09:11:31 ;
+482 ; Walking outside ; 20141106_091117 ; 2014-11-06 09:11:36 ;
+635 ; Walking outside ; 20141106_194842 ; 2014-11-06 19:48:49 ;
+636 ; Walking outside ; 20141106_194842 ; 2014-11-06 19:48:53 ;
+687 ; Walking outside ; 20141107_070545 ; 2014-11-07 07:05:52 ;
+688 ; Walking outside ; 20141107_070545 ; 2014-11-07 07:05:56 ;
+689 ; Walking outside ;  ; 2014-11-07 07:06:18 ;
+690 ; Walking outside ;  ; 2014-11-07 07:06:22 ;
+691 ; Walking outside ; 20141107_070636 ; 2014-11-07 07:06:43 ;
+692 ; Walking outside ; 20141107_070636 ; 2014-11-07 07:06:48 ;
+701 ; Walking outside ; 20141107_071920 ; 2014-11-07 07:19:27 ;
+702 ; Walking outside ; 20141107_071920 ; 2014-11-07 07:19:31 ;
+703 ; Walking outside ;  ; 2014-11-07 07:20:12 ;
+704 ; Walking outside ;  ; 2014-11-07 07:20:16 ;
+705 ; Walking outside ; 20141107_091945 ; 2014-11-07 09:19:52 ;
+706 ; Walking outside ; 20141107_091945 ; 2014-11-07 09:19:56 ;
+707 ; Walking outside ;  ; 2014-11-07 09:20:29 ;
+708 ; Walking outside ;  ; 2014-11-07 09:20:33 ;
+709 ; Walking outside ; 20141107_092042 ; 2014-11-07 09:20:49 ;
+710 ; Walking outside ; 20141107_092042 ; 2014-11-07 09:20:53 ;
+711 ; Walking outside ; 20141107_092102 ; 2014-11-07 09:21:09 ;
+712 ; Walking outside ; 20141107_092102 ; 2014-11-07 09:21:13 ;
+738 ; Walking outside ; 20141107_100300 ; 2014-11-07 10:03:07 ;
+739 ; Walking outside ; 20141107_100300 ; 2014-11-07 10:03:12 ;
+740 ; Walking outside ;  ; 2014-11-07 10:03:31 ;
+741 ; Walking outside ; 20141107_100335 ; 2014-11-07 10:03:35 ;
+742 ; Walking outside ;  ; 2014-11-07 10:03:42 ;
+829 ; Walking outside ;  ; 2014-11-07 13:09:51 ;
+830 ; Walking outside ;  ; 2014-11-07 13:09:55 ;
+831 ; Walking outside ; 20141107_131007 ; 2014-11-07 13:10:14 ;
+832 ; Walking outside ; 20141107_131007 ; 2014-11-07 13:10:18 ;
+1007 ; Walking outside ; 20141110_070605 ; 2014-11-10 07:06:12 ;
+1008 ; Walking outside ; 20141110_070605 ; 2014-11-10 07:06:16 ;
+1009 ; Walking outside ;  ; 2014-11-10 07:06:40 ;
+1010 ; Walking outside ;  ; 2014-11-10 07:06:45 ;
+1023 ; Walking outside ; 20141110_092343 ; 2014-11-10 09:23:50 ;
+1024 ; Walking outside ; 20141110_092343 ; 2014-11-10 09:23:54 ;
+1025 ; Walking outside ;  ; 2014-11-10 09:24:16 ;
+1026 ; Walking outside ;  ; 2014-11-10 09:24:20 ;
+1027 ; Walking outside ; 20141110_092430 ; 2014-11-10 09:24:37 ;
+1028 ; Walking outside ; 20141110_092430 ; 2014-11-10 09:24:41 ;
+1039 ; Walking outside ; 20141110_103142 ; 2014-11-10 10:31:49 ;
+1040 ; Walking outside ; 20141110_103142 ; 2014-11-10 10:31:53 ;
+1041 ; Walking outside ; 20141110_103202 ; 2014-11-10 10:32:09 ;
+1042 ; Walking outside ; 20141110_103202 ; 2014-11-10 10:32:14 ;
+1043 ; Walking outside ; 20141110_103229 ; 2014-11-10 10:32:36 ;
+1044 ; Walking outside ; 20141110_103229 ; 2014-11-10 10:32:40 ;
+1270 ; Walking outside ; 20141112_070458 ; 2014-11-12 07:05:05 ;
+1271 ; Walking outside ; 20141112_070458 ; 2014-11-12 07:05:09 ;
+1272 ; Walking outside ;  ; 2014-11-12 07:05:41 ;
+1273 ; Walking outside ;  ; 2014-11-12 07:05:45 ;
+1284 ; Walking outside ; 20141112_094731 ; 2014-11-12 09:47:38 ;
+1285 ; Walking outside ; 20141112_094731 ; 2014-11-12 09:47:42 ;
+1286 ; Walking outside ;  ; 2014-11-12 09:48:03 ;
+1287 ; Walking outside ;  ; 2014-11-12 09:48:07 ;
+1294 ; Walking outside ; 20141112_105631 ; 2014-11-12 10:56:38 ;
+1295 ; Walking outside ; 20141112_105631 ; 2014-11-12 10:56:42 ;
+1296 ; Walking outside ;  ; 2014-11-12 10:57:02 ;
+1297 ; Walking outside ;  ; 2014-11-12 10:57:06 ;
+1394 ; Walking outside ; 20141113_070517 ; 2014-11-13 07:05:24 ;
+1395 ; Walking outside ; 20141113_070517 ; 2014-11-13 07:05:28 ;
+1396 ; Walking outside ;  ; 2014-11-13 07:05:50 ;
+1397 ; Walking outside ;  ; 2014-11-13 07:05:54 ;
+1502 ; Walking outside ; 20141114_070515 ; 2014-11-14 07:05:22 ;
+1503 ; Walking outside ; 20141114_070515 ; 2014-11-14 07:05:26 ;
+1504 ; Walking outside ;  ; 2014-11-14 07:05:50 ;
+1505 ; Walking outside ;  ; 2014-11-14 07:05:54 ;
+1514 ; Walking outside ; 20141114_091116 ; 2014-11-14 09:11:23 ;
+1515 ; Walking outside ; 20141114_091116 ; 2014-11-14 09:11:27 ;
+1516 ; Walking outside ;  ; 2014-11-14 09:11:47 ;
+1517 ; Walking outside ;  ; 2014-11-14 09:11:51 ;
+1518 ; Walking outside ; 20141114_093835 ; 2014-11-14 09:38:42 ;
+1519 ; Walking outside ; 20141114_093835 ; 2014-11-14 09:38:46 ;
+1566 ; Walking outside ; 20141114_122452 ; 2014-11-14 12:24:59 ;
+1567 ; Walking outside ; 20141114_122452 ; 2014-11-14 12:25:03 ;
+1928 ; Walking outside ;  ; 2014-11-18 09:30:16 ;
+1929 ; Walking outside ;  ; 2014-11-18 09:30:20 ;
+1930 ; Walking outside ; 20141118_093043 ; 2014-11-18 09:30:50 ;
+1931 ; Walking outside ; 20141118_093043 ; 2014-11-18 09:30:54 ;
+2388 ; Walking outside ; 20141208_070626 ; 2014-12-08 07:06:33 ;
+2389 ; Walking outside ; 20141208_070626 ; 2014-12-08 07:06:37 ;
+3082 ; Walking outside ;  ; 2015-03-10 09:06:22 ;
+3083 ; Walking outside ;  ; 2015-03-10 09:06:26 ;
+3136 ; Walking outside ; 20150508_171113 ; 2015-05-08 17:11:20 ;
+3137 ; Walking outside ; 20150508_171113 ; 2015-05-08 17:11:24 ;
+3138 ; Walking outside ;  ; 2015-05-08 17:11:41 ;
+3139 ; Walking outside ;  ; 2015-05-08 17:11:45 ;
+3140 ; Walking outside ; 20150508_171301 ; 2015-05-08 17:13:08 ;
+3141 ; Walking outside ; 20150508_171301 ; 2015-05-08 17:13:12 ;
+3142 ; Walking outside ; 20150508_171333 ; 2015-05-08 17:13:40 ;
+3143 ; Walking outside ; 20150508_171333 ; 2015-05-08 17:13:44 ;
+3144 ; Walking outside ; 20150508_171401 ; 2015-05-08 17:14:08 ;
+3145 ; Walking outside ; 20150508_171401 ; 2015-05-08 17:14:12 ;
+3146 ; Walking outside ; 20150508_171433 ; 2015-05-08 17:14:40 ;
+3147 ; Walking outside ; 20150508_171433 ; 2015-05-08 17:14:44 ;
+3148 ; Walking outside ; 20150508_171456 ; 2015-05-08 17:15:03 ;
+3149 ; Walking outside ; 20150508_171456 ; 2015-05-08 17:15:07 ;
+3150 ; Walking outside ; 20150508_171522 ; 2015-05-08 17:15:29 ;
+3151 ; Walking outside ; 20150508_171522 ; 2015-05-08 17:15:33 ;
+3152 ; Walking outside ; 20150508_171547 ; 2015-05-08 17:15:54 ;
+3153 ; Walking outside ; 20150508_171547 ; 2015-05-08 17:15:58 ;
+3154 ; Walking outside ; 20150508_171611 ; 2015-05-08 17:16:18 ;
+3155 ; Walking outside ; 20150508_171611 ; 2015-05-08 17:16:22 ;
+3156 ; Walking outside ; 20150508_171638 ; 2015-05-08 17:16:45 ;
+3157 ; Walking outside ; 20150508_171638 ; 2015-05-08 17:16:49 ;
+3164 ; Walking outside ; 20150508_174331 ; 2015-05-08 17:43:38 ;
+3165 ; Walking outside ; 20150508_174331 ; 2015-05-08 17:43:43 ;
+3166 ; Walking outside ; 20150508_174357 ; 2015-05-08 17:44:04 ;
+3167 ; Walking outside ; 20150508_174357 ; 2015-05-08 17:44:08 ;
+3168 ; Walking outside ; 20150508_174421 ; 2015-05-08 17:44:28 ;
+3169 ; Walking outside ; 20150508_174421 ; 2015-05-08 17:44:33 ;
+3170 ; Walking outside ; 20150508_174447 ; 2015-05-08 17:44:54 ;
+3171 ; Walking outside ; 20150508_174447 ; 2015-05-08 17:44:58 ;
+------------------------------------------------------------
+nexussensors7.db
+235 ; Walking outside ; 20141006_093822 ; 2014-10-06 10:12:31 ;
+236 ; Walking outside ; 20141006_093822 ; 2014-10-06 10:12:35 ;
+------------------------------------------------------------
+adlrecord5.db
+------------------------------------------------------------
+adlrecord6.db
+------------------------------------------------------------
+adlrecordMiami.db
+------------------------------------------------------------
+nexussensors10.db
+------------------------------------------------------------
+nexussensors13.db
+167 ; Waiting for a bus ;  ; 2014-10-15 18:53:33 ;
+168 ; Waiting for a bus ;  ; 2014-10-15 18:53:37 ;
+179 ; Waiting for a bus ;  ; 2014-10-16 07:06:27 ;
+180 ; Waiting for a bus ;  ; 2014-10-16 07:06:31 ;
+------------------------------------------------------------
+nexussensors16.db
+15 ; Waiting for a bus ; 20141017_125603 ; 2014-10-17 12:56:27 ;
+16 ; Waiting for a bus ; 20141017_125603 ; 2014-10-17 12:56:31 ;
+------------------------------------------------------------
+nexussensors17.db
+9 ; Waiting for a bus ; 20141020_115951 ; 2014-10-20 11:59:59 ;
+10 ; Waiting for a bus ; 20141020_115951 ; 2014-10-20 12:00:03 ;
+11 ; Waiting for a bus ; 20141020_120020 ; 2014-10-20 12:00:28 ;
+12 ; Waiting for a bus ; 20141020_120020 ; 2014-10-20 12:00:32 ;
+35 ; Waiting for a bus ; 20141020_181942 ; 2014-10-20 18:20:25 ;
+36 ; Waiting for a bus ; 20141020_181942 ; 2014-10-20 18:20:29 ;
+409 ; Waiting for a bus ; 20141027_122515 ; 2014-10-27 12:25:28 ;
+410 ; Waiting for a bus ; 20141027_122515 ; 2014-10-27 12:25:32 ;
+455 ; Waiting for a bus ; 20141028_092242 ; 2014-10-28 09:22:58 ;
+456 ; Waiting for a bus ; 20141028_092242 ; 2014-10-28 09:23:02 ;
+539 ; Waiting for a bus ; 20141029_070633 ; 2014-10-29 07:06:54 ;
+540 ; Waiting for a bus ; 20141029_070633 ; 2014-10-29 07:06:58 ;
+553 ; Waiting for a bus ; 20141029_102302 ; 2014-10-29 10:23:24 ;
+554 ; Waiting for a bus ; 20141029_102302 ; 2014-10-29 10:23:28 ;
+611 ; Waiting for a bus ; 20141030_132536 ; 2014-10-30 13:25:52 ;
+612 ; Waiting for a bus ; 20141030_132536 ; 2014-10-30 13:25:57 ;
+------------------------------------------------------------
+nexussensors18.db
+483 ; Waiting for a bus ; 20141106_092247 ; 2014-11-06 09:23:07 ;
+484 ; Waiting for a bus ; 20141106_092247 ; 2014-11-06 09:23:11 ;
+485 ; Waiting for a bus ; 20141106_092547 ; 2014-11-06 09:26:04 ;
+486 ; Waiting for a bus ; 20141106_092547 ; 2014-11-06 09:26:08 ;
+743 ; Waiting for a bus ; 20141107_100415 ; 2014-11-07 10:04:22 ;
+744 ; Waiting for a bus ; 20141107_100415 ; 2014-11-07 10:04:26 ;
+745 ; Waiting for a bus ; 20141107_100439 ; 2014-11-07 10:04:46 ;
+746 ; Waiting for a bus ; 20141107_100439 ; 2014-11-07 10:04:50 ;
+747 ; Waiting for a bus ;  ; 2014-11-07 10:05:26 ;
+748 ; Waiting for a bus ;  ; 2014-11-07 10:05:30 ;
+833 ; Waiting for a bus ; 20141107_131058 ; 2014-11-07 13:11:05 ;
+834 ; Waiting for a bus ; 20141107_131058 ; 2014-11-07 13:11:09 ;
+1150 ; Waiting for a bus ; 20141111_092439 ; 2014-11-11 09:24:46 ;
+1151 ; Waiting for a bus ; 20141111_092439 ; 2014-11-11 09:24:50 ;
+1152 ; Waiting for a bus ;  ; 2014-11-11 09:25:07 ;
+1153 ; Waiting for a bus ;  ; 2014-11-11 09:25:11 ;
+1154 ; Waiting for a bus ; 20141111_092528 ; 2014-11-11 09:25:35 ;
+1155 ; Waiting for a bus ; 20141111_092528 ; 2014-11-11 09:25:39 ;
+1156 ; Waiting for a bus ; 20141111_092558 ; 2014-11-11 09:26:05 ;
+1157 ; Waiting for a bus ; 20141111_092558 ; 2014-11-11 09:26:09 ;
+1298 ; Waiting for a bus ; 20141112_105734 ; 2014-11-12 10:57:41 ;
+1299 ; Waiting for a bus ; 20141112_105734 ; 2014-11-12 10:57:45 ;
+1526 ; Waiting for a bus ; 20141114_094910 ; 2014-11-14 09:49:17 ;
+1527 ; Waiting for a bus ; 20141114_094910 ; 2014-11-14 09:49:21 ;
+3114 ; Waiting for a bus ; 20150508_141130 ; 2015-05-08 14:11:37 ;
+3115 ; Waiting for a bus ; 20150508_141130 ; 2015-05-08 14:11:41 ;
+3172 ; Waiting for a bus ; 20150508_175139 ; 2015-05-08 17:51:46 ;
+3173 ; Waiting for a bus ; 20150508_175139 ; 2015-05-08 17:51:50 ;
+------------------------------------------------------------
+nexussensors7.db
+------------------------------------------------------------

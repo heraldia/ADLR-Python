@@ -1,17 +1,22 @@
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors10.db
-326
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors13.db
-196
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors14.db
-2
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors16.db
-114
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors17.db
-664
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors18.db
-1785
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors7.db
-420
-c:/Users/Phil/workspace/NexusSensors/DbRecords\nexussensors9.db
-4
-Total number of records is 3511 .
+database info:{{{1
+
+db\adlrecord5.db
+2015-05-08 22:30:01 ; 2015-05-09 12:16:49 ; 128
+db\adlrecord6.db
+2015-05-13 21:22:27 ; 2015-06-02 13:13:34 ; 164
+db\adlrecordMiami.db
+2015-06-04 01:11:38 ; 2015-06-05 18:33:40 ; 31
+db\nexussensors10.db
+2014-10-07 07:05:36 ; 2014-10-12 18:19:21 ; 326
+db\nexussensors13.db
+2014-10-12 20:03:47 ; 2014-10-16 11:29:54 ; 196
+db\nexussensors16.db
+2014-10-17 10:39:34 ; 2014-10-20 07:10:26 ; 114
+db\nexussensors17.db
+2014-10-20 11:13:57 ; 2014-10-31 07:19:48 ; 664
+db\nexussensors18.db
+2014-10-31 08:46:56 ; 2015-05-13 08:36:42 ; 3212
+db\nexussensors7.db
+2014-10-05 18:39:56 ; 2014-10-06 18:17:45 ; 420
+
+Total number of records is 5255 .

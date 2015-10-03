@@ -1,5 +1,7 @@
 # http://anony3721.blog.163.com/blog/static/5119742010716104442536/
 import sqlite3
+import glob
+from delDuplicates import *
 
 DBCOUNT = 18
 
@@ -60,15 +62,15 @@ def select(sequenceNum, action='NULL'):
         print
     #print '-'*60
 
-def indoorActionSound():
+def indoorActionSound(actionList):
+
     actionList = [\
     #'Working on PC at home', 'Walking at home',\
-    'Bathroom'
-
+    'Bathroom',\
     'Washing in bathroom',\
     'Washing dishes',\
     'Cooking',\
-   'Chopping',\
+    'Chopping',\
     'Breakfast',\
     'Lunch',\
     'Dinner',\
@@ -86,7 +88,93 @@ def indoorActionSound():
             # print '-----------%s'%sequenceNum+'-----------'
             select(sequenceNum, action)
 
-"""
+
+#2015-09-27 14:59:19
+def eventsSound(actionList):
+
+    for action in actionList:
+        #print ' -----------------%s-----------------'%action
+        '''
+        for sequenceNum in range(10, DBCOUNT+1):
+            if sequenceNum == 8 or sequenceNum ==11 or sequenceNum == 12 \
+               or sequenceNum == 15 :
+                   continue
+            # print '-----------%s'%sequenceNum+'-----------'
+            '''
+        select(action)
+
+
+#2015-9-27 17:25:18
+def select(action):
+    m_filename = action+".dat"
+    fp = open(m_filename,'w+')
+    for dbFilename in\
+    glob.glob(r'd:/class/Semester5/research/ADLRecorder/code/Android/DbRecords/db/*.db'):
+        conn = sqlite3.connect(dbFilename)
+        conn.isolation_level = None
+        cu = conn.cursor()
+        tempDbFilename = dbFilename.split('/')[-1][3:]
+        print tempDbFilename
+
+        #print tempDbFilename[-4]
+        if tempDbFilename[0]=='n' and (tempDbFilename[-4]=='3' or\
+            tempDbFilename[-4]=='0' or\
+            tempDbFilename[-4]=='9' or \
+            (tempDbFilename[-4]=='7' and \
+            tempDbFilename[-5]!='1')  ):
+            #sqlF = "select id, activity, soundFile, time from sensorspackage where activity= '%s'"%action
+            sqlF = "select soundFile, activity from sensorspackage where activity= '%s'"%action
+        else: #tempDbFilename[0]=='a':
+            #sqlF = "select id, action, soundFile, time from sensorspackage where action= '%s'"%action
+            sqlF = "select soundFile, action from sensorspackage where action= '%s'"%action
+
+        #print sqlF
+        cu.execute(sqlF)
+        res = cu.fetchall()
+        # print 'row:', cu.rowcount
+        if res is not None:
+            for line in res:
+                if (line[0] is not None) and line[0] !="":
+                    for f in line:
+                        if f is not None:
+                            print f,';',
+                            fp.write(f+';')
+                    fp.write('\n')
+                    print
+    fp.close()
+
+#2015-09-27 15:05:24
+def selectx(action):
+    for dbFilename in\
+    glob.glob(r'd:/class/Semester5/research/ADLRecorder/code/Android/DbRecords/db/*.db'):
+        conn = sqlite3.connect(dbFilename)
+        conn.isolation_level = None
+        cu = conn.cursor()
+        tempDbFilename = dbFilename.split('/')[-1][3:]
+        print tempDbFilename
+
+        #print tempDbFilename[-4]
+        if tempDbFilename[0]=='n' and (tempDbFilename[-4]=='3' or\
+            tempDbFilename[-4]=='0' or\
+            tempDbFilename[-4]=='9' or \
+            (tempDbFilename[-4]=='7' and \
+            tempDbFilename[-5]!='1')  ):
+            #sqlF = "select id, activity, soundFile, time from sensorspackage where activity= '%s'"%action
+            sqlF = "select soundFile, activity from sensorspackage where activity= '%s'"%action
+        else: #tempDbFilename[0]=='a':
+            #sqlF = "select id, action, soundFile, time from sensorspackage where action= '%s'"%action
+            sqlF = "select soundFile, action from sensorspackage where action= '%s'"%action
+
+        #print sqlF
+        cu.execute(sqlF)
+        res = cu.fetchall()
+        # print 'row:', cu.rowcount
+        for line in res:
+            for f in line:
+                print f,';',
+            print
+        print '-'*60
+
 def allAction():
     for sequenceNum in range(1, DBCOUNT+1):
         if sequenceNum == 8 or sequenceNum ==11 or sequenceNum == 12 \
@@ -94,10 +182,26 @@ def allAction():
                continue
         print '-----------%s'%sequenceNum+'-----------'
         select(sequenceNum)
-"""
 
 if __name__=="__main__":
     #print("main")
     #sequenceNum = 1
-    indoorActionSound()
+    #indoorActionSound()
     #singleAction()
+
+    actionList = [\
+    #'Working on PC at home', 'Walking at home',\
+    'Washing in bathroom',\
+    'Washing dishes',\
+    'Bathroom',\
+    'Cooking',\
+    'Bus',\
+    'Driving',\
+    'Walking outside',\
+    'Waiting for a bus']
+
+    eventsSound(actionList)
+    delDuplicates(actionList)
+    import os
+    os.system('del *.dat')
+    countP(actionList)
