@@ -1,0 +1,102 @@
+=== Run information ===
+
+Scheme:weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     lightanglehourlocation-weka.filters.unsupervised.attribute.Remove-R4
+Instances:    4388
+Attributes:   4
+              light
+              angle
+              hour
+              class
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=4 #classindex=3
+Network structure (nodes followed by parents)
+light(22): class 
+angle(21): class 
+hour(16): class 
+class(21): 
+LogScore Bayes: -37465.47433553416
+LogScore BDeu: -44893.140792517406
+LogScore MDL: -43520.13528164762
+LogScore ENTROPY: -38504.931246453336
+LogScore AIC: -39700.931246453336
+
+
+Time taken to build model: 0.02 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        3206               73.0629 %
+Incorrectly Classified Instances      1182               26.9371 %
+Kappa statistic                          0.6942
+Mean absolute error                      0.0351
+Root mean squared error                  0.1339
+Relative absolute error                 41.5695 %
+Root relative squared error             65.2012 %
+Total Number of Instances             4388     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.981     0.001      0.962     0.981     0.971      1        Amespubliclibrary
+                 0.807     0.029      0.74      0.807     0.772      0.977    Bathroombowel
+                 0.487     0.038      0.462     0.487     0.474      0.947    Bathroomfaucet
+                 0         0          0         0         0          0.924    Bathroomflushing
+                 0.365     0.021      0.463     0.365     0.409      0.947    Bathroompee
+                 1         0          1         1         1          1        Breakfast
+                 0.188     0.001      0.6       0.188     0.286      0.911    Chop
+                 0.658     0.06       0.59      0.658     0.622      0.911    Cooking
+                 0.876     0.029      0.792     0.876     0.832      0.985    Dinner
+                 0.825     0.003      0.77      0.825     0.797      0.997    Dinnerbedroom
+                 0.194     0.003      0.353     0.194     0.25       0.973    Gettingup
+                 0.182     0.001      0.4       0.182     0.25       0.94     LivingRoom
+                 0.942     0.015      0.889     0.942     0.915      0.996    Lunch
+                 0.851     0.009      0.857     0.851     0.854      0.995    Midnightsnack
+                 0.317     0.002      0.565     0.317     0.406      0.952    Nap
+                 0.727     0.003      0.421     0.727     0.533      0.985    PCoffice
+                 0.836     0.009      0.734     0.836     0.782      0.996    Sleep
+                 0.194     0.015      0.411     0.194     0.263      0.864    Washingdishes
+                 0.81      0.066      0.787     0.81      0.798      0.951    WorkingonPCathome
+                 0.872     0          0.971     0.872     0.919      0.999    gilman1353
+                 0.833     0          0.833     0.833     0.833      0.999    rs
+Weighted Avg.    0.731     0.035      0.714     0.731     0.717      0.959
+
+=== Confusion Matrix ===
+
+    b   c   d   e   f    g   h  r     i  l   m   n   o    j   k    q    s    a  p  t   u   <-- classified as
+  327   2                3   5                       5                 63                |   b = Bathroombowel
+    1 133      71           31  7    11      1   3   1             3   11                |   c = Bathroomfaucet
+    3  15       5               1                                                        |   d = Bathroomflushing
+       85   1  76           17  7    14          2   1                  4       1        |   e = Bathroompee
+                   15                                                                    |   f = Breakfast
+                                                                                  
+                         6  14  7            4                          1                |   g = Chop
+   11   5       4          333 19    28     29  15        1   1    1   59                |   h = Cooking
+    5  1        3        1  91 44    19     18   1   2    1        1   31                |   r = Washingdishes
+                                                                                  
+       11                   25  6   430          8        3             8                |   i = Dinner
+        1                    3  1        2                    4                          |   l = LivingRoom
+                3           14        9    472                          2              1 |   m = Lunch
+        1       2            8        2        234                23    5                |   n = Midnightsnack
+   10   2                       3     5      1      13                  7                |   o = Nap
+                                                                                  
+                                7                        47             3                |   j = Dinnerbedroom
+    3   1                    4           3                    6    1   13                |   k = Gettingup
+        3                             1         1                102    6                |   q = Sleep
+   81  19                   19  5    24      5       1    9   6    8  818    4 1   1     |   s = WorkingonPCathome
+                                                                                  
+    1                                                                   1  101           |   a = Amespubliclibrary
+                                                                        3       8        |   p = PCoffice
+                                                                        5         34     |   t = gilman1353
+                                             1                                         5 |   u = rs
+
+
+3+5+5+63+31+7+11+1+3+1+3+11+1+17+7+14+2+1+4+1+4+1+11+5+4+28+29+15+1+1+1+59+5+1+3+19+18+1+2+1+1+31+11+25+6+3+8+1+3+1+4+3+14+2+1+1+2+8+23+5+10+2+3+7+7+3+1+4+3+3+1+1+81+19+19+5+24+5+1+4+1+1+1+1+3+5+1
+= 769
+4388-769

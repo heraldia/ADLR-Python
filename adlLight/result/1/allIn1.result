@@ -1,0 +1,59 @@
+1-----------------------
+Test set == training set:
+BayseNet
+light+location+angle+hour
+89.93
+99.84
+
+location+angle+hour
+87.03
+99.98
+
+light+angle+hour
+76.16
+    error87.17
+83.73
+
+2-----10 fold cross-validation ------------------
+BayseNet
+light+location+angle+hour
+86.9189 %
+99.79 %
+
+location+angle+hour
+84.4349 %
+99.98% 
+
+light+angle+hour
+73.0629 %
+82.47 %
+
+3------with noisy wifi ---------------------
+BayseNet
+light+location+angle+hour
+76.3218 %
+83.89 \%
+
+location+angle+hour
+69.0747 %
+77.80%
+
+light+angle+hour
+76.1623 % 
+83.73 % 
+	    
+4-------lightanglehourlocationxAcceyAccezAccr-----
+lightanglehourlocationxAcceyAccezAccr
+noisy location
+77.0055 %
+84.50 %
+
+lightanglehourxAcceyAccezAccr
+76.732  %
+84.23%
+
+
+5------J48
+93.9152 %
+96.74 %
+

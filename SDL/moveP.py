@@ -78,6 +78,19 @@ def __moveP1(actionName):
     return actionPredicted
 
 
+'''
+return the files number in one folder.
+'''
+def visitDir(path):
+  for root,dirs,files in os.walk(path):
+      print root.split('\\')[-1].lstrip(),
+      print ": %d " % len(files)
+      '''
+        for filespath in files:
+                print os.path.join(root,filespath)
+                '''
+  print 'total number is %d'%len(sum([i[2] for i in os.walk(path)],[]))
+
 if __name__=="__main__":
     actionList = [\
     #'Working on PC at home', 'Walking at home',\
@@ -102,9 +115,6 @@ if __name__=="__main__":
 
     __moveP1(actionList[4].replace(' ',''))
     '''
-
-
-
-
-
+    path = 'd:\class\Semester5\\research\\audioProcessing\code\gmmHmm\hmm-speech-recognition-0.1\\audio\\'
+    visitDir(path)
 

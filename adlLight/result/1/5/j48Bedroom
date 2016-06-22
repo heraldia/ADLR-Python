@@ -1,0 +1,126 @@
+=== Run information ===
+
+Scheme:weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     lightanglehourlocationxAcceyAccezAccr-weka.filters.unsupervised.attribute.Remove-R4
+Instances:    1261
+Attributes:   7
+              light
+              angle
+              hour
+              xAcce
+              yAcce
+              zAccr
+              class
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+light <= 1
+|   hour <= 4
+|   |   yAcce <= 2: Sleep (86.0)
+|   |   yAcce > 2: WorkingonPCathome (3.0/1.0)
+|   hour > 4
+|   |   hour <= 22
+|   |   |   hour <= 10
+|   |   |   |   hour <= 7: Gettingup (5.0)
+|   |   |   |   hour > 7
+|   |   |   |   |   hour <= 8
+|   |   |   |   |   |   angle <= -10: WorkingonPCathome (5.0)
+|   |   |   |   |   |   angle > -10: Gettingup (6.0/1.0)
+|   |   |   |   |   hour > 8: Gettingup (3.0)
+|   |   |   hour > 10
+|   |   |   |   angle <= 138
+|   |   |   |   |   yAcce <= 1: WorkingonPCathome (27.0)
+|   |   |   |   |   yAcce > 1
+|   |   |   |   |   |   hour <= 18: Nap (3.0)
+|   |   |   |   |   |   hour > 18: WorkingonPCathome (2.0)
+|   |   |   |   angle > 138: Nap (4.0)
+|   |   hour > 22: Sleep (24.0/2.0)
+light > 1
+|   angle <= 120
+|   |   angle <= 96
+|   |   |   angle <= -47
+|   |   |   |   angle <= -55
+|   |   |   |   |   hour <= 9: Gettingup (3.0/1.0)
+|   |   |   |   |   hour > 9: WorkingonPCathome (14.0/1.0)
+|   |   |   |   angle > -55
+|   |   |   |   |   hour <= 16: Nap (3.0)
+|   |   |   |   |   hour > 16: Dinnerbedroom (10.0/1.0)
+|   |   |   angle > -47
+|   |   |   |   hour <= 0
+|   |   |   |   |   xAcce <= 0: WorkingonPCathome (43.0/2.0)
+|   |   |   |   |   xAcce > 0: Sleep (6.0)
+|   |   |   |   hour > 0
+|   |   |   |   |   zAccr <= 8
+|   |   |   |   |   |   xAcce <= 2: WorkingonPCathome (19.0)
+|   |   |   |   |   |   xAcce > 2
+|   |   |   |   |   |   |   light <= 26: Nap (3.0)
+|   |   |   |   |   |   |   light > 26: Gettingup (2.0)
+|   |   |   |   |   zAccr > 8: WorkingonPCathome (801.0/16.0)
+|   |   angle > 96
+|   |   |   hour <= 13
+|   |   |   |   hour <= 9: Gettingup (2.0)
+|   |   |   |   hour > 9
+|   |   |   |   |   light <= 59: WorkingonPCathome (30.0)
+|   |   |   |   |   light > 59: Gettingup (4.0/1.0)
+|   |   |   hour > 13
+|   |   |   |   hour <= 16
+|   |   |   |   |   light <= 5: WorkingonPCathome (6.0)
+|   |   |   |   |   light > 5
+|   |   |   |   |   |   yAcce <= 2: Nap (24.0/1.0)
+|   |   |   |   |   |   yAcce > 2: WorkingonPCathome (3.0)
+|   |   |   |   hour > 16: WorkingonPCathome (38.0)
+|   angle > 120
+|   |   hour <= 20: WorkingonPCathome (32.0)
+|   |   hour > 20
+|   |   |   hour <= 22: Dinnerbedroom (45.0)
+|   |   |   hour > 22: Sleep (5.0)
+
+Number of Leaves  : 	31
+
+Size of the tree : 	61
+
+
+Time taken to build model: 0.04 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correctly Classified Instances        1234               97.8588 %
+Incorrectly Classified Instances        27                2.1412 %
+Kappa statistic                          0.9366
+Mean absolute error                      0.016 
+Root mean squared error                  0.0894
+Relative absolute error                 11.5196 %
+Root relative squared error             34.0282 %
+Total Number of Instances             1261     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.947     0.001      0.982     0.947     0.964      0.982    Dinnerbedroom
+                 0.71      0.002      0.88      0.71      0.786      0.906    Gettingup
+                 0.878     0.001      0.973     0.878     0.923      0.967    Nap
+                 0.975     0.002      0.983     0.975     0.979      0.999    Sleep
+                 0.993     0.08       0.98      0.993     0.987      0.97     WorkingonPCathome
+Weighted Avg.    0.979     0.064      0.978     0.979     0.978      0.972
+
+=== Confusion Matrix ===
+
+    a    b    c    d    e   <-- classified as
+   54    0    0    0    3 |    a = Dinnerbedroom
+
+    0   22    0    0    9 |    b = Gettingup
+    0    0   36    0    5 |    c = Nap
+    0    0    0  119    3 |    d = Sleep
+
+    1    3    1    2 1003 |    e = WorkingonPCathome
+
+3+9+5+3+1+3+1+2=27
+1261-27)/1261 = 97.86
+
+(3+1)/(54+3+1+3+1+2+1003)
+(9+5+3+3+1+2)/(22+9+36+5+119+3+3+1+2+1003)

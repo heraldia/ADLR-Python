@@ -1,0 +1,78 @@
+=== Run information ===
+
+Scheme:weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     lightanglehourlocationxAcceyAccezAccr-weka.filters.unsupervised.attribute.Remove-R4
+Instances:    2058
+Attributes:   7
+              light
+              angle
+              hour
+              xAcce
+              yAcce
+              zAccr
+              class
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=7 #classindex=6
+Network structure (nodes followed by parents)
+light(8): class 
+angle(23): class 
+hour(8): class 
+xAcce(5): class 
+yAcce(4): class 
+zAccr(2): class 
+class(8): 
+LogScore Bayes: -14224.761053966722
+LogScore BDeu: -15864.900370341215
+LogScore MDL: -15740.99503473605
+LogScore ENTROPY: -14371.501594743328
+LogScore AIC: -14730.501594743328
+
+
+Time taken to build model: 0.04 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correctly Classified Instances        1713               83.2362 %
+Incorrectly Classified Instances       345               16.7638 %
+Kappa statistic                          0.7863
+Mean absolute error                      0.0596
+Root mean squared error                  0.1742
+Relative absolute error                 30.0535 %
+Root relative squared error             55.3327 %
+Total Number of Instances             2058     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          1         1         1          1        Breakfast
+                 0         0          0         0         0          0.923    Chop
+                 0.812     0.096      0.734     0.812     0.771      0.928    Cooking
+                 0.904     0.044      0.865     0.904     0.884      0.984    Dinner
+                 0.909     0.001      0.769     0.909     0.833      1        LivingRoom
+                 0.978     0.027      0.921     0.978     0.949      0.994    Lunch
+                 0.956     0.013      0.92      0.956     0.938      0.998    Midnightsnack
+                 0.352     0.032      0.58      0.352     0.438      0.893    Washingdishes
+Weighted Avg.    0.832     0.046      0.809     0.832     0.817      0.964
+
+=== Confusion Matrix ===
+
+   a    d   e   f   g    b   c   h   <-- classified as
+  15    0   0   0   0    0   0   0 |   a = Breakfast
+   0  444   0   0  13    0  19  15 |   d = Dinner
+   0    0  10   0   0    0   1   0 |   e = LivingRoom
+   0    9   0 490   0    0   2   0 |   f = Lunch
+   0    4   1   0 263    0   6   1 |   g = Midnightsnack
+
+   0    0   0   3   0    0  18  11 |   b = Chop
+   0   32   1  22   9    0 411  31 |   c = Cooking
+   0   24   1  17   1    1 103  80 |   h = Washingdishes
+
+
+  1- (19+15+1+2+6+1+3+32+1+22+9+24+1+17+1)/2058 = 92.52
+   2058

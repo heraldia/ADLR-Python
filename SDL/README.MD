@@ -88,14 +88,12 @@ bathroom.mp3
 bashroomTowel.mp3        }
 
 2015-10-2 18:42:56
-
 files{
 countP.py   : analysis and count.
 moveP.py    : move files to here. 
-
+plotP.py    :   plot into pdf
 }
 
 2015-10-3 2:33:24 
-d:\class\Semester5\research\ADLRecorder\code\python\SDL\files\Bus\Bus_bathroomPee\
 to get mfcc
 

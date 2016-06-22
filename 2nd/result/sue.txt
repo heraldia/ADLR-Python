@@ -1,0 +1,52 @@
+d:\class\Semester5\research\ADLRecorder\code\Android\NexusSensors\DbRecords\AS\Sue\
+
+Does 'dry' means 'dry clothes'?
+Does 'lib' means 'ParksLibrary'?
+Please elaborate on the labels of 'fb', 'chat', 'vocabulary', 'class'. Where did they happen?
+
+The files for ['fb','lib','chat','vocabulary','class'] are:
+Living_20151207_090357.csv
+Living_20151229_172148.csv
+Living_20151229_172208.csv
+Living_20151230_132756.csv
+Living_20151230_162306.csv
+Living_20151230_162323.csv
+Living_20151230_162328.csv
+Living_20151230_173001.csv
+Living_20151230_173020.csv
+Living_20151230_181406.csv
+Living_20151230_181425.csv
+Living_20151230_183005.csv
+Living_20151230_183024.csv
+Living_20151230_183649.csv
+Living_20151230_183709.csv
+Living_20151230_190938.csv
+Living_20151230_190957.csv
+Living_20151230_212603.csv
+Living_20151230_215543.csv
+Living_20151230_215602.csv
+Living_20151231_122422.csv
+Living_20151231_122439.csv
+Living_20151231_122459.csv
+Living_20151231_123741.csv
+Living_20151231_123800.csv
+Living_20151231_123919.csv
+Living_20151231_123939.csv
+Living_20151231_183711.csv
+Living_20151231_183731.csv
+Living_20160101_235933.csv
+Living_20160101_235952.csv
+Living_20160102_172754.csv
+Living_20160102_175426.csv
+Living_20160115_130113.csv
+Living_20160115_130129.csv
+Living_20160115_130135.csv
+
+The summary of your ADL pool is : 
+['Bathroom', 'Snack', 'Driving', 'Studying', 'Gilman', 'Same', 'Faythe house', 'Nap', 'durham', 'Speech', 'chat', 'church', 'ParksLibrary', 'Bar', 'bake', 'black engineering', 'Working on PC at coover', 'lib', 'Eating', 'Hub', 'Boiling', 'thinking', 'studying', 'Sweeney', 'Midnight snack', 'New china', 'Working on PC at home', 'Lunch', 'nap', 'music', 'physics for women', 'WalkingAtHome', 'Working on PC ', 'TJ tea', 'mogolian grill', 'Pearson', 'laundry', 'Getting up', 'vocabulary', 'Science', 'Working on PC', 'Bedroom', 'VisitFriend', 'NewChina', 'Chop', 'Dinner', 'walmart', 'hyvee', 'Howe', 'cook', 'Mackay', 'Walking outside', 'class', 'science', 'dry', 'design', 'pearson', 'LivingRoom', 'Coover', 'Lied', 'ScienceII', 'study', 'fb', 'PlayingGo', 'dry clothes', 'MusicHall', 'Durham', 'Sleep', 'Bathroom flushing', 'neighbor', 'Bus', 'mu', 'Music', 'DiningRoom', 'Atanasoff', 'LebaronHall', 'readysledding', 'WaitingBus']
+
+'fb' is browsing Facebook.
+'chat' is chatting with friends using online app or face to face.
+'vocabulary' is memorizing vocabulary.
+If the date is 12/22~1/10 then I was in Faythe's house in Wisconsin.
+'class' should see the timing. Might be the 228 data structure class. If so it was in Carver Hall.

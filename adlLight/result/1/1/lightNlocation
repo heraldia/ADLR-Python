@@ -1,0 +1,96 @@
+=== Run information ===
+
+Scheme:weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     lightanglehourlocation
+Instances:    4388
+Attributes:   5
+              light
+              angle
+              hour
+              location
+              class
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=5 #classindex=4
+Network structure (nodes followed by parents)
+light(22): class 
+angle(21): class 
+hour(16): class 
+location(8): class 
+class(21): 
+LogScore Bayes: -37777.96448213105
+LogScore BDeu: -45943.95815169814
+LogScore MDL: -44599.402214459806
+LogScore ENTROPY: -38967.78096089298
+LogScore AIC: -40310.78096089298
+
+
+Time taken to build model: 0.03 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correctly Classified Instances        3946               89.9271 %
+Incorrectly Classified Instances       442               10.0729 %
+Kappa statistic                          0.8858
+Mean absolute error                      0.0145
+Root mean squared error                  0.0835
+Relative absolute error                 17.2449 %
+Root relative squared error             40.6692 %
+Total Number of Instances             4388     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          1         1         1          1        Amespubliclibrary
+                 0.993     0.002      0.978     0.993     0.985      1        Bathroombowel
+                 0.692     0.024      0.659     0.692     0.675      0.984    Bathroomfaucet
+                 0         0          0         0         0          0.978    Bathroomflushing
+                 0.596     0.02       0.593     0.596     0.595      0.981    Bathroompee
+                 1         0          1         1         1          1        Breakfast
+                 0.188     0.001      0.667     0.188     0.293      0.977    Chop
+                 0.966     0.035      0.784     0.966     0.865      0.986    Cooking
+                 0.984     0.003      0.974     0.984     0.979      1        Dinner
+                 0.947     0.001      0.947     0.947     0.947      0.999    Dinnerbedroom
+                 0.484     0.001      0.75      0.484     0.588      0.996    Gettingup
+                 0.545     0          1         0.545     0.706      0.998    LivingRoom
+                 0.982     0.001      0.99      0.982     0.986      1        Lunch
+                 0.982     0.002      0.971     0.982     0.976      1        Midnightsnack
+                 0.732     0.001      0.909     0.732     0.811      0.996    Nap
+                 1         0          0.917     1         0.957      1        PCoffice
+                 0.951     0.002      0.921     0.951     0.935      0.999    Sleep
+                 0.458     0.006      0.794     0.458     0.581      0.972    Washingdishes
+                 0.982     0.01       0.967     0.982     0.974      0.998    WorkingonPCathome
+                 1         0          0.951     1         0.975      1        gilman1353
+                 1         0          1         1         1          1        rs
+Weighted Avg.    0.899     0.01       0.894     0.899     0.892      0.994
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   <-- classified as
+ 103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   a = Amespubliclibrary
+   0 402   2   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0 |   b = Bathroombowel
+   0   4 189   0  80   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   c = Bathroomfaucet
+   0   3  16   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   d = Bathroomflushing
+   0   2  78   1 124   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0 |   e = Bathroompee
+   0   0   0   0   0  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   f = Breakfast
+   0   0   0   0   0   0   6  16   0   0   0   0   0   0   0   0   0  10   0   0   0 |   g = Chop
+   0   0   0   0   0   0   0 489   0   0   0   0   0   0   0   0   0  17   0   0   0 |   h = Cooking
+   0   0   0   0   0   0   0   0 483   0   0   0   0   8   0   0   0   0   0   0   0 |   i = Dinner
+   0   0   0   0   0   0   0   0   0  54   0   0   0   0   0   0   0   0   3   0   0 |   j = Dinnerbedroom
+   0   0   0   0   0   0   0   0   0   0  15   0   0   0   0   0   1   0  15   0   0 |   k = Gettingup
+   0   0   0   0   0   0   0   0   0   0   0   6   5   0   0   0   0   0   0   0   0 |   l = LivingRoom
+   0   0   0   0   0   0   0   0   9   0   0   0 492   0   0   0   0   0   0   0   0 |   m = Lunch
+   0   0   1   0   0   0   0   0   4   0   0   0   0 270   0   0   0   0   0   0   0 |   n = Midnightsnack
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0  30   0   1   0  10   0   0 |   o = Nap
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  11   0   0   0   0   0 |   p = PCoffice
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 116   0   6   0   0 |   q = Sleep
+   0   0   0   0   0   0   3 119   0   1   0   0   0   0   0   0   0 104   0   0   0 |   r = Washingdishes
+   0   0   1   0   0   0   0   0   0   2   5   0   0   0   2   0   8   0 992   0   0 |   s = WorkingonPCathome
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  39   0 |   t = gilman1353
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6 |   u = rs
+

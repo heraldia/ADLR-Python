@@ -40,9 +40,6 @@ rm -r wifi/model & rm -r wifi/*.file & rm -r wifi/predictions
 jobs
 nohup ./svm_multiclass_learn -c 5000 audio/combine_train.dat audio/model >train_out.file &
 
-
-
-
 -------------to just retrieve wifiFingerPrinting.db records-----------
 0.
 python db.py > wifiFingerPrinting.txt

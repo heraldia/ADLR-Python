@@ -3,7 +3,7 @@ from collections import Counter
 import os
 
 def countP():
-    files = '.\sound\*.dat'
+    files = './experiment/2/soundAnalysis/*.dat'
     for filename in glob.glob(files):
         listy = __getListx(filename)
         c = Counter(listy)

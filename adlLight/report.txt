@@ -1,0 +1,8 @@
+A very interesting observation:
+After importing light level sensor data, the Correctly Classified Instances improve from
+701               39.2717 %
+to       1148               64.3137 %.
+
+Total Number of Instances       is      1785     .
+Classifier: BayesNetwork.
+

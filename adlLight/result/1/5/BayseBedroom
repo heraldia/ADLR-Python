@@ -1,0 +1,70 @@
+=== Run information ===
+
+Scheme:weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     lightanglehourlocationxAcceyAccezAccr-weka.filters.unsupervised.attribute.Remove-R4
+Instances:    1261
+Attributes:   7
+              light
+              angle
+              hour
+              xAcce
+              yAcce
+              zAccr
+              class
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=7 #classindex=6
+Network structure (nodes followed by parents)
+light(5): class 
+angle(11): class 
+hour(11): class 
+xAcce(4): class 
+yAcce(2): class 
+zAccr(2): class 
+class(5): 
+LogScore Bayes: -7789.061820916104
+LogScore BDeu: -8313.261429157585
+LogScore MDL: -8330.698888914132
+LogScore ENTROPY: -7798.794193884746
+LogScore AIC: -7947.794193884746
+
+
+Time taken to build model: 0.03 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correctly Classified Instances        1188               94.2109 %
+Incorrectly Classified Instances        73                5.7891 %
+Kappa statistic                          0.8239
+Mean absolute error                      0.0325
+Root mean squared error                  0.1304
+Relative absolute error                 23.3804 %
+Root relative squared error             49.6254 %
+Total Number of Instances             1261     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.947     0          1         0.947     0.973      0.997    Dinnerbedroom
+                 0.452     0.007      0.609     0.452     0.519      0.966    Gettingup
+                 0.585     0.007      0.75      0.585     0.658      0.99     Nap
+                 0.885     0.005      0.947     0.885     0.915      0.998    Sleep
+                 0.978     0.199      0.952     0.978     0.965      0.97     WorkingonPCathome
+Weighted Avg.    0.942     0.16       0.939     0.942     0.939      0.974
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  54   0   0   0   3 |   a = Dinnerbedroom
+   0  14   0   1  16 |   b = Gettingup
+   0   0  24   0  17 |   c = Nap
+   0   0   0 108  14 |   d = Sleep
+   0   9   8   5 988 |   e = WorkingonPCathome
+
+   3+16+17+14+5+8+9
+   (1261-72)/1261 = 94.29

@@ -1,0 +1,287 @@
+=== Run information ===
+
+Scheme:weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     lightanglehourlocationxAcceyAccezAccr-weka.filters.unsupervised.attribute.Remove-R4
+Instances:    2058
+Attributes:   7
+              light
+              angle
+              hour
+              xAcce
+              yAcce
+              zAccr
+              class
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+hour <= 15
+|   hour <= 8
+|   |   angle <= 132
+|   |   |   light <= 2
+|   |   |   |   hour <= 4: Midnightsnack (6.0)
+|   |   |   |   hour > 4: LivingRoom (6.0)
+|   |   |   light > 2
+|   |   |   |   angle <= -126
+|   |   |   |   |   hour <= 2
+|   |   |   |   |   |   hour <= 0: Cooking (17.0)
+|   |   |   |   |   |   hour > 0: Midnightsnack (6.0)
+|   |   |   |   |   hour > 2: Cooking (24.0)
+|   |   |   |   angle > -126
+|   |   |   |   |   light <= 31
+|   |   |   |   |   |   hour <= 0: Washingdishes (3.0)
+|   |   |   |   |   |   hour > 0
+|   |   |   |   |   |   |   yAcce <= -1: Cooking (8.0)
+|   |   |   |   |   |   |   yAcce > -1
+|   |   |   |   |   |   |   |   angle <= -95: Cooking (44.0/2.0)
+|   |   |   |   |   |   |   |   angle > -95: Washingdishes (7.0/1.0)
+|   |   |   |   |   light > 31: Washingdishes (8.0/2.0)
+|   |   angle > 132
+|   |   |   hour <= 4
+|   |   |   |   xAcce <= -3: Dinner (3.0)
+|   |   |   |   xAcce > -3
+|   |   |   |   |   hour <= 0
+|   |   |   |   |   |   light <= 36.28: Midnightsnack (15.0)
+|   |   |   |   |   |   light > 36.28: Dinner (4.0)
+|   |   |   |   |   hour > 0: Midnightsnack (125.0/1.0)
+|   |   |   hour > 4: Breakfast (15.0)
+|   hour > 8
+|   |   angle <= 136
+|   |   |   angle <= -140
+|   |   |   |   light <= 16
+|   |   |   |   |   hour <= 12
+|   |   |   |   |   |   angle <= -166
+|   |   |   |   |   |   |   hour <= 11: Chop (5.0/2.0)
+|   |   |   |   |   |   |   hour > 11: Lunch (2.0)
+|   |   |   |   |   |   angle > -166
+|   |   |   |   |   |   |   light <= 7.35
+|   |   |   |   |   |   |   |   angle <= -145: Cooking (28.0)
+|   |   |   |   |   |   |   |   angle > -145: Washingdishes (3.0/1.0)
+|   |   |   |   |   |   |   light > 7.35: Washingdishes (3.0)
+|   |   |   |   |   hour > 12
+|   |   |   |   |   |   hour <= 14: Lunch (7.0/1.0)
+|   |   |   |   |   |   hour > 14: Dinner (4.0/1.0)
+|   |   |   |   light > 16
+|   |   |   |   |   yAcce <= 2
+|   |   |   |   |   |   hour <= 14
+|   |   |   |   |   |   |   angle <= -171
+|   |   |   |   |   |   |   |   hour <= 11: Lunch (8.0)
+|   |   |   |   |   |   |   |   hour > 11: Washingdishes (3.0)
+|   |   |   |   |   |   |   angle > -171: Lunch (111.0/2.0)
+|   |   |   |   |   |   hour > 14: Dinner (3.0)
+|   |   |   |   |   yAcce > 2: LivingRoom (2.0)
+|   |   |   angle > -140
+|   |   |   |   yAcce <= 4
+|   |   |   |   |   hour <= 12
+|   |   |   |   |   |   hour <= 9
+|   |   |   |   |   |   |   angle <= 93: Cooking (11.0/1.0)
+|   |   |   |   |   |   |   angle > 93: Washingdishes (10.0/1.0)
+|   |   |   |   |   |   hour > 9
+|   |   |   |   |   |   |   light <= 30.19
+|   |   |   |   |   |   |   |   hour <= 11
+|   |   |   |   |   |   |   |   |   angle <= -80: Cooking (55.0/1.0)
+|   |   |   |   |   |   |   |   |   angle > -80
+|   |   |   |   |   |   |   |   |   |   hour <= 10: Cooking (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   hour > 10
+|   |   |   |   |   |   |   |   |   |   |   xAcce <= -1: Cooking (3.0)
+|   |   |   |   |   |   |   |   |   |   |   xAcce > -1
+|   |   |   |   |   |   |   |   |   |   |   |   light <= 3: Cooking (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   light > 3: Washingdishes (7.0/1.0)
+|   |   |   |   |   |   |   |   hour > 11
+|   |   |   |   |   |   |   |   |   angle <= 54: Washingdishes (14.0/5.0)
+|   |   |   |   |   |   |   |   |   angle > 54: Cooking (3.0)
+|   |   |   |   |   |   |   light > 30.19
+|   |   |   |   |   |   |   |   light <= 44.34
+|   |   |   |   |   |   |   |   |   hour <= 11
+|   |   |   |   |   |   |   |   |   |   hour <= 10: Cooking (2.0)
+|   |   |   |   |   |   |   |   |   |   hour > 10: Chop (8.0/2.0)
+|   |   |   |   |   |   |   |   |   hour > 11: Washingdishes (5.0/1.0)
+|   |   |   |   |   |   |   |   light > 44.34: Cooking (10.0/1.0)
+|   |   |   |   |   hour > 12
+|   |   |   |   |   |   xAcce <= -1
+|   |   |   |   |   |   |   light <= 55: Cooking (23.0/2.0)
+|   |   |   |   |   |   |   light > 55: Chop (3.0/1.0)
+|   |   |   |   |   |   xAcce > -1
+|   |   |   |   |   |   |   angle <= -76
+|   |   |   |   |   |   |   |   xAcce <= 0
+|   |   |   |   |   |   |   |   |   hour <= 14
+|   |   |   |   |   |   |   |   |   |   hour <= 13
+|   |   |   |   |   |   |   |   |   |   |   light <= 4: Lunch (10.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   light > 4: Washingdishes (2.0)
+|   |   |   |   |   |   |   |   |   |   hour > 13
+|   |   |   |   |   |   |   |   |   |   |   angle <= -83: Cooking (2.0)
+|   |   |   |   |   |   |   |   |   |   |   angle > -83: Lunch (9.0)
+|   |   |   |   |   |   |   |   |   hour > 14: Washingdishes (3.0)
+|   |   |   |   |   |   |   |   xAcce > 0: Washingdishes (4.0)
+|   |   |   |   |   |   |   angle > -76
+|   |   |   |   |   |   |   |   angle <= 62: Washingdishes (13.0/2.0)
+|   |   |   |   |   |   |   |   angle > 62: Cooking (13.0/1.0)
+|   |   |   |   yAcce > 4: LivingRoom (3.0)
+|   |   angle > 136
+|   |   |   light <= 71: Lunch (364.0/8.0)
+|   |   |   light > 71: Dinner (5.0/1.0)
+hour > 15
+|   hour <= 22
+|   |   angle <= 132
+|   |   |   angle <= -162
+|   |   |   |   xAcce <= -1: Washingdishes (4.0)
+|   |   |   |   xAcce > -1
+|   |   |   |   |   hour <= 17
+|   |   |   |   |   |   light <= 46
+|   |   |   |   |   |   |   angle <= -171: Cooking (6.0)
+|   |   |   |   |   |   |   angle > -171: Washingdishes (3.0/1.0)
+|   |   |   |   |   |   light > 46: Dinner (7.0)
+|   |   |   |   |   hour > 17
+|   |   |   |   |   |   hour <= 19: Dinner (38.0)
+|   |   |   |   |   |   hour > 19
+|   |   |   |   |   |   |   angle <= -177: Dinner (15.0)
+|   |   |   |   |   |   |   angle > -177: Cooking (6.0/2.0)
+|   |   |   angle > -162
+|   |   |   |   light <= 5.72
+|   |   |   |   |   hour <= 17
+|   |   |   |   |   |   light <= 0: Washingdishes (2.0)
+|   |   |   |   |   |   light > 0: Cooking (4.0)
+|   |   |   |   |   hour > 17
+|   |   |   |   |   |   angle <= -125: Chop (2.0/1.0)
+|   |   |   |   |   |   angle > -125: Dinner (39.0/4.0)
+|   |   |   |   light > 5.72
+|   |   |   |   |   xAcce <= -1
+|   |   |   |   |   |   angle <= -20: Washingdishes (17.0/1.0)
+|   |   |   |   |   |   angle > -20
+|   |   |   |   |   |   |   angle <= 30: Chop (4.0)
+|   |   |   |   |   |   |   angle > 30: Washingdishes (4.0)
+|   |   |   |   |   xAcce > -1
+|   |   |   |   |   |   angle <= 38
+|   |   |   |   |   |   |   angle <= -107
+|   |   |   |   |   |   |   |   hour <= 18
+|   |   |   |   |   |   |   |   |   angle <= -145: Dinner (6.0/1.0)
+|   |   |   |   |   |   |   |   |   angle > -145: Washingdishes (7.0/2.0)
+|   |   |   |   |   |   |   |   hour > 18
+|   |   |   |   |   |   |   |   |   xAcce <= 0
+|   |   |   |   |   |   |   |   |   |   angle <= -114
+|   |   |   |   |   |   |   |   |   |   |   hour <= 21
+|   |   |   |   |   |   |   |   |   |   |   |   angle <= -125
+|   |   |   |   |   |   |   |   |   |   |   |   |   light <= 32.27
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   angle <= -138
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   light <= 11.75: Washingdishes (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   light > 11.75: Cooking (16.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   angle > -138: Washingdishes (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   light > 32.27
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   light <= 42.34
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   hour <= 20: Washingdishes (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   hour > 20
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   angle <= -148: Washingdishes (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   angle > -148
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   light <= 39: Chop (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   light > 39: Washingdishes (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   light > 42.34: Cooking (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   angle > -125: Cooking (17.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   hour > 21: Cooking (11.0)
+|   |   |   |   |   |   |   |   |   |   angle > -114: Washingdishes (5.0)
+|   |   |   |   |   |   |   |   |   xAcce > 0: Cooking (16.0)
+|   |   |   |   |   |   |   angle > -107
+|   |   |   |   |   |   |   |   hour <= 19
+|   |   |   |   |   |   |   |   |   light <= 15.91
+|   |   |   |   |   |   |   |   |   |   light <= 9.47: Dinner (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   light > 9.47: Washingdishes (6.0/1.0)
+|   |   |   |   |   |   |   |   |   light > 15.91
+|   |   |   |   |   |   |   |   |   |   light <= 33.45
+|   |   |   |   |   |   |   |   |   |   |   light <= 28.63
+|   |   |   |   |   |   |   |   |   |   |   |   hour <= 18: Washingdishes (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   hour > 18: Cooking (3.0)
+|   |   |   |   |   |   |   |   |   |   |   light > 28.63: Cooking (17.0)
+|   |   |   |   |   |   |   |   |   |   light > 33.45: Washingdishes (6.0)
+|   |   |   |   |   |   |   |   hour > 19: Washingdishes (42.0/3.0)
+|   |   |   |   |   |   angle > 38
+|   |   |   |   |   |   |   angle <= 123
+|   |   |   |   |   |   |   |   yAcce <= 0: Cooking (79.0/4.0)
+|   |   |   |   |   |   |   |   yAcce > 0: Washingdishes (4.0)
+|   |   |   |   |   |   |   angle > 123: Dinner (3.0)
+|   |   angle > 132
+|   |   |   light <= 63.32: Dinner (323.0/6.0)
+|   |   |   light > 63.32
+|   |   |   |   angle <= 153: Dinner (7.0/1.0)
+|   |   |   |   angle > 153
+|   |   |   |   |   angle <= 163
+|   |   |   |   |   |   light <= 64.06
+|   |   |   |   |   |   |   angle <= 158: Dinner (2.0)
+|   |   |   |   |   |   |   angle > 158: Cooking (4.0/1.0)
+|   |   |   |   |   |   light > 64.06: Cooking (10.0)
+|   |   |   |   |   angle > 163: Dinner (3.0)
+|   hour > 22
+|   |   yAcce <= -1: Cooking (22.0)
+|   |   yAcce > -1
+|   |   |   xAcce <= -1: Cooking (22.0/2.0)
+|   |   |   xAcce > -1
+|   |   |   |   light <= 71
+|   |   |   |   |   light <= 39.72
+|   |   |   |   |   |   angle <= 109
+|   |   |   |   |   |   |   angle <= -129
+|   |   |   |   |   |   |   |   angle <= -146: Midnightsnack (3.0)
+|   |   |   |   |   |   |   |   angle > -146: Cooking (14.0)
+|   |   |   |   |   |   |   angle > -129
+|   |   |   |   |   |   |   |   light <= 19
+|   |   |   |   |   |   |   |   |   light <= 14.11: Washingdishes (3.0)
+|   |   |   |   |   |   |   |   |   light > 14.11: Dinner (8.0)
+|   |   |   |   |   |   |   |   light > 19: Washingdishes (8.0/1.0)
+|   |   |   |   |   |   angle > 109
+|   |   |   |   |   |   |   light <= 36.28: Midnightsnack (25.0/1.0)
+|   |   |   |   |   |   |   light > 36.28
+|   |   |   |   |   |   |   |   angle <= 132: Midnightsnack (3.0/1.0)
+|   |   |   |   |   |   |   |   angle > 132: Dinner (7.0)
+|   |   |   |   |   light > 39.72
+|   |   |   |   |   |   angle <= 132: Midnightsnack (87.0)
+|   |   |   |   |   |   angle > 132
+|   |   |   |   |   |   |   light <= 56: Dinner (2.0)
+|   |   |   |   |   |   |   light > 56: Midnightsnack (6.0)
+|   |   |   |   light > 71: Dinner (22.0)
+
+Number of Leaves  : 	111
+
+Size of the tree : 	221
+
+
+Time taken to build model: 0.14 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correctly Classified Instances        1977               96.0641 %
+Incorrectly Classified Instances        81                3.9359 %
+Kappa statistic                          0.9503
+Mean absolute error                      0.017 
+Root mean squared error                  0.0923
+Relative absolute error                  8.5866 %
+Root relative squared error             29.3088 %
+Total Number of Instances             2058     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          1         1         1          1        Breakfast
+                 0.625     0.003      0.741     0.625     0.678      0.992    Chop
+                 0.953     0.014      0.958     0.953     0.955      0.993    Cooking
+                 0.996     0.01       0.97      0.996     0.983      0.998    Dinner
+                 1         0          1         1         1          1        LivingRoom
+                 0.996     0.008      0.977     0.996     0.986      0.997    Lunch
+                 0.993     0.002      0.989     0.993     0.991      1        Midnightsnack
+                 0.828     0.013      0.891     0.828     0.858      0.974    Washingdishes
+Weighted Avg.    0.961     0.009      0.959     0.961     0.96       0.994
+
+=== Confusion Matrix ===
+
+   a    d   e   f   g      b   c   h   <-- classified as
+  15    0   0   0   0      0   0   0 |   a = Breakfast
+   0  489   0   0   0      0   2   0 |   d = Dinner
+   0    0  11   0   0      0   0   0 |   e = LivingRoom
+   0    1   0 499   0      0   0   1 |   f = Lunch
+   0    0   0   0 273      0   1   1 |   g = Midnightsnack
+                                 
+   0    0   0   1   0     20   0  11 |   b = Chop
+   0    7   0   1   2      4 482  10 |   c = Cooking
+   0    7   0  10   1      3  18 188 |   h = Washingdishes
+
+1-(2+1+1+1+1+7+1+2+7+10+1)/2058 = 98.35
