@@ -12,13 +12,16 @@ options = {"py2exe":
              "includes":includes,
              "bundle_files": 1
             }}
+
+includefiles = ['apt.gif']
+
 setup(
     options=options,
     zipfile=None,
-    console=[{"script": "test.py", "icon_resources": [(1, "16.ico")]}],
+    #console=[{"script": "stepMotionDrawing.py", "icon_resources": [(1, "16.ico")]}],
     windows=[{"script": "test.py", "icon_resources": [(1, "16.ico")]}],
     #windows=['test.py'],
-    version = "2016.5.5",
+    version = "2016.7.5",
     description = "this is a py2exe test",
     name = "stepMotionDrawing",
 )

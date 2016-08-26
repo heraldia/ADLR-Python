@@ -1,0 +1,28 @@
+
+   b   c   d   e     g   h   r   f    i   l   m   n    j   k   o    q    s    a  p  t   u   <-- classified as
+ 331   2   0   0     3   4   0   0    0   0   0   0    0   0   5    0   60    0  0  0   0 |   b = Bathroombowel
+   1 150   0  62     0  26  11   0    9   0   0   0    0   1   0    2   11    0  0  0   0 |   c = Bathroomfaucet
+   3  14   0   5     0   1   1   0    0   0   0   0    0   0   0    0    0    0  0  0   0 |   d = Bathroomflushing
+   0  66   1  91     0  13  10   0   17   0   1   3    0   0   1    0    4    0  1  0   0 |   e = Bathroompee
+                                                                                
+   0   0   0   0     6  13   9   0    0   0   3   0    0   0   0    0    1    0  0  0   0 |   g = Chop
+   7   5   0   1     0 353  11   0   27   0  33  12    1   0   0    2   53    0  0  0   1 |   h = Cooking
+   6  10   0   2     2  79  63   0   16   0  15   1    1   0   3    1   28    0  0  0   0 |   r = Washingdishes
+                                                                                
+   0   0   0   0     0   0   0  15    0   0   0   0    0   0   0    0    0    0  0  0   0 |   f = Breakfast
+   0  13   0   0     0  27   0   0  437   0   0   8    1   0   0    3    2    0  0  0   0 |   i = Dinner
+   0   0   0   0     0   1   2   0    0   4   2   0    0   2   0    0    0    0  0  0   0 |   l = LivingRoom
+   1   0   0   9     0   0   0   0    9   0 478   0    0   0   0    0    4    0  0  0   0 |   m = Lunch
+   0   0   0   3     0   5   0   0    2   0   0 251    0   0   0    8    6    0  0  0   0 |   n = Midnightsnack
+                                                                                
+   0   0   0   0     0   0   7   0    0   0   0   0   47   0   0    0    3    0  0  0   0 |   j = Dinnerbedroom
+   2   0   0   0     0   2   0   0    0   2   0   0    0  12   0    1   12    0  0  0   0 |   k = Gettingup
+  10   2   0   0     0   0   3   0    4   0   0   0    0   0  17    0    5    0  0  0   0 |   o = Nap
+   0   1   0   0     0   0   0   0    2   0   0   6    0   0   0  107    6    0  0  0   0 |   q = Sleep
+  78  25   0   0     0  29   9   0   17   0   5   0    2   5   1    8  827    4  0  0   0 |   s = WorkingonPCathome
+                                                                                
+   0   0   0   0     0   0   0   0    0   0   0   0    0   0   0    0    1  102  0  0   0 |   a = Amespubliclibrary
+   0   0   0   0     0   0   0   0    0   0   0   0    0   0   0    0    1    0 10  0   0 |   p = PCoffice
+   0   0   0   0     0   0   0   0    0   0   0   0    0   0   0    0    3    0  0 36   0 |   t = gilman1353
+   0   0   0   0     0   0   0   0    0   0   1   0    0   0   0    0    0    0  0  0   5 |   u = rs
+

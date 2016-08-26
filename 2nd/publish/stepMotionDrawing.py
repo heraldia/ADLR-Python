@@ -70,9 +70,13 @@ def colorChange(actual_light_level, max_light):
     elif x == 0:
         x3=x2=x1 = 0.1
 
+    if x1 < 0 : x1 = 0
+    if x2 < 0 : x2 = 0
+    if x3 < 0 : x3 = 0
+
 
     res_light_color = (x1, x2, x3)
-    print res_light_color
+    #print res_light_color
     return res_light_color
 
 
@@ -184,8 +188,9 @@ def drawMotionFromASfile(filename,startPoint,step,speed=1,delay=10,ending = 7):
         elif step_list[i] == step_list [i-1]:
             radi = radi + 1
 
-    turtle.up()
     #turtle.goto(-150,-120)
+    turtle.goto(startPoint[0],startPoint[1])
+    turtle.up()
     turtle.color("purple")
     turtle.write("Done")
     time.sleep(ending)
@@ -236,7 +241,7 @@ def drawMotionFromLightRecordData(filename,startPoint,step,speed=1,delay=10,endi
         turtle.right(j)
         turtle.delay(delay)
         tup = colorChange(light_list[i],max(light_list))
-        turtle.color(tup)
+        turtle.color(tup,'red')
         if step_list[i] > step_list [i-1]:
             turtle.dot(radi/20, "blue")
             turtle.dot(10)
@@ -246,8 +251,15 @@ def drawMotionFromLightRecordData(filename,startPoint,step,speed=1,delay=10,endi
         elif step_list[i] == step_list [i-1]:
             radi = radi + 1
 
+    _x,_y = turtle.pos()[0:2]
+    turtle.goto((_x+startPoint[0])*0.66,(_y+startPoint[1])*0.66)
+    time.sleep(2)
+    turtle.goto((_x+startPoint[0])*0.33,(_y+startPoint[1])*0.33)
+    time.sleep(2)
+    turtle.goto(startPoint[0],startPoint[1])
     turtle.up()
     #turtle.goto(-150,-120)
+    time.sleep(2)
     turtle.color("purple")
     turtle.write("Done")
     time.sleep(ending)
@@ -304,9 +316,10 @@ def testCase(case=0):
         step = 30
         drawMotionFromASfile(filename,startPoint,step,1,0.53,10)
     if case == 10 :
+        #filename = r'd:\class\Semester5\research\ADLRecorder\code\AdlDemo\losHtml\step.log'
         filename = r'step.log'
         startPoint = (100,110)
-        step = 30
+        step = 8
         drawMotionFromLightRecordData(filename,startPoint,step,1,0.53,1)
 
 
