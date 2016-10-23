@@ -1,5 +1,5 @@
 # Project
-2nd     2016-02-02 10:31:24     analyze Sue's data.
+stepMotionDrawing     2016-02-02 10:31:24     analyze Sue's data.
     asr html5
     publish html5
 

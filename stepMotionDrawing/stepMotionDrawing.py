@@ -85,7 +85,8 @@ def drawMotion(filename,startPoint,step,speed=1,delay=10):
     turtle.color("purple",'yellow')
     turtle.pensize(3)
     turtle.goto(startPoint[0],startPoint[1])
-    time.sleep(11)
+    turtle.write("S")
+    time.sleep(8)
     turtle.speed(speed)
     turtle.turtlesize(4)
     turtle.screensize(1300,1400)
@@ -96,7 +97,7 @@ def drawMotion(filename,startPoint,step,speed=1,delay=10):
     step_list = []
     turtle.title(filename)
     for line in open(filename):
-        if line[0] in ['O','L','S'] and line[1] == ':':
+        if line[0] in ['O','L','S']: #and line[1] == ':':
             motion_squence_list.append(line[0])
             s_list = line.split(',')
             if line[0] == 'O':
@@ -109,6 +110,7 @@ def drawMotion(filename,startPoint,step,speed=1,delay=10):
     x = np.array(orientation_list)
     y = np.diff(x)
     #print y
+    print motion_squence_list
     orientation_list_diff = y.tolist()
 
     turtle.right(orientation_list[0]-180)
@@ -133,12 +135,11 @@ def drawMotion(filename,startPoint,step,speed=1,delay=10):
         else:
             pass
 
-
     turtle.up()
     #turtle.goto(-150,-120)
     turtle.color("red")
     turtle.write("Done")
-    time.sleep(3)
+    time.sleep(4)
 
 def drawMotionFromASfile(filename,startPoint,step,speed=1,delay=10,ending = 7):
     turtle.bgpic("apt.gif")
@@ -271,10 +272,12 @@ def testCase(case=0):
         step = 50
         drawMotion(filename,startPoint,step,1,5)
     if case == 1 :
-        filename = r'c:/Users/Yunfei/Downloads/received/Phil_20160402_135327_motion.csv'
-        startPoint = (300,-100)
-        step = 5
+        #filename = r"D:\class\Semester5\research\ADLRecorder\code\Android\NexusSensors\DbRecords\AS\received\Phil\motion\Phil_20160402_135327_motion.csv"
+        filename = r'D:\class\Semester5\research\ADLRecorder\code\Android\NexusSensors\DbRecords\AS\smh\philNexus\motion\PhilNexus_20161004_085514_motion.csv'
+        startPoint = (0,0)
+        step = 50
         drawMotion(filename,startPoint,step)
+
     if case == 2 :
         filename = r'allIn1.csv'
         startPoint = (300,-100)
@@ -336,7 +339,7 @@ def generateJsonFile(interval = 10, filename = "Phil_20160402_015844.csv" ):
 if __name__ == '__main__':
     #testCase(0)
     #testCase(7)
-    testCase(10)
+    testCase(1)
 
     #generateJsonFile(10)
     '''
