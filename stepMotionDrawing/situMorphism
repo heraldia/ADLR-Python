@@ -1,0 +1,6 @@
+
+    if case == 2 :
+        filename = r'allIn1.csv'
+        startPoint = (-150,135)
+        step = 34
+        drawMotion(filename,startPoint,step,100,10/5, 180)

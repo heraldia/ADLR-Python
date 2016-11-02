@@ -63,7 +63,7 @@ git{{{1
 
 !git add *.tex
 !git add -A
-!git commit -m "add folder sdl"
+!git commit -m "stepMotionDrawing/stepMotionDrawing.py"
 !git push -u origin master
 !git status
 !git log

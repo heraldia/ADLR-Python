@@ -5,6 +5,7 @@ import math
 import threading
 import thread
 import pdb
+from __drawTrajactory import saveImg
 
 
 '''
@@ -51,11 +52,11 @@ def colorChange2(actual_light_level, max_light):
 
 def colorChange(actual_light_level, max_light):
     x = 1000 *float( actual_light_level/ max_light)
-    x1 =x2 = x3 = 0
+    x1 = x2 = x3 = 0
 
     if x >= 100:
         x3 = math.log(x) / 9
-        x2 = 1
+        x2 = 0.5
         x1 = 1
         if x3>1: x3 = 1
     elif x < 100 and x >= 10:
@@ -79,17 +80,18 @@ def colorChange(actual_light_level, max_light):
     #print res_light_color
     return res_light_color
 
-
-def drawMotion(filename,startPoint,step,speed=1,delay=10):
-    turtle.bgpic("apt1.gif")
+def drawMotion(filename,startPoint,step,speed=1,delay=0,angle = 180):
+    turtle.bgpic("apt.gif")
     turtle.color("purple",'yellow')
     turtle.pensize(3)
+    turtle.up()
     turtle.goto(startPoint[0],startPoint[1])
+    turtle.down()
     turtle.write("S")
-    time.sleep(8)
+    #time.sleep(3)
     turtle.speed(speed)
     turtle.turtlesize(4)
-    turtle.screensize(1300,1400)
+    turtle.screensize(2000,2000)
     turtle.delay(delay)
     motion_squence_list = []
     orientation_list = []
@@ -110,36 +112,42 @@ def drawMotion(filename,startPoint,step,speed=1,delay=10):
     x = np.array(orientation_list)
     y = np.diff(x)
     #print y
-    print motion_squence_list
     orientation_list_diff = y.tolist()
 
-    turtle.right(orientation_list[0]-180)
+    turtle.right(orientation_list[0] - angle)
     turtle.forward(step)
 
     light_list_iter = 0
     pre_i = 0
-    for i, j in enumerate(orientation_list_diff):
-        turtle.right(j)
-
-        if motion_squence_list[i] == 'L':
+    i = 0
+    i_orientation = 0
+    for ele in motion_squence_list:
+        if ele == 'O':
+            try:
+                turtle.right(orientation_list_diff[i_orientation])
+            except:
+                pass
+            i_orientation += 1
+        elif ele == 'L':
             #turtle.color(light_list[light_list_iter])
             #turtle.color("#285078")
             tup = colorChange(light_list[light_list_iter],max(light_list))
             turtle.color(tup)
             light_list_iter = light_list_iter + 1
-        elif motion_squence_list[i] == 'S':
+        elif ele == 'S':
             turtle.dot(10,'blue')
-            turtle.dot((i-pre_i)/2,'red')
+            turtle.dot((i-pre_i)/9,'red')
             turtle.forward(step)
             pre_i = i
         else:
             pass
+        i += 1
 
     turtle.up()
     #turtle.goto(-150,-120)
     turtle.color("red")
     turtle.write("Done")
-    time.sleep(4)
+    #time.sleep(6)
 
 def drawMotionFromASfile(filename,startPoint,step,speed=1,delay=10,ending = 7):
     turtle.bgpic("apt.gif")
@@ -149,7 +157,7 @@ def drawMotionFromASfile(filename,startPoint,step,speed=1,delay=10,ending = 7):
     time.sleep(3)
     turtle.speed(speed)
     turtle.turtlesize(4)
-    turtle.screensize(1500,1700)
+    turtle.screensize(1500,2200)
     turtle.delay(delay)
     orientation_list = []
     light_list = []
@@ -195,7 +203,6 @@ def drawMotionFromASfile(filename,startPoint,step,speed=1,delay=10,ending = 7):
     turtle.color("purple")
     turtle.write("Done")
     time.sleep(ending)
-
 
 def drawMotionFromLightRecordData(filename,startPoint,step,speed=1,delay=10,ending = 7):
     turtle.bgpic("apt.gif")
@@ -274,15 +281,15 @@ def testCase(case=0):
     if case == 1 :
         #filename = r"D:\class\Semester5\research\ADLRecorder\code\Android\NexusSensors\DbRecords\AS\received\Phil\motion\Phil_20160402_135327_motion.csv"
         filename = r'D:\class\Semester5\research\ADLRecorder\code\Android\NexusSensors\DbRecords\AS\smh\philNexus\motion\PhilNexus_20161004_085514_motion.csv'
-        startPoint = (0,0)
-        step = 50
+        startPoint = (-142,-120)
+        step = 15
         drawMotion(filename,startPoint,step)
 
     if case == 2 :
-        filename = r'allIn1.csv'
-        startPoint = (300,-100)
-        step = 5
-        drawMotion(filename,startPoint,step,1,0)
+        filename = r'allIn8.csv'
+        step = 34
+        drawMotion(filename, (200,-180) ,step, 100, 10/10, 170)
+
     if case == 3 :
         filename = r'allIn2.csv'
         startPoint = (0,-270)
@@ -292,7 +299,7 @@ def testCase(case=0):
         filename = r'allIn3.csv'
         startPoint = (0,-270)
         step = 5
-        drawMotion(filename,startPoint,step,1,0)
+        drawMotion(filename,startPoint,step,1,6)
     if case == 5 :
         filename = r'allIn4.csv'
         startPoint = (0,-270)
@@ -334,41 +341,12 @@ def generateJsonFile(interval = 10, filename = "Phil_20160402_015844.csv" ):
         f_json.write(line)
         f_json.close()
         time.sleep(1.0 * interval / 100)
+
 '''
 
 if __name__ == '__main__':
     #testCase(0)
     #testCase(7)
     testCase(1)
-
-    #generateJsonFile(10)
-    '''
-    thread.Thread(testCase, (0,))
-    thread.start_new_thread(generateJsonFile, (10,))
-    threads = []
-    t1 = threading.Thread(target=testCase,args=(0,))
-    threads.append(t1)
-    t2 = threading.Thread(target=generateJsonFile,args=(10,))
-    threads.append(t2)
-    for t in threads:
-        t.setDaemon(True)
-        t.start()
-    '''
-
-
-    ''' trash
-    if line[0] == 'L' and line[1] == '-':
-        light_list_str = line.split(',')[1:-1]
-        for e in light_list_str:
-            light_list.append(float(e))
-
-    if line[0] == 'S' and line[1] == '-':
-        step_list = line.split(',')[1:-1]
-    if line[0] == 'O' and line[1] == '-':
-        orientation_list_str = line.split(',')[1:-1]
-        for e in orientation_list_str:
-                orientation_list.append(float(e))
-    '''
-
-
+    saveImg("a")
 
